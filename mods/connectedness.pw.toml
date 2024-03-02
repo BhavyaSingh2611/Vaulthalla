@@ -1,0 +1,13 @@
+name = "Connectedness"
+filename = "connectedness-1.18.2-2.0.1a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5126d23155f611a7926480c247976e5c230039d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4506240
+project-id = 853916

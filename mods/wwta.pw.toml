@@ -1,0 +1,18 @@
+name = "When Was That Again"
+filename = "wwta-1.18-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c3b4c2238ca9fd25fe5f23cc740ddb1028e3fa0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3543419
+project-id = 397184
+
+[option]
+optional = true
+description = "Adds timestamps to chat"
+default = true

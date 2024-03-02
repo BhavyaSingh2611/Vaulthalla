@@ -1,0 +1,19 @@
+{
+	"x": 2,
+	"y": 48,
+	"width": 98,
+	"height": 20,
+	"langKey": "packmenu.vhgg",
+	"action": "OPEN_URL",
+	"data": "https://vaulthunters.gg",
+	"texture": "packmenu:textures/gui/widgets.png",
+	"u": 66,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 20,
+	"texWidth": 150,
+	"texHeight": 40,
+	"fontColor": 0,
+	"hoverFontColor": 0,
+	"dropShadow": false
+}

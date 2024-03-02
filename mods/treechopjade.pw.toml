@@ -1,0 +1,13 @@
+name = "HT's TreeChop - Jade Plugin"
+filename = "TreeChop-Jade-1.18.2-forge-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19eb4088aa2ad9a36b1d905fbf35908c6e1820ed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4376459
+project-id = 687674

@@ -1,0 +1,19 @@
+{
+	"x": -100,
+	"y": 0,
+	"width": 200,
+	"height": 20,
+	"langKey": "menu.singleplayer",
+	"action": "OPEN_GUI",
+	"data": "SINGLEPLAYER",
+	"texture": "packmenu:textures/gui/widgets.png",
+	"u": 66,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 20,
+	"texWidth": 150,
+	"texHeight": 40,
+	"fontColor": 0,
+	"hoverFontColor": 0,
+	"dropShadow": false
+}

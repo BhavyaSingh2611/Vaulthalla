@@ -1,0 +1,19 @@
+{
+	"x": -100,
+	"y": 48,
+	"width": 98,
+	"height": 20,
+	"langKey": "packmenu.mods",
+	"action": "OPEN_GUI",
+	"data": "MODS",
+	"texture": "packmenu:textures/gui/widgets.png",
+	"u": 66,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 20,
+	"texWidth": 150,
+	"texHeight": 40,
+	"fontColor": 0,
+	"hoverFontColor": 0,
+	"dropShadow": false
+}

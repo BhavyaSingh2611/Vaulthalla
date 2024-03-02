@@ -1,0 +1,18 @@
+name = "Iris & Oculus Flywheel Compat"
+filename = "oculus-flywheel-compat-1.18.2-0.1.8-BETA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d73dad2dc41fe54351aed76939b170d8be590bea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4159833
+project-id = 659897
+
+[option]
+optional = true
+default = true
+description = "Only enable if using Oculus. Fixes some graphical issues between Oculus and Flywheel (Create's rendering mod)"

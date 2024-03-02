@@ -1,0 +1,13 @@
+name = "Vaulthalla"
+author = "AlitaTeal"
+version = "3.10.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c9ec473f2e046772d62900bd068a70e68a0901e45da6be7e90d62c87bf70d746"
+
+[versions]
+forge = "40.2.1"
+minecraft = "1.18.2"

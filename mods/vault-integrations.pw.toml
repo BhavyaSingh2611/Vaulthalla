@@ -1,0 +1,13 @@
+name = "Vault Integrations"
+filename = "vaultintegrations-1.18.2-1.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4613850dbb43ca025c65824b49ccee95785ee91e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4570137
+project-id = 867003

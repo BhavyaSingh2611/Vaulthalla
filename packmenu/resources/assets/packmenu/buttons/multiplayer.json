@@ -1,0 +1,19 @@
+{
+	"x": -100,
+	"y": 24,
+	"width": 200,
+	"height": 20,
+	"langKey": "menu.multiplayer",
+	"action": "OPEN_GUI",
+	"data": "MULTIPLAYER",
+	"texture": "packmenu:textures/gui/widgets.png",
+	"u": 66,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 20,
+	"texWidth": 150,
+	"texHeight": 40,
+	"fontColor": 0,
+	"hoverFontColor": 0,
+	"dropShadow": false
+}
