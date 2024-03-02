@@ -1,6 +1,11 @@
 {
   "keys": [
     {
+      "id": "the_vault:empty",
+      "name": "Plastic Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/empty.json"
+    },
+    {
       "id": "the_vault:vault/rooms/plastic_rooms",
       "name": "Plastic Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/plastic_rooms.json"
@@ -121,6 +126,36 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/flooded_rooms.json"
     },
     {
+      "id": "the_vault:vault/rooms/fairy_ring_rooms",
+      "name": "Fairy Ring Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/fairy_ring_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/poison_rooms",
+      "name": "Poison Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/poison_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/season_spring_rooms",
+      "name": "Spring Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/season_spring_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/season_summer_rooms",
+      "name": "Summer Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/season_summer_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/season_fall_rooms",
+      "name": "Fall Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/season_fall_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/season_winter_rooms",
+      "name": "Winter Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/season_winter_rooms.json"
+    },
+    {
       "id": "the_vault:vault/starts/plastic_starts",
       "name": "Plastic Starts",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/plastic_starts.json"
@@ -236,9 +271,84 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/flooded_starts.json"
     },
     {
+      "id": "the_vault:vault/starts/fairy_ring_starts",
+      "name": "Fairy Ring Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/fairy_ring_starts.json"
+    },
+    {
+      "id": "the_vault:vault/starts/poison_starts",
+      "name": "Poison Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/poison_starts.json"
+    },
+    {
+      "id": "the_vault:vault/starts/season_spring_starts",
+      "name": "Spring Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/season_spring_starts.json"
+    },
+    {
+      "id": "the_vault:vault/starts/season_summer_starts",
+      "name": "Summer Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/season_summer_starts.json"
+    },
+    {
+      "id": "the_vault:vault/starts/season_fall_starts",
+      "name": "Fall Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/season_fall_starts.json"
+    },
+    {
+      "id": "the_vault:vault/starts/wendarr_starts",
+      "name": "Wendarr Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/wendarr_starts.json"
+    },
+    {
+      "id": "the_vault:vault/starts/tenos_starts",
+      "name": "Tenos Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/tenos_starts.json"
+    },
+    {
+      "id": "the_vault:vault/starts/velara_starts",
+      "name": "Velara Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/velara_starts.json"
+    },
+    {
+      "id": "the_vault:vault/starts/idona_starts",
+      "name": "Idona Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/idona_starts.json"
+    },
+    {
+      "id": "the_vault:vault/starts/intermediary_starts",
+      "name": "Intermediary Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/intermediary_starts.json"
+    },
+    {
+      "id": "the_vault:vault/starts/season_winter_starts",
+      "name": "Winter Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/season_winter_starts.json"
+    },
+    {
       "id": "the_vault:vault/portals/portals",
       "name": "Start Portals",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/portals/portals.json"
+    },
+    {
+      "id": "the_vault:vault/portals/personal_vault_portals",
+      "name": "Personal Vault Portals",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/portals/personal_vault_portals.json"
+    },
+    {
+      "id": "the_vault:boss_dimension/boss_start_portals",
+      "name": "Boss Dimension Start Portals",
+      "1.0": "config/the_vault/gen/1.0/template_pools/boss_dimension/boss_start_portals.json"
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame_outline",
+      "name": "Boss Dimension Arena Gate Frame Outline",
+      "1.0": "config/the_vault/gen/1.0/template_pools/boss_dimension/arena_gate_frame_outline.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/tunnels",
+      "name": "Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/tunnels.json"
     },
     {
       "id": "the_vault:vault/tunnels/plastic_tunnels",
@@ -354,6 +464,36 @@
       "id": "the_vault:vault/tunnels/flooded_tunnels",
       "name": "Flooded Tunnels",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/flooded_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/fairy_ring_tunnels",
+      "name": "Fairy Ring Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/fairy_ring_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/poison_tunnels",
+      "name": "Poison Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/poison_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/season_spring_tunnels",
+      "name": "Spring Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/season_spring_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/season_summer_tunnels",
+      "name": "Summer Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/season_summer_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/season_fall_tunnels",
+      "name": "Fall Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/season_fall_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/season_winter_tunnels",
+      "name": "Winter Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/season_winter_tunnels.json"
     },
     {
       "id": "the_vault:vault/altars/altars",
@@ -1006,6 +1146,166 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/challenge/wildwest.json"
     },
     {
+      "id": "the_vault:vault/rooms/chaos/challenge_rooms",
+      "name": "Chaos Challenge Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/challenge_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/challenge/village",
+      "name": "Chaos Village",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/challenge/village.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/challenge/wildwest",
+      "name": "Chaos Wild West",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/challenge/wildwest.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/challenge/x-mark",
+      "name": "Chaos X-mark",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/challenge/x-mark.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/challenge_rooms",
+      "name": "Wendarr Challenge Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/challenge_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/challenge/crystal_caves",
+      "name": "Wendarr Crystal Caves",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/challenge/crystal_caves.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/challenge/dragon",
+      "name": "Wendarr Dragon",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/challenge/dragon.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/challenge/factory",
+      "name": "Wendarr Factory",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/challenge/factory.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/challenge/village",
+      "name": "Wendarr Village",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/challenge/village.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/challenge/wildwest",
+      "name": "Wendarr Wild West",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/challenge/wildwest.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/challenge/x-mark",
+      "name": "Wendarr X-mark",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/challenge/x-mark.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/challenge_rooms",
+      "name": "Tenos Challenge Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/challenge_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/challenge/crystal_caves",
+      "name": "Tenos Crystal Caves",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/challenge/crystal_caves.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/challenge/dragon",
+      "name": "Tenos Dragon",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/challenge/dragon.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/challenge/factory",
+      "name": "Tenos Factory",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/challenge/factory.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/challenge/village",
+      "name": "Tenos Village",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/challenge/village.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/challenge/wildwest",
+      "name": "Tenos Wild West",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/challenge/wildwest.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/challenge/x-mark",
+      "name": "Tenos X-mark",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/challenge/x-mark.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/challenge_rooms",
+      "name": "Velara Challenge Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/challenge_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/challenge/crystal_caves",
+      "name": "Velara Crystal Caves",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/challenge/crystal_caves.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/challenge/dragon",
+      "name": "Velara Dragon",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/challenge/dragon.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/challenge/factory",
+      "name": "Velara Factory",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/challenge/factory.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/challenge/village",
+      "name": "Velara Village",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/challenge/village.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/challenge/wildwest",
+      "name": "Velara Wild West",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/challenge/wildwest.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/challenge/x-mark",
+      "name": "Velara X-mark",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/challenge/x-mark.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/challenge_rooms",
+      "name": "Idona Challenge Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/challenge/crystal_caves",
+      "name": "Idona Crystal Caves",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge/crystal_caves.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/challenge/dragon",
+      "name": "Idona Dragon",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge/dragon.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/challenge/factory",
+      "name": "Idona Factory",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge/factory.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/challenge/village",
+      "name": "Idona Village",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge/village.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/challenge/wildwest",
+      "name": "Idona Wild West",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge/wildwest.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/challenge/x-mark",
+      "name": "Idona X-mark",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/challenge/x-mark.json"
+    },
+    {
       "id": "the_vault:vault/decor/dragon/center_spawner1",
       "name": "Center Spawner 1",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/dragon/center_spawner1.json"
@@ -1014,6 +1314,21 @@
       "id": "the_vault:vault/decor/dragon/corner_spawner1",
       "name": "Corner Spawner 1",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/dragon/corner_spawner1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/dragon/corner_spawner2",
+      "name": "Corner Spawner 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/dragon/corner_spawner2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/dragon/corner_spawner3",
+      "name": "Corner Spawner 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/dragon/corner_spawner3.json"
+    },
+    {
+      "id": "the_vault:vault/decor/dragon/corner_spawner4",
+      "name": "Corner Spawner 4",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/dragon/corner_spawner4.json"
     },
     {
       "id": "the_vault:vault/decor/dragon/hanging1",
@@ -1121,6 +1436,11 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/digsite.json"
     },
     {
+      "id": "the_vault:vault/rooms/omega/digsite2",
+      "name": "Dig Site",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/digsite2.json"
+    },
+    {
       "id": "the_vault:vault/rooms/omega/vendor",
       "name": "Vendor",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/vendor.json"
@@ -1144,6 +1464,206 @@
       "id": "the_vault:vault/rooms/omega_rooms",
       "name": "Omega Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/omega/cube",
+      "name": "Wendarr Cube",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/cube.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/omega/digsite2",
+      "name": "Wendarr Dig Site",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/digsite2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/omega/vendor",
+      "name": "Wendarr Vendor",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/vendor.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/omega/painting",
+      "name": "Wendarr Painting",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/painting.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/omega/mine",
+      "name": "Wendarr Mine",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/mine.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/omega/blacksmith",
+      "name": "Wendarr Blacksmith",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/blacksmith.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/omega_rooms",
+      "name": "Wendarr Omega Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/omega/mush_room",
+      "name": "Wendarr Mush Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/mush_room.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/omega/library",
+      "name": "Wendarr Library",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/library.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr/omega/cove",
+      "name": "Wendarr Cove",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr/omega/cove.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/omega/cube",
+      "name": "Tenos Cube",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega/cube.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/omega/digsite2",
+      "name": "Tenos Dig Site",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega/digsite2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/omega/vendor",
+      "name": "Tenos Vendor",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega/vendor.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/omega/painting",
+      "name": "Tenos Painting",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega/painting.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/omega/mine",
+      "name": "Tenos Mine",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega/mine.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/omega/blacksmith",
+      "name": "Tenos Blacksmith",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega/blacksmith.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/omega_rooms",
+      "name": "Tenos Omega Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/omega/mush_room",
+      "name": "Tenos Mush Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega/mush_room.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/omega/library",
+      "name": "Tenos Library",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega/library.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos/omega/cove",
+      "name": "Tenos Cove",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos/omega/cove.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/omega/cube",
+      "name": "Velara Cube",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/cube.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/omega/digsite2",
+      "name": "Velara Dig Site",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/digsite2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/omega/vendor",
+      "name": "Velara Vendor",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/vendor.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/omega/painting",
+      "name": "Velara Painting",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/painting.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/omega/mine",
+      "name": "Velara Mine",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/mine.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/omega/blacksmith",
+      "name": "Velara Blacksmith",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/blacksmith.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/omega_rooms",
+      "name": "Velara Omega Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/omega/mush_room",
+      "name": "Velara Mush Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/mush_room.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/omega/library",
+      "name": "Velara Library",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/library.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara/omega/cove",
+      "name": "Velara Cove",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara/omega/cove.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/omega/cube",
+      "name": "Idona Cube",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/cube.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/omega/digsite2",
+      "name": "Idona Dig Site",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/digsite2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/omega/vendor",
+      "name": "Idona Vendor",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/vendor.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/omega/painting",
+      "name": "Idona Painting",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/painting.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/omega/mine",
+      "name": "Idona Mine",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/mine.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/omega/blacksmith",
+      "name": "Idona Blacksmith",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/blacksmith.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/omega_rooms",
+      "name": "Idona Omega Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/omega/mush_room",
+      "name": "Idona Mush Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/mush_room.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/omega/library",
+      "name": "Idona Library",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/library.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona/omega/cove",
+      "name": "Idona Cove",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona/omega/cove.json"
     },
     {
       "id": "the_vault:vault/decor/cube/puzzle",
@@ -1171,9 +1691,44 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/vendor/fort_house1.json"
     },
     {
+      "id": "the_vault:vault/rooms/chaos/omega/vendor",
+      "name": "Chaos Vendor",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/omega/vendor.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/omega/painting",
+      "name": "Chaos Painting",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/omega/painting.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/omega/blacksmith",
+      "name": "Chaos Blacksmith",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/omega/blacksmith.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/omega_rooms",
+      "name": "Chaos Omega Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/omega_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/omega/mush_room",
+      "name": "Chaos Mush Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/omega/mush_room.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/omega/library",
+      "name": "Chaos Library",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/omega/library.json"
+    },
+    {
       "id": "the_vault:vault/treasure_rooms/treasure_rooms",
       "name": "Treasure Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/treasure_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/treasure_rooms/vendor_rooms",
+      "name": "Vendor Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/treasure_rooms/vendor_rooms.json"
     },
     {
       "id": "the_vault:arena/arena",
@@ -1269,6 +1824,36 @@
       "id": "the_vault:vault/rooms/flooded_common_rooms",
       "name": "Flooded Common Rooms",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/flooded_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/fairy_ring_common_rooms",
+      "name": "Fairy Ring Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/fairy_ring_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/poison_common_rooms",
+      "name": "Poison Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/poison_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/season_spring_common_rooms",
+      "name": "Spring Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/season_spring_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/season_summer_common_rooms",
+      "name": "Summer Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/season_summer_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/season_fall_common_rooms",
+      "name": "Fall Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/season_fall_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/season_winter_common_rooms",
+      "name": "Winter Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/season_winter_common_rooms.json"
     },
     {
       "id": "the_vault:vault/decor/x-mark/redstone_spawner",
@@ -1824,6 +2409,86 @@
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/mustard4/structure3.json"
     },
     {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure1",
+      "name": "Highlighter Lakes1 Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes1/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure2",
+      "name": "Highlighter Lakes1 Structure 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes1/structure2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure3",
+      "name": "Highlighter Lakes1 Structure 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes1/structure3.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure4",
+      "name": "Highlighter Lakes1 Structure 4",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes1/structure4.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure1",
+      "name": "Highlighter Lakes2 Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes2/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure2",
+      "name": "Highlighter Lakes2 Structure 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes2/structure2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure3",
+      "name": "Highlighter Lakes2 Structure 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes2/structure3.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure4",
+      "name": "Highlighter Lakes2 Structure 4",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes2/structure4.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure1",
+      "name": "Highlighter Lakes3 Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes3/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure2",
+      "name": "Highlighter Lakes3 Structure 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes3/structure2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure3",
+      "name": "Highlighter Lakes3 Structure 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes3/structure3.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure4",
+      "name": "Highlighter Lakes3 Structure 4",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes3/structure4.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure1",
+      "name": "Highlighter Lakes4 Structure 1",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes4/structure1.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure2",
+      "name": "Highlighter Lakes4 Structure 2",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes4/structure2.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure3",
+      "name": "Highlighter Lakes4 Structure 3",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes4/structure3.json"
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure4",
+      "name": "Highlighter Lakes4 Structure 4",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/decor/highlighter/lakes4/structure4.json"
+    },
+    {
       "id": "the_vault:vault/rooms/omega/library",
       "name": "Library",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/library.json"
@@ -2041,6 +2706,686 @@
       "id": "the_vault:vault/tunnels/sea_floor_tunnels",
       "name": "Sea Floor Tunnels",
       "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/sea_floor_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/trove",
+      "name": "Trove",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/omega/trove.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/blood_moon_common_rooms",
+      "name": "Blood Moon Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/blood_moon_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/blood_moon_rooms",
+      "name": "Blood Moon Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/blood_moon_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/starts/blood_moon_starts",
+      "name": "Blood Moon Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/blood_moon_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/blood_moon_tunnels",
+      "name": "Blood Moon Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/blood_moon_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/flesh_common_rooms",
+      "name": "Flesh Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/flesh_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/flesh_rooms",
+      "name": "Flesh Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/flesh_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/starts/flesh_starts",
+      "name": "Flesh Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/flesh_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/flesh_tunnels",
+      "name": "Flesh Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/flesh_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/wendarr_tunnels",
+      "name": "Wendarr Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/wendarr_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/tenos_tunnels",
+      "name": "Tenos Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/tenos_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/velara_tunnels",
+      "name": "Velara Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/velara_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/idona_tunnels",
+      "name": "Idona Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/idona_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/intermediary_tunnels",
+      "name": "Intermediary Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/intermediary_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr_common_rooms",
+      "name": "Wendarr Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/wendarr_rooms",
+      "name": "Wendarr Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/wendarr_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos_common_rooms",
+      "name": "Tenos Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/tenos_rooms",
+      "name": "Tenos Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/tenos_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara_common_rooms",
+      "name": "Velara Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/velara_rooms",
+      "name": "Velara Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/velara_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona_common_rooms",
+      "name": "Idona Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/idona_rooms",
+      "name": "Idona Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/idona_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/intermediary_common_rooms",
+      "name": "Intermediary Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/intermediary_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/paradox/intermediary_rooms",
+      "name": "Intermediary Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/paradox/intermediary_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_granite_common_rooms",
+      "name": "Raw Cave Granite Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_granite_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_granite_rooms_lvl0",
+      "name": "Raw Cave Granite Rooms LVL 0",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_granite_rooms_lvl0.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_granite_rooms_lvl10",
+      "name": "Raw Cave Granite Rooms LVL 10",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_granite_rooms_lvl10.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_granite_rooms_lvl20",
+      "name": "Raw Cave Granite Rooms LVL 20",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_granite_rooms_lvl20.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_granite_rooms_lvl30",
+      "name": "Raw Cave Granite Rooms LVL 30",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_granite_rooms_lvl30.json"
+    },
+    {
+      "id": "the_vault:vault/starts/raw_cave_granite_starts",
+      "name": "Raw Cave Granite Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/raw_cave_granite_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/raw_cave_granite_tunnels",
+      "name": "Raw Cave Granite Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/raw_cave_granite_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_diorite_common_rooms",
+      "name": "Raw Cave Diorite Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_diorite_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_diorite_rooms_lvl0",
+      "name": "Raw Cave Diorite Rooms LVL 0",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_diorite_rooms_lvl0.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_diorite_rooms_lvl10",
+      "name": "Raw Cave Diorite Rooms LVL 10",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_diorite_rooms_lvl10.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_diorite_rooms_lvl20",
+      "name": "Raw Cave Diorite Rooms LVL 20",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_diorite_rooms_lvl20.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_diorite_rooms_lvl30",
+      "name": "Raw Cave Diorite Rooms LVL 30",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_diorite_rooms_lvl30.json"
+    },
+    {
+      "id": "the_vault:vault/starts/raw_cave_diorite_starts",
+      "name": "Raw Cave Diorite Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/raw_cave_diorite_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/raw_cave_diorite_tunnels",
+      "name": "Raw Cave Diorite Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/raw_cave_diorite_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_andersite_common_rooms",
+      "name": "Raw Cave Andersite Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_andersite_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_andersite_rooms_lvl0",
+      "name": "Raw Cave Andersite Rooms LVL 0",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_andersite_rooms_lvl0.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_andersite_rooms_lvl10",
+      "name": "Raw Cave Andersite Rooms LVL 10",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_andersite_rooms_lvl10.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_andersite_rooms_lvl20",
+      "name": "Raw Cave Andersite Rooms LVL 20",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_andersite_rooms_lvl20.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/raw_cave_andersite_rooms_lvl30",
+      "name": "Raw Cave Andersite Rooms LVL 30",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/raw_cave_andersite_rooms_lvl30.json"
+    },
+    {
+      "id": "the_vault:vault/starts/raw_cave_andersite_starts",
+      "name": "Raw Cave Andersite Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/raw_cave_andersite_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/raw_cave_andersite_tunnels",
+      "name": "Raw Cave Andersite Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/raw_cave_andersite_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/pillager_rooms",
+      "name": "Pillager Dungeon Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/dungeon_rooms/pillager_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_rooms",
+      "name": "Spider Dungeon Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/dungeon_rooms/spider_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/skeleton_rooms",
+      "name": "Skeleton Dungeon Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/dungeon_rooms/skeleton_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/piglin_rooms",
+      "name": "Piglin Dungeon Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/dungeon_rooms/piglin_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/witch_rooms",
+      "name": "Witch Dungeon Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/dungeon_rooms/witch_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/zombie_rooms",
+      "name": "Zombie Dungeon Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/dungeon_rooms/zombie_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos_common_rooms",
+      "name": "Chaos Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos_rooms",
+      "name": "Chaos Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/starts/chaos_starts",
+      "name": "Chaos Starts",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/starts/chaos_starts.json"
+    },
+    {
+      "id": "the_vault:vault/tunnels/chaos_tunnels",
+      "name": "Chaos Tunnels",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/tunnels/chaos_tunnels.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/lush_cave_common_rooms",
+      "name": "Chaos Lush Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/lush_cave_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/cave_common_rooms",
+      "name": "Chaos Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/cave_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/living_cave_common_rooms",
+      "name": "Chaos Living Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/living_cave_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/desert_common_rooms",
+      "name": "Chaos Desert Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/desert_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/sandy_cave_common_rooms",
+      "name": "Chaos Sandy Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/sandy_cave_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/beach_common_rooms",
+      "name": "Chaos Beach Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/beach_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/ice_common_rooms",
+      "name": "Chaos Ice Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/ice_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/ice_cave_common_rooms",
+      "name": "Chaos Ice Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/ice_cave_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/mesa_common_rooms",
+      "name": "Chaos Mesa Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/mesa_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/deep_mesa_common_rooms",
+      "name": "Chaos Deep Mesa Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/deep_mesa_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/nether_crimson_common_rooms",
+      "name": "Chaos Nether Crimson Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/nether_crimson_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/nether_warped_common_rooms",
+      "name": "Chaos Nether Warped Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/nether_warped_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/void_common_rooms",
+      "name": "Chaos Void Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/void_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/mushroom_common_rooms",
+      "name": "Chaos Mushroom Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/mushroom_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/easter_pastel_common_rooms",
+      "name": "Chaos Easter Pastel Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/easter_pastel_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/easter_egg_common_rooms",
+      "name": "Chaos Easter Egg Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/easter_egg_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/shipwreck_common_rooms",
+      "name": "Chaos Shipwreck Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/shipwreck_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/flooded_common_rooms",
+      "name": "Chaos Flooded Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/flooded_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/fairy_ring_common_rooms",
+      "name": "Chaos Fairy Ring Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/fairy_ring_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/poison_common_rooms",
+      "name": "Chaos Poison Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/poison_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/cave_deepslate_common_rooms",
+      "name": "Chaos Cave Deepslate Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/cave_deepslate_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/cave_geode_common_rooms",
+      "name": "Chaos Cave Geode Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/cave_geode_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/cave_wasteland_common_rooms",
+      "name": "Chaos Cave Wasteland Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/cave_wasteland_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/raw_cave_common_rooms",
+      "name": "Chaos Raw Cave Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/raw_cave_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/end_void_common_rooms",
+      "name": "Chaos End Void Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/end_void_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/nether_blackstone_common_rooms",
+      "name": "Chaos Nether Blackstone Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/nether_blackstone_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/nether_soul_common_rooms",
+      "name": "Chaos Nether Soul Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/nether_soul_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/factory_void_common_rooms",
+      "name": "Chaos Factory Void Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/factory_void_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/festive_common_rooms",
+      "name": "Chaos Festive Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/festive_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/sweet_common_rooms",
+      "name": "Chaos Sweet Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/sweet_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/gingerbread_common_rooms",
+      "name": "Chaos Gingerbread Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/gingerbread_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/blank_common_rooms",
+      "name": "Chaos Blank Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/blank_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/white_common_rooms",
+      "name": "Chaos White Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/white_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/haunted_common_rooms",
+      "name": "Chaos Haunted Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/haunted_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/sea_floor_common_rooms",
+      "name": "Chaos Sea Floor Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/sea_floor_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/blood_moon_common_rooms",
+      "name": "Chaos Blood Moon Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/blood_moon_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/flesh_common_rooms",
+      "name": "Chaos Flesh Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/flesh_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/raw_cave_granite_common_rooms",
+      "name": "Chaos Raw Cave Granite Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/raw_cave_granite_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/raw_cave_diorite_common_rooms",
+      "name": "Chaos Raw Cave Diorite Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/raw_cave_diorite_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/raw_cave_andersite_common_rooms",
+      "name": "Chaos Raw Cave Andersite Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/raw_cave_andersite_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/plastic_rooms",
+      "name": "Chaos Plastic Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/plastic_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/season_spring_common_rooms",
+      "name": "Chaos Spring Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/season_spring_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/season_summer_common_rooms",
+      "name": "Chaos Summer Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/season_summer_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/season_fall_common_rooms",
+      "name": "Chaos Fall Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/season_fall_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/chaos/season_winter_common_rooms",
+      "name": "Chaos Winter Common Rooms",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/chaos/season_winter_common_rooms.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/bee1",
+      "name": "Bee1 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/bee1.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/bee2",
+      "name": "Bee1 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/bee2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/bee3",
+      "name": "Bee1 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/bee3.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/bee4",
+      "name": "Bee1 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/bee4.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/cliffs1",
+      "name": "Cliffs1 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/cliffs1.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/cliffs2",
+      "name": "Cliffs2 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/cliffs2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/cliffs3",
+      "name": "Cliffs3 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/cliffs3.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/cliffs4",
+      "name": "Cliffs4 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/cliffs4.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/glowstone_lakes1",
+      "name": "Glowstone Lakes1 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/glowstone_lakes1.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/glowstone_lakes2",
+      "name": "Glowstone Lakes2 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/glowstone_lakes2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/glowstone_lakes3",
+      "name": "Glowstone Lakes3 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/glowstone_lakes3.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/glowstone_lakes4",
+      "name": "Glowstone Lakes4 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/glowstone_lakes4.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/lakes1",
+      "name": "Lakes1 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/lakes1.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/lakes2",
+      "name": "Lakes2 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/lakes2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/lakes3",
+      "name": "Lakes3 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/lakes3.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/lakes4",
+      "name": "Lakes4 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/lakes4.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/mushroom_forest1",
+      "name": "Mushroom Forest1 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/mushroom_forest1.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/mushroom_forest2",
+      "name": "Mushroom Forest2 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/mushroom_forest2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/mushroom_forest3",
+      "name": "Mushroom Forest3 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/mushroom_forest3.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/mushroom_forest4",
+      "name": "Mushroom Forest4 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/mushroom_forest4.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/mustard1",
+      "name": "Mustard1 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/mustard1.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/mustard2",
+      "name": "Mustard2 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/mustard2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/mustard3",
+      "name": "Mustard3 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/mustard3.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/mustard4",
+      "name": "Mustard4 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/mustard4.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/pirate1",
+      "name": "Pirate1 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/pirate1.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/pirate2",
+      "name": "Pirate2 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/pirate2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/pirate3",
+      "name": "Pirate3 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/pirate3.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/pirate4",
+      "name": "Pirate4 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/pirate4.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/rainbow_forest1",
+      "name": "Rainbow Forest1 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/rainbow_forest1.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/rainbow_forest2",
+      "name": "Rainbow Forest2 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/rainbow_forest2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/rainbow_forest3",
+      "name": "Rainbow Forest3 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/rainbow_forest3.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/rainbow_forest4",
+      "name": "Rainbow Forest4 Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/rainbow_forest4.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/ore1",
+      "name": "Ore Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/ore1.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/ore2",
+      "name": "Ore Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/ore2.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/ore3",
+      "name": "Ore Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/ore3.json"
+    },
+    {
+      "id": "the_vault:vault/rooms/common/ore4",
+      "name": "Ore Room",
+      "1.0": "config/the_vault/gen/1.0/template_pools/vault/rooms/common/ore4.json"
     }
   ]
 }

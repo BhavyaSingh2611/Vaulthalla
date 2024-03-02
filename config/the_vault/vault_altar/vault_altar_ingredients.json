@@ -7,99 +7,15 @@
             "items": [
               {
                 "item": "minecraft:cobblestone"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 4
-            },
-            "scale": 1.0
-          },
-          "weight": 48
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:diorite"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 2
-            },
-            "scale": 1.0
-          },
-          "weight": 16
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:andesite"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 2
-            },
-            "scale": 1.0
-          },
-          "weight": 16
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:granite"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 2
-            },
-            "scale": 1.0
-          },
-          "weight": 16
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:stone"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 3
-            },
-            "scale": 1.0
-          },
-          "weight": 32
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:gravel"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 4
-            },
-            "scale": 1.0
-          },
-          "weight": 32
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:sand"
               },
               {
-                "item": "minecraft:red_sand"
+                "item": "minecraft:diorite"
+              },
+              {
+                "item": "minecraft:andesite"
+              },
+              {
+                "item": "minecraft:granite"
               }
             ],
             "amount": {
@@ -124,36 +40,6 @@
             "scale": 1.0
           },
           "weight": 32
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:oak_log"
-              },
-              {
-                "item": "minecraft:spruce_log"
-              },
-              {
-                "item": "minecraft:birch_log"
-              },
-              {
-                "item": "minecraft:jungle_log"
-              },
-              {
-                "item": "minecraft:acacia_log"
-              },
-              {
-                "item": "minecraft:dark_oak_log"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 2
-            },
-            "scale": 1.0
-          },
-          "weight": 12
         }
       ],
       "mob": [
@@ -161,7 +47,7 @@
           "value": {
             "items": [
               {
-                "item": "minecraft:string"
+                "item": "minecraft:stick"
               }
             ],
             "amount": {
@@ -171,114 +57,9 @@
             "scale": 1.0
           },
           "weight": 8
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:rotten_flesh"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 8
-            },
-            "scale": 1.0
-          },
-          "weight": 16
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:bone"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 4
-            },
-            "scale": 1.0
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:spider_eye"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 3
-            },
-            "scale": 0.8
-          },
-          "weight": 2
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:arrow"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 8
-            },
-            "scale": 1.0
-          },
-          "weight": 16
         }
       ],
       "farmable": [
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:sugar_cane"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 3
-            },
-            "scale": 1.0
-          },
-          "weight": 24
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:carrot"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 4
-            },
-            "scale": 1.0
-          },
-          "weight": 16
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:potato"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 4
-            },
-            "scale": 1.0
-          },
-          "weight": 16
-        },
         {
           "value": {
             "items": [
@@ -293,21 +74,6 @@
             "scale": 1.2
           },
           "weight": 24
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:wheat"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 2
-            },
-            "scale": 1.0
-          },
-          "weight": 8
         },
         {
           "value": {
@@ -357,42 +123,12 @@
           "value": {
             "items": [
               {
-                "item": "minecraft:pointed_dripstone"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 4
-            },
-            "scale": 1.0
-          },
-          "weight": 8
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:gold_ingot"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 4
-            },
-            "scale": 1.0
-          },
-          "weight": 16
-        },
-        {
-          "value": {
-            "items": [
-              {
                 "item": "minecraft:iron_ingot"
               }
             ],
             "amount": {
               "min": 1,
-              "max": 8
+              "max": 4
             },
             "scale": 1.0
           },
@@ -402,37 +138,7 @@
           "value": {
             "items": [
               {
-                "item": "minecraft:redstone"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 4
-            },
-            "scale": 1.0
-          },
-          "weight": 10
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:emerald"
-              }
-            ],
-            "amount": {
-              "min": 1,
-              "max": 4
-            },
-            "scale": 1.0
-          },
-          "weight": 12
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:lapis_lazuli"
+                "item": "minecraft:copper_ingot"
               }
             ],
             "amount": {
@@ -441,22 +147,7 @@
             },
             "scale": 1.0
           },
-          "weight": 16
-        },
-        {
-          "value": {
-            "items": [
-              {
-                "item": "minecraft:copper_ingot"
-              }
-            ],
-            "amount": {
-              "min": 4,
-              "max": 32
-            },
-            "scale": 1.0
-          },
-          "weight": 32
+          "weight": 24
         },
         {
           "value": {
@@ -3738,7 +3429,7 @@
         }
       ]
     },
-    "40": {
+    "50": {
       "resource": [
         {
           "value": {

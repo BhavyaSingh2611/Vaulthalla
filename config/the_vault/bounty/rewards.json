@@ -3,8 +3,8 @@
     "common": {
       "0": {
         "vaultExp": {
-          "min": 200,
-          "max": 800
+          "min": 600,
+          "max": 1200
         },
         "itemPool": {
           "pool": [
@@ -38,16 +38,6 @@
                 "maxCount": 32
               },
               "weight": 60
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:vault_ingot"
-                },
-                "minCount": 4,
-                "maxCount": 7
-              },
-              "weight": 30
             },
             {
               "value": {
@@ -234,7 +224,18 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 9
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:wand",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
             },
             {
               "value": {
@@ -305,8 +306,8 @@
       },
       "10": {
         "vaultExp": {
-          "min": 200,
-          "max": 1200
+          "min": 1000,
+          "max": 2000
         },
         "itemPool": {
           "pool": [
@@ -354,22 +355,12 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:vault_ingot"
-                },
-                "minCount": 6,
-                "maxCount": 12
-              },
-              "weight": 30
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
                 "minCount": 6,
                 "maxCount": 15
               },
-              "weight": 50
+              "weight": 70
             },
             {
               "value": {
@@ -546,7 +537,18 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 10
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:wand",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
             },
             {
               "value": {
@@ -627,8 +629,8 @@
       },
       "20": {
         "vaultExp": {
-          "min": 800,
-          "max": 3000
+          "min": 2000,
+          "max": 3600
         },
         "itemPool": {
           "pool": [
@@ -642,16 +644,6 @@
                 "maxCount": 1
               },
               "weight": 50
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:soul_flame"
-                },
-                "minCount": 1,
-                "maxCount": 1
-              },
-              "weight": 20
             },
             {
               "value": {
@@ -696,22 +688,12 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:vault_ingot"
-                },
-                "minCount": 7,
-                "maxCount": 14
-              },
-              "weight": 40
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
                 "minCount": 7,
                 "maxCount": 16
               },
-              "weight": 50
+              "weight": 80
             },
             {
               "value": {
@@ -898,7 +880,18 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 7
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:wand",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
             },
             {
               "value": {
@@ -1019,8 +1012,8 @@
       },
       "35": {
         "vaultExp": {
-          "min": 1200,
-          "max": 4500
+          "min": 2600,
+          "max": 5000
         },
         "itemPool": {
           "pool": [
@@ -1078,22 +1071,12 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:vault_ingot"
-                },
-                "minCount": 8,
-                "maxCount": 16
-              },
-              "weight": 50
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
                 "minCount": 8,
                 "maxCount": 16
               },
-              "weight": 50
+              "weight": 80
             },
             {
               "value": {
@@ -1255,7 +1238,7 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:magnet",
+                  "item": "the_vault:wand",
                   "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
                 },
                 "minCount": 1,
@@ -1266,22 +1249,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:eternal_soul"
-                },
-                "minCount": 2,
-                "maxCount": 8
-              },
-              "weight": 16
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:soul_flame"
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
                 },
                 "minCount": 1,
-                "maxCount": 3
+                "maxCount": 1
               },
-              "weight": 10
+              "weight": 5
             },
             {
               "value": {
@@ -1395,8 +1369,8 @@
       },
       "50": {
         "vaultExp": {
-          "min": 1400,
-          "max": 5000
+          "min": 3400,
+          "max": 6000
         },
         "itemPool": {
           "pool": [
@@ -1642,7 +1616,7 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:magnet",
+                  "item": "the_vault:wand",
                   "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
                 },
                 "minCount": 1,
@@ -1653,12 +1627,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:eternal_soul"
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
                 },
-                "minCount": 5,
-                "maxCount": 10
+                "minCount": 1,
+                "maxCount": 1
               },
-              "weight": 16
+              "weight": 5
             },
             {
               "value": {
@@ -1803,7 +1778,7 @@
       },
       "75": {
         "vaultExp": {
-          "min": 3600,
+          "min": 4000,
           "max": 6400
         },
         "itemPool": {
@@ -2010,6 +1985,17 @@
             {
               "value": {
                 "stack": {
+                  "item": "the_vault:wand",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
                   "item": "the_vault:magnet",
                   "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
                 },
@@ -2021,12 +2007,401 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:eternal_soul"
+                  "item": "the_vault:mystery_egg"
                 },
-                "minCount": 8,
-                "maxCount": 10
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:fundamental_focus"
+                },
+                "minCount": 1,
+                "maxCount": 2
               },
               "weight": 16
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:black_chromatic_steel_ingot"
+                },
+                "minCount": 1,
+                "maxCount": 3
+              },
+              "weight": 12
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:sweet_kiwi"
+                },
+                "minCount": 2,
+                "maxCount": 5
+              },
+              "weight": 32
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:bitter_lemon"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 1
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\",\"the_vault:random_negative\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\",\"the_vault:random_negative\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\",\"the_vault:random_negative\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:mote_clarity"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:mote_purity"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:repair_core"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 12
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:chaotic_focus"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:waxing_focus"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 1
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:waning_focus"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 1
+            }
+          ],
+          "minTotalStacks": 4,
+          "maxTotalStacks": 6
+        },
+        "discoverModels": []
+      },
+      "90": {
+        "vaultExp": {
+          "min": 8000,
+          "max": 12000
+        },
+        "itemPool": {
+          "pool": [
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:jewel",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 50
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:jewel",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 50
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:faceted_focus"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:empty_flask"
+                },
+                "minCount": 1,
+                "maxCount": 3
+              },
+              "weight": 14
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:crystal_seal_empty"
+                },
+                "minCount": 2,
+                "maxCount": 3
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_ingot"
+                },
+                "minCount": 9,
+                "maxCount": 16
+              },
+              "weight": 50
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:chromatic_steel_ingot"
+                },
+                "minCount": 8,
+                "maxCount": 16
+              },
+              "weight": 50
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_gold"
+                },
+                "minCount": 2,
+                "maxCount": 8
+              },
+              "weight": 40
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_silver"
+                },
+                "minCount": 16,
+                "maxCount": 48
+              },
+              "weight": 60
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:knowledge_star_essence"
+                },
+                "minCount": 13,
+                "maxCount": 24
+              },
+              "weight": 60
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_diamond"
+                },
+                "minCount": 10,
+                "maxCount": 14
+              },
+              "weight": 60
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:gem_echo"
+                },
+                "minCount": 1,
+                "maxCount": 3
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:helmet",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 15
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:chestplate",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 15
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:leggings",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 15
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:boots",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 15
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:sword",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:axe",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:shield",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:wand",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
             },
             {
               "value": {
@@ -2203,8 +2578,8 @@
     "rare": {
       "0": {
         "vaultExp": {
-          "min": 400,
-          "max": 1000
+          "min": 800,
+          "max": 1500
         },
         "itemPool": {
           "pool": [
@@ -2243,22 +2618,12 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:vault_ingot"
-                },
-                "minCount": 4,
-                "maxCount": 8
-              },
-              "weight": 30
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
                 "minCount": 4,
                 "maxCount": 11
               },
-              "weight": 50
+              "weight": 70
             },
             {
               "value": {
@@ -2415,7 +2780,18 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 10
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:wand",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_rare\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
             },
             {
               "value": {
@@ -2496,8 +2872,8 @@
       },
       "10": {
         "vaultExp": {
-          "min": 400,
-          "max": 1600
+          "min": 1300,
+          "max": 2600
         },
         "itemPool": {
           "pool": [
@@ -2546,22 +2922,12 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:vault_ingot"
-                },
-                "minCount": 5,
-                "maxCount": 10
-              },
-              "weight": 30
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
                 "minCount": 8,
                 "maxCount": 17
               },
-              "weight": 50
+              "weight": 70
             },
             {
               "value": {
@@ -2718,7 +3084,18 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 10
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:wand",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_rare\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
             },
             {
               "value": {
@@ -2789,8 +3166,8 @@
       },
       "20": {
         "vaultExp": {
-          "min": 1400,
-          "max": 3000
+          "min": 2400,
+          "max": 4000
         },
         "itemPool": {
           "pool": [
@@ -2819,16 +3196,6 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:soul_flame"
-                },
-                "minCount": 1,
-                "maxCount": 2
-              },
-              "weight": 20
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:empty_flask"
                 },
                 "minCount": 1,
@@ -2849,22 +3216,12 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:vault_ingot"
-                },
-                "minCount": 7,
-                "maxCount": 12
-              },
-              "weight": 40
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
                 "minCount": 8,
                 "maxCount": 18
               },
-              "weight": 50
+              "weight": 70
             },
             {
               "value": {
@@ -3031,7 +3388,18 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 7
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:wand",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_rare\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
             },
             {
               "value": {
@@ -3142,8 +3510,8 @@
       },
       "35": {
         "vaultExp": {
-          "min": 2400,
-          "max": 4500
+          "min": 3000,
+          "max": 5500
         },
         "itemPool": {
           "pool": [
@@ -3192,22 +3560,12 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:vault_ingot"
-                },
-                "minCount": 10,
-                "maxCount": 18
-              },
-              "weight": 40
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
                 "minCount": 10,
                 "maxCount": 20
               },
-              "weight": 50
+              "weight": 80
             },
             {
               "value": {
@@ -3369,7 +3727,7 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:magnet",
+                  "item": "the_vault:wand",
                   "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_rare\"}"
                 },
                 "minCount": 1,
@@ -3380,12 +3738,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:eternal_soul"
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_rare\"}"
                 },
-                "minCount": 4,
-                "maxCount": 8
+                "minCount": 1,
+                "maxCount": 1
               },
-              "weight": 16
+              "weight": 5
             },
             {
               "value": {
@@ -3530,8 +3889,8 @@
       },
       "50": {
         "vaultExp": {
-          "min": 3500,
-          "max": 5000
+          "min": 3800,
+          "max": 6400
         },
         "itemPool": {
           "pool": [
@@ -3797,7 +4156,7 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:magnet",
+                  "item": "the_vault:wand",
                   "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_rare\"}"
                 },
                 "minCount": 1,
@@ -3808,12 +4167,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:eternal_soul"
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_rare\"}"
                 },
-                "minCount": 5,
-                "maxCount": 12
+                "minCount": 1,
+                "maxCount": 1
               },
-              "weight": 16
+              "weight": 5
             },
             {
               "value": {
@@ -3968,8 +4328,8 @@
       },
       "75": {
         "vaultExp": {
-          "min": 3500,
-          "max": 5000
+          "min": 4400,
+          "max": 6969
         },
         "itemPool": {
           "pool": [
@@ -4215,7 +4575,7 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:magnet",
+                  "item": "the_vault:wand",
                   "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_rare\"}"
                 },
                 "minCount": 1,
@@ -4226,12 +4586,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:eternal_soul"
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"gear_rare\"}"
                 },
-                "minCount": 8,
-                "maxCount": 12
+                "minCount": 1,
+                "maxCount": 1
               },
-              "weight": 16
+              "weight": 5
             },
             {
               "value": {
@@ -4423,12 +4784,411 @@
           "maxTotalStacks": 6
         },
         "discoverModels": []
+      },
+      "90": {
+        "vaultExp": {
+          "min": 8600,
+          "max": 13000
+        },
+        "itemPool": {
+          "pool": [
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:jewel",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 50
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:jewel",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_normal\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 50
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:faceted_focus"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:empty_flask"
+                },
+                "minCount": 1,
+                "maxCount": 3
+              },
+              "weight": 14
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:crystal_seal_empty"
+                },
+                "minCount": 2,
+                "maxCount": 3
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_ingot"
+                },
+                "minCount": 9,
+                "maxCount": 16
+              },
+              "weight": 50
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:chromatic_steel_ingot"
+                },
+                "minCount": 8,
+                "maxCount": 16
+              },
+              "weight": 50
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_gold"
+                },
+                "minCount": 2,
+                "maxCount": 8
+              },
+              "weight": 40
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_silver"
+                },
+                "minCount": 16,
+                "maxCount": 48
+              },
+              "weight": 60
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:knowledge_star_essence"
+                },
+                "minCount": 13,
+                "maxCount": 24
+              },
+              "weight": 60
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_diamond"
+                },
+                "minCount": 10,
+                "maxCount": 14
+              },
+              "weight": 60
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:gem_echo"
+                },
+                "minCount": 1,
+                "maxCount": 3
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:helmet",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 15
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:chestplate",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 15
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:leggings",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 15
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:boots",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 15
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:sword",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:axe",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 7
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:shield",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:wand",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:mystery_egg"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:fundamental_focus"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 16
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:black_chromatic_steel_ingot"
+                },
+                "minCount": 1,
+                "maxCount": 3
+              },
+              "weight": 12
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:sweet_kiwi"
+                },
+                "minCount": 2,
+                "maxCount": 5
+              },
+              "weight": 32
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:bitter_lemon"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 1
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\",\"the_vault:random_negative\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\",\"the_vault:random_negative\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\",\"the_vault:random_negative\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\",\"the_vault:random_negative\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\",\"the_vault:random_negative\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:mote_clarity"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:mote_purity"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:repair_core"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 12
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:chaotic_focus"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 5
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:waxing_focus"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 1
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:waning_focus"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 1
+            }
+          ],
+          "minTotalStacks": 4,
+          "maxTotalStacks": 6
+        },
+        "discoverModels": []
       }
     },
     "legendary": {
       "0": {
         "vaultExp": {
-          "min": 5000,
+          "min": 7000,
           "max": 10000
         },
         "itemPool": {
@@ -4599,8 +5359,8 @@
       },
       "20": {
         "vaultExp": {
-          "min": 10000,
-          "max": 20000
+          "min": 12000,
+          "max": 25000
         },
         "itemPool": {
           "pool": [
@@ -4825,8 +5585,8 @@
       },
       "50": {
         "vaultExp": {
-          "min": 20000,
-          "max": 30000
+          "min": 25000,
+          "max": 35000
         },
         "itemPool": {
           "pool": [
@@ -5061,8 +5821,8 @@
       },
       "65": {
         "vaultExp": {
-          "min": 30000,
-          "max": 50000
+          "min": 35000,
+          "max": 55000
         },
         "itemPool": {
           "pool": [
@@ -5294,6 +6054,242 @@
           "maxTotalStacks": 8,
           "discoverModels": []
         }
+      },
+      "90": {
+        "vaultExp": {
+          "min": 48000,
+          "max": 68000
+        },
+        "itemPool": {
+          "pool": [
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:jewel",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"jewel_treasure\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 80
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:helmet",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"treasure\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:chestplate",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"treasure\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:leggings",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"treasure\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:boots",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"treasure\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:sword",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"treasure\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:axe",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"treasure\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:magnet",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"treasure\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_gold"
+                },
+                "minCount": 8,
+                "maxCount": 16
+              },
+              "weight": 100
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:fundamental_focus"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 70
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:faceted_focus"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 80
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:artifact_fragment"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:trinket"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 4
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:opportunistic_focus"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:bitter_lemon"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 40
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_chaos"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 8
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:gilded_cascade\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:wooden_cascade\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:ornate_cascade\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:living_cascade\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:vault_catalyst_infused",
+                  "nbt": "{\"modifiers\":[\"the_vault:coin_cascade\"]}"
+                },
+                "minCount": 1,
+                "maxCount": 2
+              },
+              "weight": 10
+            }
+          ],
+          "minTotalStacks": 7,
+          "maxTotalStacks": 8,
+          "discoverModels": []
+        }
       }
     },
     "submission": {
@@ -5338,22 +6334,12 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:vault_ingot"
-                },
-                "minCount": 4,
-                "maxCount": 5
-              },
-              "weight": 30
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
                 "minCount": 4,
                 "maxCount": 9
               },
-              "weight": 50
+              "weight": 70
             },
             {
               "value": {
@@ -5530,7 +6516,18 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 7
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:wand",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
             },
             {
               "value": {
@@ -5649,22 +6646,12 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:vault_ingot"
-                },
-                "minCount": 9,
-                "maxCount": 16
-              },
-              "weight": 50
-            },
-            {
-              "value": {
-                "stack": {
                   "item": "the_vault:chromatic_steel_ingot"
                 },
                 "minCount": 5,
                 "maxCount": 13
               },
-              "weight": 50
+              "weight": 80
             },
             {
               "value": {
@@ -5841,7 +6828,18 @@
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 7
+              "weight": 6
+            },
+            {
+              "value": {
+                "stack": {
+                  "item": "the_vault:wand",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
+                },
+                "minCount": 1,
+                "maxCount": 1
+              },
+              "weight": 6
             },
             {
               "value": {
@@ -6147,22 +7145,13 @@
             {
               "value": {
                 "stack": {
-                  "item": "the_vault:eternal_soul"
-                },
-                "minCount": 3,
-                "maxCount": 6
-              },
-              "weight": 16
-            },
-            {
-              "value": {
-                "stack": {
-                  "item": "the_vault:soul_flame"
+                  "item": "the_vault:wand",
+                  "nbt": "{\"the_vault:gear_roll_type_pool\":\"ornate0\"}"
                 },
                 "minCount": 1,
                 "maxCount": 1
               },
-              "weight": 20
+              "weight": 5
             },
             {
               "value": {

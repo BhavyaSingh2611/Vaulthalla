@@ -18,9 +18,15 @@
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/strength"
     },
-    "Stoneskin": {
+    "Intelligence": {
       "x": 210,
       "y": 0,
+      "frameType": "RECTANGULAR",
+      "icon": "the_vault:gui/skills/intelligence"
+    },
+    "Stoneskin": {
+      "x": 210,
+      "y": 100,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/stone_skin"
     },
@@ -53,12 +59,6 @@
       "y": 100,
       "frameType": "RECTANGULAR",
       "icon": "the_vault:gui/skills/potion_amount"
-    },
-    "Alchemist": {
-      "x": 210,
-      "y": 100,
-      "frameType": "RECTANGULAR",
-      "icon": "the_vault:gui/skills/potion_time"
     },
 
     "Sorcery": {

@@ -78,7 +78,8 @@
             "type": "weighted_target",
             "target": "minecraft:spruce_slab",
             "output": {
-                "quark:smooth_soul_sandstone_slab": 1
+                "minecraft:blackstone_slab": 3,
+                "supplementaries:blackstone_tile_slab": 1
             }
         },
         {

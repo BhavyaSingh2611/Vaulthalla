@@ -1,6 +1,98 @@
 {
   "tooltips": [
     {
+      "item": "the_vault:paradoxical_gem",
+      "value": "Combine with a sealed Divine Paradox crystal in run mode to wipe and reset all your Divine Paradox progress"
+    },
+    {
+      "item": "the_vault:animatrix_block",
+      "value": "Can hold one mob egg and display the entity above it"
+    },
+    {
+      "item": "the_vault:topaz_shard",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:gilded_ingot",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:ornate_ingot",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:ancient_copper_ingot",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:velvet",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:rotten_meat",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:wooden_chunk",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:overgrown_wooden_chunk",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:sandy_rocks",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:living_rock",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:mossy_bone",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:ornate_chain",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:gilded_sconce",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:vault_moss",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:soot",
+      "value": "Decorative"
+    },
+    {
+      "item": "the_vault:vault_sweets",
+      "value": "Delicious"
+    },
+    {
+      "item": "the_vault:god_token",
+      "value": "Combine with a vault crystal to add a favour from this god"
+    },
+    {
+      "item": "the_vault:soul_flame",
+      "value": "Combine with an empty level 65+ Vault Crystal to add Ascension to your Crystal"
+    },
+    {
+      "item": "the_vault:plunderer_pearl",
+      "value": "Combine with an empty Vault Crystal to add the Plunderer modifier, making the vault not yield any experience, but increases the loot amount by 10% and vault ores by 25%"
+    },
+    {
+      "item": "the_vault:wardens_pearl",
+      "value": "Combine with an empty Vault Crystal to add the Afterlife modifier, which causes you to retain all your items in case of death."
+    },
+    {
+      "item": "minecraft:shield",
+      "value": "Shields automatically block attacks based on their block chance and can not be used to manually block\nThis Vanilla shield has a 5% block chance"
+    },
+    {
       "item": "minecraft:totem_of_undying",
       "value": "Does not function inside a vault!"
     },
@@ -858,7 +950,7 @@
     },
     {
       "item": "the_vault:mod_box",
-      "value": "Contains a random modded item\nfrom any of your unlocked mods"
+      "value": "Right Click to open\n\nContains Knowledge Shards or if you have unlocked any mod that has Mod Box rewards it will contain items from that mod"
     },
     {
       "item": "the_vault:identification_tome",

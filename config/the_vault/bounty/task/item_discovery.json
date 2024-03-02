@@ -3,7 +3,6 @@
     "0": {
       "pool": [
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_diamond",
             "amount": {
@@ -12,12 +11,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:wild_focus",
             "amount": {
@@ -26,12 +25,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 6
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_meat",
             "amount": {
@@ -40,12 +39,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 6
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "minecraft:shulker_shell",
             "amount": {
@@ -54,12 +53,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_essence",
             "amount": {
@@ -68,12 +67,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 6
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:knowledge_star_essence",
             "amount": {
@@ -82,12 +81,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 8
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:silver_scrap",
             "amount": {
@@ -96,26 +95,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 6
         },
         {
-          "rewardPool": "rare",
-          "value": {
-            "value": "the_vault:hunter_eye",
-            "amount": {
-              "min": 1,
-              "max": 3
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true
-          },
-          "weight": 2
-        },
-        {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_apple",
             "amount": {
@@ -124,12 +109,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 6
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_plating",
             "amount": {
@@ -138,7 +123,8 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 8
         }
@@ -147,7 +133,6 @@
     "20": {
       "pool": [
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_diamond",
             "amount": {
@@ -156,12 +141,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:amplifying_focus",
             "amount": {
@@ -170,12 +155,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 6
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_meat",
             "amount": {
@@ -184,12 +169,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 6
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_essence",
             "amount": {
@@ -198,12 +183,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 6
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:knowledge_star_essence",
             "amount": {
@@ -212,12 +197,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 8
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_red_scroll",
             "amount": {
@@ -226,12 +211,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_empty_jar",
             "amount": {
@@ -240,12 +225,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_drowned_hide",
             "amount": {
@@ -254,12 +239,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_ripped_page",
             "amount": {
@@ -268,12 +253,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 5
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_zombie_blood_vial",
             "amount": {
@@ -282,12 +267,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_pottery_shard",
             "amount": {
@@ -296,12 +281,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 3
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_goblet",
             "amount": {
@@ -310,12 +295,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_saddle_bag",
             "amount": {
@@ -324,12 +309,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_zombie_brain",
             "amount": {
@@ -338,12 +323,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_green_bangle",
             "amount": {
@@ -352,12 +337,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:silver_scrap",
             "amount": {
@@ -366,26 +351,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 8
         },
         {
-          "rewardPool": "common",
-          "value": {
-            "value": "the_vault:hunter_eye",
-            "amount": {
-              "min": 4,
-              "max": 9
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true
-          },
-          "weight": 3
-        },
-        {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_apple",
             "amount": {
@@ -394,12 +365,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 8
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:sword",
             "amount": {
@@ -408,12 +379,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:shield",
             "amount": {
@@ -422,12 +393,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:ornate_chest_scroll",
             "amount": {
@@ -436,12 +407,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:gilded_chest_scroll",
             "amount": {
@@ -450,12 +421,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:wooden_chest_scroll",
             "amount": {
@@ -464,12 +435,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:living_chest_scroll",
             "amount": {
@@ -478,12 +449,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:ornate_chest_scroll",
             "amount": {
@@ -492,12 +463,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:gilded_chest_scroll",
             "amount": {
@@ -506,12 +477,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:living_chest_scroll",
             "amount": {
@@ -520,7 +491,8 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 4
         }
@@ -529,7 +501,6 @@
     "30": {
       "pool": [
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_diamond",
             "amount": {
@@ -538,12 +509,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:nullifying_focus",
             "amount": {
@@ -552,12 +523,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:dreamstone",
             "amount": {
@@ -566,12 +537,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_essence",
             "amount": {
@@ -580,12 +551,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 6
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:knowledge_star_essence",
             "amount": {
@@ -594,12 +565,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 8
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_red_scroll",
             "amount": {
@@ -608,12 +579,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_empty_jar",
             "amount": {
@@ -622,12 +593,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_drowned_hide",
             "amount": {
@@ -636,12 +607,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_ripped_page",
             "amount": {
@@ -650,12 +621,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 5
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_zombie_blood_vial",
             "amount": {
@@ -664,12 +635,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_pottery_shard",
             "amount": {
@@ -678,12 +649,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 3
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_goblet",
             "amount": {
@@ -692,12 +663,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_saddle_bag",
             "amount": {
@@ -706,12 +677,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_zombie_brain",
             "amount": {
@@ -720,12 +691,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_green_bangle",
             "amount": {
@@ -734,12 +705,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:silver_scrap",
             "amount": {
@@ -748,26 +719,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 8
         },
         {
-          "rewardPool": "common",
-          "value": {
-            "value": "the_vault:hunter_eye",
-            "amount": {
-              "min": 5,
-              "max": 10
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true
-          },
-          "weight": 3
-        },
-        {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_apple",
             "amount": {
@@ -776,12 +733,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 8
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:sword",
             "amount": {
@@ -790,12 +747,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 1
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:shield",
             "amount": {
@@ -804,12 +761,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 1
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:ornate_chest_scroll",
             "amount": {
@@ -818,12 +775,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:gilded_chest_scroll",
             "amount": {
@@ -832,12 +789,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:wooden_chest_scroll",
             "amount": {
@@ -846,12 +803,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:living_chest_scroll",
             "amount": {
@@ -860,26 +817,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
-          "value": {
-            "value": "the_vault:inscription_piece",
-            "amount": {
-              "min": 2,
-              "max": 6
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true
-          },
-          "weight": 2
-        },
-        {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:inscription",
             "amount": {
@@ -888,12 +831,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 1
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:jewel",
             "amount": {
@@ -902,7 +845,8 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 1
         }
@@ -911,7 +855,6 @@
     "50": {
       "pool": [
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_diamond",
             "amount": {
@@ -920,12 +863,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:fundamental_focus",
             "amount": {
@@ -934,12 +877,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_essence",
             "amount": {
@@ -948,12 +891,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 6
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:knowledge_star_essence",
             "amount": {
@@ -962,12 +905,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 8
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_red_scroll",
             "amount": {
@@ -976,12 +919,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_empty_jar",
             "amount": {
@@ -990,12 +933,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_drowned_hide",
             "amount": {
@@ -1004,12 +947,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_ripped_page",
             "amount": {
@@ -1018,12 +961,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 5
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_zombie_blood_vial",
             "amount": {
@@ -1032,12 +975,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_pottery_shard",
             "amount": {
@@ -1046,12 +989,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 3
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_goblet",
             "amount": {
@@ -1060,12 +1003,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_saddle_bag",
             "amount": {
@@ -1074,12 +1017,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_zombie_brain",
             "amount": {
@@ -1088,12 +1031,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_green_bangle",
             "amount": {
@@ -1102,12 +1045,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:silver_scrap",
             "amount": {
@@ -1116,40 +1059,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 8
         },
         {
-          "rewardPool": "common",
-          "value": {
-            "value": "the_vault:hunter_eye",
-            "amount": {
-              "min": 6,
-              "max": 12
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true
-          },
-          "weight": 3
-        },
-        {
-          "rewardPool": "rare",
-          "value": {
-            "value": "the_vault:eternal_soul",
-            "amount": {
-              "min": 24,
-              "max": 48
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true
-          },
-          "weight": 8
-        },
-        {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:sword",
             "amount": {
@@ -1158,12 +1073,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:shield",
             "amount": {
@@ -1172,26 +1087,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
-          "value": {
-            "value": "the_vault:inscription_piece",
-            "amount": {
-              "min": 8,
-              "max": 16
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true
-          },
-          "weight": 2
-        },
-        {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:ornate_chest_scroll",
             "amount": {
@@ -1200,12 +1101,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:gilded_chest_scroll",
             "amount": {
@@ -1214,12 +1115,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:wooden_chest_scroll",
             "amount": {
@@ -1228,12 +1129,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:living_chest_scroll",
             "amount": {
@@ -1242,12 +1143,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:inscription",
             "amount": {
@@ -1256,12 +1157,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 1
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:jewel",
             "amount": {
@@ -1270,7 +1171,8 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 1
         }
@@ -1279,7 +1181,6 @@
     "65": {
       "pool": [
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_diamond",
             "amount": {
@@ -1288,12 +1189,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:fundamental_focus",
             "amount": {
@@ -1302,12 +1203,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:chaotic_focus",
             "amount": {
@@ -1316,12 +1217,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:waxing_focus",
             "amount": {
@@ -1330,12 +1231,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:waning_focus",
             "amount": {
@@ -1344,12 +1245,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:vault_essence",
             "amount": {
@@ -1358,12 +1259,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 6
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:knowledge_star_essence",
             "amount": {
@@ -1372,12 +1273,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 8
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_spider_soul_charm",
             "amount": {
@@ -1386,12 +1287,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_sack",
             "amount": {
@@ -1400,12 +1301,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_zombie_arm",
             "amount": {
@@ -1414,12 +1315,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_old_book",
             "amount": {
@@ -1428,12 +1329,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 5
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:scavenger_cracked_script",
             "amount": {
@@ -1442,12 +1343,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_spider_webbing_spool",
             "amount": {
@@ -1456,12 +1357,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 3
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_earrings",
             "amount": {
@@ -1470,12 +1371,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_wizard_wand",
             "amount": {
@@ -1484,12 +1385,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_creeper_eye",
             "amount": {
@@ -1498,12 +1399,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:scavenger_cracked_pearl",
             "amount": {
@@ -1512,12 +1413,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:silver_scrap",
             "amount": {
@@ -1526,40 +1427,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 8
         },
         {
-          "rewardPool": "common",
-          "value": {
-            "value": "the_vault:hunter_eye",
-            "amount": {
-              "min": 6,
-              "max": 12
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true
-          },
-          "weight": 3
-        },
-        {
-          "rewardPool": "common",
-          "value": {
-            "value": "the_vault:eternal_soul",
-            "amount": {
-              "min": 24,
-              "max": 48
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true
-          },
-          "weight": 8
-        },
-        {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:sword",
             "amount": {
@@ -1568,12 +1441,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
           "value": {
             "value": "the_vault:shield",
             "amount": {
@@ -1582,26 +1455,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "common"
           },
           "weight": 2
         },
         {
-          "rewardPool": "common",
-          "value": {
-            "value": "the_vault:inscription_piece",
-            "amount": {
-              "min": 10,
-              "max": 24
-            },
-            "floorToNearestTen": false,
-            "validDimensions": [],
-            "vaultOnly": true
-          },
-          "weight": 2
-        },
-        {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:ornate_chest_scroll",
             "amount": {
@@ -1610,12 +1469,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:gilded_chest_scroll",
             "amount": {
@@ -1624,12 +1483,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:wooden_chest_scroll",
             "amount": {
@@ -1638,12 +1497,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:living_chest_scroll",
             "amount": {
@@ -1652,12 +1511,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 4
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:inscription",
             "amount": {
@@ -1666,12 +1525,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 1
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:key_piece",
             "amount": {
@@ -1680,12 +1539,12 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 1
         },
         {
-          "rewardPool": "rare",
           "value": {
             "value": "the_vault:jewel",
             "amount": {
@@ -1694,7 +1553,8 @@
             },
             "floorToNearestTen": false,
             "validDimensions": [],
-            "vaultOnly": true
+            "vaultOnly": true,
+            "rewardPool": "rare"
           },
           "weight": 1
         }

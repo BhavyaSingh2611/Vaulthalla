@@ -8,8 +8,7 @@
           "level": 0,
           "probability": 0.0,
           "success": {
-            "the_vault:modifier_discovery": 0,
-            "the_vault:enhancement_altar": 0
+            "minecraft:air": 1
           },
           "failure": {
             "minecraft:air": 1

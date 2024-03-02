@@ -264,11 +264,25 @@
           { "weight": 2,
             "pool": [
               {
-                "weight": 6,
+                "weight": 16,
                 "item": {
                   "id": "the_vault:inscription",
                   "nbt": {
                     "pool": "the_vault:empty"
+                  },
+                  "count": {
+                    "type": "uniform",
+                    "min": 1,
+                    "max": 1
+                    }
+                }
+              },
+              {
+                "weight": 6,
+                "item": {
+                  "id": "the_vault:inscription",
+                  "nbt": {
+                    "pool": "the_vault:random"
                   },
                   "count": {
                     "type": "uniform",

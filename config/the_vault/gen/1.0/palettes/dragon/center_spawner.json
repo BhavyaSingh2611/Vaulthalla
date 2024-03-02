@@ -12,23 +12,15 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Manager: { Settings: { SpawnDelay: 200 } } }": 1
+                        "ispawner:spawner{ Manager:{ UsesLeft:3, Settings: { SpawnDelay: 300, Attempts: 1 } } } }": 1
                     }
                 },
                 {
-                    "level": 10,
+                    "level": 50,
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Manager: { Settings: { SpawnDelay: 180 } } }": 1
-                    }
-                },
-                {
-                    "level": 20,
-                    "type": "weighted_target",
-                    "target": "ispawner:spawner",
-                    "output": {
-                        "ispawner:spawner{ Manager: { Settings: { SpawnDelay: 140 } } }": 1
+                        "ispawner:spawner{ Manager:{ UsesLeft:4, Settings: { SpawnDelay: 300, Attempts: 1 } } } }": 1
                     }
                 }
             ]
@@ -41,15 +33,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Manager: { Settings: { Attempts: 4 } } }": 1
-                    }
-                },
-                {
-                    "level": 20,
-                    "type": "weighted_target",
-                    "target": "ispawner:spawner",
-                    "output": {
-                        "ispawner:spawner{ Manager: { Settings: { Attempts: 5 } } }": 1
+                        "ispawner:spawner{ Manager: { Settings: { PlayerRadius: 24 } } }": 1
                     }
                 }
             ]
@@ -62,7 +46,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Manager: { Settings: { PlayerRadius: 36 } } }": 1
+                        "ispawner:spawner{ Manager: { Settings: { CapRestrictions: [{Limit: 64, SpawnGroup: 0}, {Limit: 0, SpawnGroup: 7}, {Limit: 0, SpawnGroup: 5}, {Limit: 0, SpawnGroup: 4}, {Limit: 0, SpawnGroup: 3}, {Limit: 0, SpawnGroup: 1}, {Limit: 0, SpawnGroup: 6}, {Limit: 0, SpawnGroup: 2}] } } }": 1
                     }
                 }
             ]
@@ -75,7 +59,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Manager: { Settings: { CapRestrictions: [{Limit: 28, SpawnGroup: 0}, {Limit: 0, SpawnGroup: 7}, {Limit: 0, SpawnGroup: 5}, {Limit: 0, SpawnGroup: 4}, {Limit: 0, SpawnGroup: 3}, {Limit: 0, SpawnGroup: 1}, {Limit: 0, SpawnGroup: 6}, {Limit: 0, SpawnGroup: 2}] } } }": 1
+                        "ispawner:spawner{ Manager: { Settings: { CheckRadius: 24 } } }": 1
                     }
                 }
             ]
@@ -85,17 +69,19 @@
             "levels": [
                 {
                     "level": 0,
-                    "type": "weighted_target",
+                    "type": "spawner",
                     "target": "ispawner:spawner",
-                    "output": {
-                        "ispawner:spawner{ Manager: { Settings: { CheckRadius: 30 } } }": 1
-                    }
+                    "output": [
+                        {
+                          "elements": {
+                            "minecraft:vindicator{Tags:[\"vault_champion\"]}": 1,
+                            "the_vault:vault_spider{Tags:[\"vault_champion\"]}": 1
+                          },
+                          "weight": 1
+                        }
+                    ]
                 }
             ]
-        },
-        {
-            "type": "reference",
-            "id": "the_vault:generic/spawners/challenge_mobs"
         }
     ]
 }

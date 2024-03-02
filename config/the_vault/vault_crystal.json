@@ -16,164 +16,99 @@
         "pool": [
           {
             "value": "the_vault:classic_vault_ice",
-            "weight": 3
+            "weight": 4
           },
           {
             "value": "the_vault:classic_vault_ice_cave",
-            "weight": 3
+            "weight": 4
           },
           {
             "value": "the_vault:classic_vault_cave",
-            "weight": 8
+            "weight": 3
           },
           {
             "value": "the_vault:classic_vault_cave_deepslate",
-            "weight": 8
+            "weight": 3
           },
           {
             "value": "the_vault:classic_vault_cave_geode",
-            "weight": 8
+            "weight": 3
           },
           {
             "value": "the_vault:classic_vault_cave_wasteland",
-            "weight": 8
+            "weight": 3
           },
           {
             "value": "the_vault:classic_vault_lush_cave",
-            "weight": 8
+            "weight": 4
           },
           {
             "value": "the_vault:classic_vault_living_cave",
-            "weight": 8
+            "weight": 4
           },
           {
             "value": "the_vault:classic_vault_desert",
-            "weight": 8
+            "weight": 3
           },
           {
             "value": "the_vault:classic_vault_sandy_cave",
-            "weight": 8
+            "weight": 3
           },
           {
             "value": "the_vault:classic_vault_beach",
-            "weight": 4
+            "weight": 2
           },
           {
             "value": "the_vault:classic_vault_flooded",
-            "weight": 4
+            "weight": 2
           },
           {
             "value": "the_vault:classic_vault_haunted",
-            "weight": 4
+            "weight": 2
           },
           {
             "value": "the_vault:classic_vault_shipwreck",
-            "weight": 4
+            "weight": 2
           },
           {
             "value": "the_vault:classic_vault_sea_floor",
-            "weight": 4
+            "weight": 2
           },
           {
             "value": "the_vault:classic_vault_mushroom",
-            "weight": 8
+            "weight": 3
+          },
+          {
+            "value": "the_vault:classic_vault_fairy_ring",
+            "weight": 3
+          },
+          {
+            "value": "the_vault:classic_vault_poison",
+            "weight": 3
           },
           {
             "value": "the_vault:classic_vault_mesa",
-            "weight": 4
+            "weight": 3
           },
           {
             "value": "the_vault:classic_vault_deep_mesa",
-            "weight": 4
-          }
-        ]
-      },
-      {
-        "level": 10,
-        "pool": [
-          {
-            "value": "the_vault:classic_vault_sweet",
             "weight": 3
           },
           {
-            "value": "the_vault:classic_vault_ice",
-            "weight": 3
-          },
-          {
-            "value": "the_vault:classic_vault_ice_cave",
-            "weight": 3
-          },
-          {
-            "value": "the_vault:classic_vault_cave",
-            "weight": 8
-          },
-          {
-            "value": "the_vault:classic_vault_cave_deepslate",
-            "weight": 8
-          },
-          {
-            "value": "the_vault:classic_vault_cave_geode",
-            "weight": 8
-          },
-          {
-            "value": "the_vault:classic_vault_cave_wasteland",
-            "weight": 8
-          },
-          {
-            "value": "the_vault:classic_vault_lush_cave",
-            "weight": 8
-          },
-          {
-            "value": "the_vault:classic_vault_living_cave",
-            "weight": 8
-          },
-          {
-            "value": "the_vault:classic_vault_desert",
-            "weight": 8
-          },
-          {
-            "value": "the_vault:classic_vault_sandy_cave",
-            "weight": 8
-          },
-          {
-            "value": "the_vault:classic_vault_beach",
+            "value": "the_vault:classic_vault_season_spring",
             "weight": 4
           },
           {
-            "value": "the_vault:classic_vault_flooded",
-            "weight": 4
-          },
-          {
-            "value": "the_vault:classic_vault_haunted",
-            "weight": 4
-          },
-          {
-            "value": "the_vault:classic_vault_shipwreck",
-            "weight": 4
-          },
-          {
-            "value": "the_vault:classic_vault_sea_floor",
-            "weight": 4
-          },
-          {
-            "value": "the_vault:classic_vault_mushroom",
-            "weight": 8
-          },
-          {
-            "value": "the_vault:classic_vault_mesa",
-            "weight": 4
-          },
-          {
-            "value": "the_vault:classic_vault_deep_mesa",
-            "weight": 4
-          },
-		      {
-            "value": "the_vault:classic_vault_easter_egg",
+            "value": "the_vault:classic_vault_season_summer",
             "weight": 2
           },
-		      {
-            "value": "the_vault:classic_vault_easter_pastel",
-            "weight": 2
+          {
+            "value": "the_vault:classic_vault_season_fall",
+            "weight": 3
+          },
+          {
+            "value": "the_vault:classic_vault_season_winter",
+            "weight": 4
           }
         ]
       },
@@ -182,95 +117,103 @@
         "pool": [
           {
             "value": "the_vault:classic_vault_sweet",
-            "weight": 6
+            "weight": 10
           },
           {
             "value": "the_vault:classic_vault_ice",
-            "weight": 6
+            "weight": 38
           },
           {
             "value": "the_vault:classic_vault_ice_cave",
-            "weight": 6
+            "weight": 38
           },
           {
             "value": "the_vault:classic_vault_cave",
-            "weight": 16
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_cave_deepslate",
-            "weight": 16
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_cave_geode",
-            "weight": 16
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_cave_wasteland",
-            "weight": 16
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_lush_cave",
-            "weight": 16
+            "weight": 38
           },
           {
             "value": "the_vault:classic_vault_living_cave",
-            "weight": 16
+            "weight": 38
           },
           {
             "value": "the_vault:classic_vault_desert",
-            "weight": 16
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_sandy_cave",
-            "weight": 16
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_beach",
-            "weight": 9
+            "weight": 19
           },
           {
             "value": "the_vault:classic_vault_flooded",
-            "weight": 9
+            "weight": 19
           },
           {
             "value": "the_vault:classic_vault_haunted",
-            "weight": 9
+            "weight": 19
           },
           {
             "value": "the_vault:classic_vault_shipwreck",
-            "weight": 9
+            "weight": 19
           },
           {
             "value": "the_vault:classic_vault_sea_floor",
-            "weight": 9
+            "weight": 19
           },
           {
             "value": "the_vault:classic_vault_mushroom",
-            "weight": 16
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_fairy_ring",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_poison",
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_mesa",
-            "weight": 8
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_deep_mesa",
-            "weight": 8
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_nether_crimson",
-            "weight": 1
+            "weight": 5
           },
           {
             "value": "the_vault:classic_vault_nether_warped",
-            "weight": 1
+            "weight": 5
           },
           {
             "value": "the_vault:classic_vault_nether_blackstone",
-            "weight": 1
+            "weight": 5
           },
           {
             "value": "the_vault:classic_vault_nether_soul",
-            "weight": 1
+            "weight": 5
           },
           {
             "value": "the_vault:classic_vault_festive",
@@ -282,11 +225,35 @@
           },
 		      {
             "value": "the_vault:classic_vault_easter_egg",
-            "weight": 3
+            "weight": 5
           },
 		      {
             "value": "the_vault:classic_vault_easter_pastel",
-            "weight": 3
+            "weight": 5
+          },
+          {
+            "value": "the_vault:classic_vault_blood_moon",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_flesh",
+            "weight": 10
+          },
+          {
+            "value": "the_vault:classic_vault_season_spring",
+            "weight": 38
+          },
+          {
+            "value": "the_vault:classic_vault_season_summer",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_season_fall",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_season_winter",
+            "weight": 38
           }
         ]
       },
@@ -295,107 +262,115 @@
         "pool": [
           {
             "value": "the_vault:classic_vault_sweet",
-            "weight": 6
+            "weight": 10
           },
           {
             "value": "the_vault:classic_vault_ice",
-            "weight": 6
+            "weight": 38
           },
           {
             "value": "the_vault:classic_vault_ice_cave",
-            "weight": 6
+            "weight": 38
           },
           {
             "value": "the_vault:classic_vault_cave",
-            "weight": 8
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_cave_deepslate",
-            "weight": 8
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_cave_geode",
-            "weight": 8
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_cave_wasteland",
-            "weight": 8
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_lush_cave",
-            "weight": 16
+            "weight": 38
           },
           {
             "value": "the_vault:classic_vault_living_cave",
-            "weight": 16
+            "weight": 38
           },
           {
             "value": "the_vault:classic_vault_desert",
-            "weight": 16
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_sandy_cave",
-            "weight": 16
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_beach",
-            "weight": 9
+            "weight": 19
           },
           {
             "value": "the_vault:classic_vault_flooded",
-            "weight": 9
+            "weight": 19
           },
           {
             "value": "the_vault:classic_vault_haunted",
-            "weight": 9
+            "weight": 19
           },
           {
             "value": "the_vault:classic_vault_shipwreck",
-            "weight": 9
+            "weight": 19
           },
           {
             "value": "the_vault:classic_vault_sea_floor",
-            "weight": 9
+            "weight": 19
           },
           {
             "value": "the_vault:classic_vault_mushroom",
-            "weight": 16
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_fairy_ring",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_poison",
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_mesa",
-            "weight": 8
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_deep_mesa",
-            "weight": 8
+            "weight": 29
           },
           {
             "value": "the_vault:classic_vault_nether_crimson",
-            "weight": 2
+            "weight": 10
           },
           {
             "value": "the_vault:classic_vault_nether_warped",
-            "weight": 2
+            "weight": 10
           },
           {
             "value": "the_vault:classic_vault_nether_blackstone",
-            "weight": 2
+            "weight": 10
           },
           {
             "value": "the_vault:classic_vault_nether_soul",
-            "weight": 2
+            "weight": 10
           },
           {
             "value": "the_vault:classic_vault_void",
-            "weight": 2
+            "weight": 7
           },
           {
             "value": "the_vault:classic_vault_end_void",
-            "weight": 2
+            "weight": 7
           },
           {
             "value": "the_vault:classic_vault_factory_void",
-            "weight": 2
+            "weight": 7
           },
           {
             "value": "the_vault:classic_vault_festive",
@@ -407,11 +382,35 @@
           },
 		      {
             "value": "the_vault:classic_vault_easter_egg",
-            "weight": 3
+            "weight": 5
           },
 		      {
             "value": "the_vault:classic_vault_easter_pastel",
-            "weight": 3
+            "weight": 5
+          },
+          {
+            "value": "the_vault:classic_vault_blood_moon",
+            "weight": 20
+          },
+          {
+            "value": "the_vault:classic_vault_flesh",
+            "weight": 20
+          },
+          {
+            "value": "the_vault:classic_vault_season_spring",
+            "weight": 38
+          },
+          {
+            "value": "the_vault:classic_vault_season_summer",
+            "weight": 19
+          },
+          {
+            "value": "the_vault:classic_vault_season_fall",
+            "weight": 29
+          },
+          {
+            "value": "the_vault:classic_vault_season_winter",
+            "weight": 38
           }
         ]
       }
@@ -445,6 +444,18 @@
           {
             "value": "the_vault:raw_vault_cave",
             "weight": 1
+          },
+          {
+            "value": "the_vault:raw_vault_cave_granite",
+            "weight": 1
+          },
+          {
+            "value": "the_vault:raw_vault_cave_diorite",
+            "weight": 1
+          },
+          {
+            "value": "the_vault:raw_vault_cave_andersite",
+            "weight": 1
           }
         ]
       },
@@ -453,6 +464,18 @@
         "pool": [
           {
             "value": "the_vault:raw_vault_cave_lvl10",
+            "weight": 1
+          },
+          {
+            "value": "the_vault:raw_vault_cave_granite_lvl10",
+            "weight": 1
+          },
+          {
+            "value": "the_vault:raw_vault_cave_diorite_lvl10",
+            "weight": 1
+          },
+          {
+            "value": "the_vault:raw_vault_cave_andersite_lvl10",
             "weight": 1
           }
         ]
@@ -463,6 +486,18 @@
           {
             "value": "the_vault:raw_vault_cave_lvl20",
             "weight": 1
+          },
+          {
+            "value": "the_vault:raw_vault_cave_granite_lvl20",
+            "weight": 1
+          },
+          {
+            "value": "the_vault:raw_vault_cave_diorite_lvl20",
+            "weight": 1
+          },
+          {
+            "value": "the_vault:raw_vault_cave_andersite_lvl20",
+            "weight": 1
           }
         ]
       },
@@ -471,6 +506,29 @@
         "pool": [
           {
             "value": "the_vault:raw_vault_cave_lvl30",
+            "weight": 1
+          },
+          {
+            "value": "the_vault:raw_vault_cave_granite_lvl30",
+            "weight": 1
+          },
+          {
+            "value": "the_vault:raw_vault_cave_diorite_lvl30",
+            "weight": 1
+          },
+          {
+            "value": "the_vault:raw_vault_cave_andersite_lvl30",
+            "weight": 1
+          }
+        ]
+      }
+    ],
+    "the_vault:chaos": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": "the_vault:classic_vault_chaos",
             "weight": 1
           }
         ]
@@ -991,176 +1049,290 @@
       ]
     }
   ],
-  "OBJECTIVES": [
-    {
-      "level": 0,
-      "pool": [
-        {
-          "value": {
-            "type": "monolith",
-            "objective_probability": 0.75,
-            "target": {
-              "type": "uniform",
-              "min": 2,
-              "max": 2
-            }
-          },
-          "weight": 8
-        }
-      ]
-    },
-    {
-      "level": 10,
-      "pool": [
-        {
-          "value": {
-            "type": "elixir",
-            "objective_probability": 0.4
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "monolith",
-            "objective_probability": 0.75,
-            "target": {
-              "type": "uniform",
-              "min": 2,
-              "max": 3
-            }
-          },
-          "weight": 4
-        }
-      ]
-    },
-    {
-      "level": 20,
-      "pool": [
-        {
-          "value": {
-            "type": "scavenger",
-            "objective_probability": 0.75
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "monolith",
-            "objective_probability": 0.5,
-            "target": {
-              "type": "uniform",
-              "min": 2,
-              "max": 3
-            }
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "elixir",
-            "objective_probability": 0.3
-          },
-          "weight": 4
-        }
-      ]
-    },
-    {
-      "level": 50,
-      "pool": [
-        {
-          "value": {
-            "type": "boss",
-            "objective_probability": 0.3,
-            "target": {
-              "type": "uniform",
-              "min": 3,
-              "max": 6
+  "OBJECTIVES": {
+    "the_vault:default": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "type": "elixir",
+              "objective_probability": 1.0
             },
-            "wave": {
-              "type": "uniform",
-              "min": 4,
-              "max": 8
-            }
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "scavenger",
-            "objective_probability": 0.75
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "monolith",
-            "objective_probability": 0.25,
-            "target": {
-              "type": "uniform",
-              "min": 2,
-              "max": 4
-            }
-          },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "elixir",
-            "objective_probability": 0.15
-          },
-          "weight": 4
-        }
-      ]
-    },
-    {
-      "level": 60,
-      "pool": [
-        {
-          "value": {
-            "type": "boss",
-            "objective_probability": 0.25,
-            "target": {
-              "type": "uniform",
-              "min": 3,
-              "max": 6
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "level": 10,
+        "pool": [
+          {
+            "value": {
+              "type": "elixir",
+              "objective_probability": 0.75
             },
-            "wave": {
-              "type": "uniform",
-              "min": 5,
-              "max": 10
-            }
+            "weight": 4
           },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "scavenger",
-            "objective_probability": 0.75
+          {
+            "value": {
+              "type": "monolith",
+              "objective_probability": 1.0,
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 5
+              }
+            },
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "level": 20,
+        "pool": [
+          {
+            "value": {
+              "type": "scavenger",
+              "objective_probability": 0.75
+            },
+            "weight": 4
           },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "monolith",
-            "objective_probability": 0.2,
-            "target": {
-              "type": "uniform",
-              "min": 2,
-              "max": 4
-            }
+          {
+            "value": {
+              "type": "monolith",
+              "objective_probability": 1.0,
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 6
+              }
+            },
+            "weight": 4
           },
-          "weight": 4
-        },
-        {
-          "value": {
-            "type": "elixir",
-            "objective_probability": 0.15
+          {
+            "value": {
+              "type": "elixir",
+              "objective_probability": 0.5
+            },
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "level": 50,
+        "pool": [
+          {
+            "value": {
+              "type": "boss",
+              "objective_probability": 0.3,
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 5
+              },
+              "wave": {
+                "type": "uniform",
+                "min": 4,
+                "max": 8
+              }
+            },
+            "weight": 4
           },
-          "weight": 4
-        }
-      ]
-    }
-  ],
+          {
+            "value": {
+              "type": "scavenger",
+              "objective_probability": 0.75
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "monolith",
+              "objective_probability": 1.0,
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 10
+              }
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "elixir",
+              "objective_probability": 0.3
+            },
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "level": 60,
+        "pool": [
+          {
+            "value": {
+              "type": "boss",
+              "objective_probability": 0.25,
+              "target": {
+                "type": "uniform",
+                "min": 3,
+                "max": 5
+              },
+              "wave": {
+                "type": "uniform",
+                "min": 5,
+                "max": 8
+              }
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "scavenger",
+              "objective_probability": 0.75
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "monolith",
+              "objective_probability": 1.0,
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 12
+              }
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "elixir",
+              "objective_probability": 0.3
+            },
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "level": 70,
+        "pool": [
+          {
+            "value": {
+              "type": "boss",
+              "objective_probability": 0.25,
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 5
+              },
+              "wave": {
+                "type": "uniform",
+                "min": 6,
+                "max": 8
+              }
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "scavenger",
+              "objective_probability": 0.75
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "monolith",
+              "objective_probability": 1.0,
+              "target": {
+                "type": "uniform",
+                "min": 5,
+                "max": 12
+              }
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "elixir",
+              "objective_probability": 0.3
+            },
+            "weight": 4
+          }
+        ]
+      },
+      {
+        "level": 90,
+        "pool": [
+          {
+            "value": {
+              "type": "boss",
+              "objective_probability": 0.25,
+              "target": {
+                "type": "uniform",
+                "min": 4,
+                "max": 5
+              },
+              "wave": {
+                "type": "uniform",
+                "min": 6,
+                "max": 8
+              }
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "scavenger",
+              "objective_probability": 0.75
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "monolith",
+              "objective_probability": 1.0,
+              "target": {
+                "type": "uniform",
+                "min": 10,
+                "max": 15
+              }
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "elixir",
+              "objective_probability": 0.3
+            },
+            "weight": 4
+          }
+        ]
+      }
+    ],
+    "the_vault:ascension": [
+      {
+        "level": 0,
+        "pool": [
+          {
+            "value": {
+              "type": "scavenger",
+              "objective_probability": 0.75
+            },
+            "weight": 4
+          },
+          {
+            "value": {
+              "type": "elixir",
+              "objective_probability": 0.3
+            },
+            "weight": 4
+          }
+        ]
+      }
+    ]
+  },
   "TIMES": {
     "the_vault:default": [
       {
@@ -1277,11 +1449,11 @@
           "target": {
             "type": "uniform",
             "min": 3,
-            "max": 6
+            "max": 5
           },
           "wave": {
             "type": "uniform",
-            "min": 4,
+            "min": 5,
             "max": 8
           }
         },
@@ -1319,12 +1491,54 @@
           "target": {
             "type": "uniform",
             "min": 3,
-            "max": 6
+            "max": 5
           },
           "wave": {
             "type": "uniform",
             "min": 5,
-            "max": 10
+            "max": 8
+          }
+        },
+        "layout": {
+          "type": "polygon",
+          "tunnel_span": 1,
+          "vertices": [
+            {
+              "x": -10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": 10
+            },
+            {
+              "x": 10,
+              "z": 0
+            },
+            {
+              "x": 0,
+              "z": -10
+            }
+          ]
+        }
+      },
+      {
+        "level": 90,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "boss",
+          "objective_probability": 0.25,
+          "target": {
+            "type": "uniform",
+            "min": 4,
+            "max": 5
+          },
+          "wave": {
+            "type": "uniform",
+            "min": 6,
+            "max": 8
           }
         },
         "layout": {
@@ -1351,6 +1565,42 @@
         }
       }
     ],
+    "the_vault:crystal_seal_herald": [
+      {
+        "level": 100,
+        "exhausted": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "herald"
+        },
+        "theme": {
+          "type": "value",
+          "id": "the_vault:classic_vault_herald"
+        },
+        "layout": {
+          "type": "herald"
+        },
+        "modifiers": {
+          "type": "default",
+          "list": [
+            {
+              "modifier": "the_vault:herald",
+              "count": 1
+            }
+          ],
+          "random_modifiers": false
+        },
+        "time": {
+          "type": "value",
+          "roll": {
+            "type": "constant",
+            "count": 96000
+          }
+        }
+      }
+    ],
     "the_vault:crystal_seal_sage": [
       {
         "level": 0,
@@ -1369,7 +1619,7 @@
         ],
         "objective": {
           "type": "elixir",
-          "objective_probability": 0.3
+          "objective_probability": 0.5
         }
       },
       {
@@ -1379,7 +1629,84 @@
         ],
         "objective": {
           "type": "elixir",
-          "objective_probability": 0.15
+          "objective_probability": 0.3
+        }
+      }
+    ],
+    "the_vault:crystal_seal_scout": [
+      {
+        "level": 0,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "monolith",
+          "objective_probability": 1.0,
+            "target": {
+              "type": "uniform",
+              "min": 3,
+              "max": 5
+            }
+        }
+      },
+      {
+        "level": 20,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "monolith",
+          "objective_probability": 1.0,
+            "target": {
+              "type": "uniform",
+              "min": 3,
+              "max": 6
+            }
+        }
+      },
+      {
+        "level": 50,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "monolith",
+          "objective_probability": 1.0,
+            "target": {
+              "type": "uniform",
+              "min": 4,
+              "max": 10
+            }
+        }
+      },
+      {
+        "level": 70,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "monolith",
+          "objective_probability": 1.0,
+            "target": {
+              "type": "uniform",
+              "min": 4,
+              "max": 12
+            }
+        }
+      },
+      {
+        "level": 90,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "monolith",
+          "objective_probability": 1.0,
+            "target": {
+              "type": "uniform",
+              "min": 5,
+              "max": 12
+            }
         }
       }
     ],
@@ -1414,7 +1741,7 @@
         ],
         "objective": {
           "type": "cake",
-          "objective_probability": 0.2
+          "objective_probability": 1.0
         },
         "layout": {
           "type": "spiral",
@@ -1423,6 +1750,7 @@
           "rotation": "CLOCKWISE_90"
         },
         "modifiers": {
+          "type": "default",
           "random_modifiers": false
         }
       },
@@ -1434,7 +1762,7 @@
         ],
         "objective": {
           "type": "cake",
-          "objective_probability": 0.15
+          "objective_probability": 1.0
         },
         "layout": {
           "type": "spiral",
@@ -1443,6 +1771,7 @@
           "rotation": "CLOCKWISE_90"
         },
         "modifiers": {
+          "type": "default",
           "random_modifiers": false
         }
       },
@@ -1454,7 +1783,7 @@
         ],
         "objective": {
           "type": "cake",
-          "objective_probability": 0.1
+          "objective_probability": 1.0
         },
         "layout": {
           "type": "spiral",
@@ -1463,6 +1792,7 @@
           "rotation": "CLOCKWISE_90"
         },
         "modifiers": {
+          "type": "default",
           "random_modifiers": false
         }
       }
@@ -1494,6 +1824,7 @@
           }
         },
         "modifiers": {
+          "type": "default",
           "random_modifiers": false
         }
       }
@@ -1540,6 +1871,7 @@
           "id": "the_vault:speedrun"
         },
         "modifiers": {
+          "type": "default",
           "list": [
             {
               "modifier": "the_vault:wild",
@@ -1555,6 +1887,60 @@
             }
           ],
           "random_modifiers": false
+        }
+      }
+    ],
+    "the_vault:crystal_seal_ordinator_build": [
+      {
+        "level": 40,
+        "exhausted": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "paradox",
+          "goal": "BUILD"
+        },
+        "layout": {
+          "type": "paradox"
+        },
+        "modifiers": {
+          "type": "paradox",
+          "random_modifiers": false
+        },
+        "time": {
+          "type": "value",
+          "roll": {
+            "type": "constant",
+            "count": 108000
+          }
+        }
+      }
+    ],
+    "the_vault:crystal_seal_ordinator_run": [
+      {
+        "level": 40,
+        "exhausted": true,
+        "input": [
+          "the_vault:vault_crystal"
+        ],
+        "objective": {
+          "type": "paradox",
+          "goal": "RUN"
+        },
+        "layout": {
+          "type": "paradox"
+        },
+        "modifiers": {
+          "type": "paradox",
+          "random_modifiers": false
+        },
+        "time": {
+          "type": "value",
+          "roll": {
+            "type": "constant",
+            "count": 12000
+          }
         }
       }
     ]

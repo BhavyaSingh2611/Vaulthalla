@@ -41,6 +41,9 @@
       "the_vault:living_chest",
       "the_vault:living_strongbox"
     ],
+    "the_vault:wooden": [
+      "the_vault:wooden_chest"
+    ],
     "the_vault:gilded": [
       "the_vault:gilded_chest",
       "the_vault:gilded_strongbox"

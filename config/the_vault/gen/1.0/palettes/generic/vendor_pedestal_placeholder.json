@@ -6,7 +6,7 @@
       "levels": [
         {
           "level": 0,
-          "probability": 0.8,
+          "probability": 1.0,
           "success": {
             "the_vault:shop_pedestal": 1
           },

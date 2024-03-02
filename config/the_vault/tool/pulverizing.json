@@ -723,6 +723,326 @@
           }
         ]
       }
+    ],
+    "minecraft:white_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:orange_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:magenta_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:light_blue_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:yellow_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:lime_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:pink_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:gray_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:light_gray_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:cyan_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:purple_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:blue_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:brown_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:green_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:red_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "minecraft:black_wool": [
+      {
+        "roll": {
+          "count": 1,
+          "type": "constant"
+        },
+        "pool": [
+          {
+            "weight": 1,
+            "item": {
+              "id": "string",
+              "count": {
+                "count": 2,
+                "type": "constant"
+              }
+            }
+          }
+        ]
+      }
     ]
   }
 }

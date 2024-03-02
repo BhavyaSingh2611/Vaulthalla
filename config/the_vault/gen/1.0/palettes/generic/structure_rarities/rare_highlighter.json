@@ -165,6 +165,46 @@
       }
     },
     {
+      "type": "weighted_target",
+      "target": "the_vault:placeholder[type=wooden_chest_waterlogged]",
+      "output": {
+        "the_vault:placeholder[type=wooden_chest_waterlogged]": 10,
+        "minecraft:air": 10
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "the_vault:placeholder[type=ornate_chest_waterlogged]",
+      "output": {
+        "the_vault:placeholder[type=ornate_chest_waterlogged]": 5,
+        "minecraft:air": 15
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "the_vault:placeholder[type=living_chest_waterlogged]",
+      "output": {
+        "the_vault:placeholder[type=living_chest_waterlogged]": 5,
+        "minecraft:air": 15
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "the_vault:placeholder[type=gilded_chest_waterlogged]",
+      "output": {
+        "the_vault:placeholder[type=gilded_chest_waterlogged]": 5,
+        "minecraft:air": 15
+      }
+    },
+    {
+      "type": "weighted_target",
+      "target": "the_vault:placeholder[type=coin_stacks_waterlogged]",
+      "output": {
+        "the_vault:placeholder[type=coin_stacks_waterlogged]": 7,
+        "minecraft:air": 13
+      }
+    },
+    {
         "type": "leveled",
         "levels": [
             {

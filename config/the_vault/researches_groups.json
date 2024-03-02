@@ -90,11 +90,15 @@
       "title": "Looting",
       "research": [
         "Belts",
-        "Pouches",
         "Double Pouches",
         "Backpacks",
         "Big Backpacks",
-        "Junk Management"
+        "Junk Management",
+        "Stack Upgrading",
+        "Auto Feeding",
+        "Auto Refill",
+        "Soul Harvester"
+
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {

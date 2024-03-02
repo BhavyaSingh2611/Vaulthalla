@@ -1,5 +1,5 @@
 {
-  "catalystMinLevel": 24,
+  "catalystMinLevel": 20,
   "catalystChances": {
     "the_vault:wooden_chest": {
       "RARE": 0.2,

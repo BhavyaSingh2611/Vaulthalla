@@ -29,15 +29,6 @@
       "color": 65535,
       "weight": 0
     },
-    "Thorns": {
-      "tags": [
-        "focusThornsChance",
-        "focusThornsDamage"
-      ],
-      "display": "Thorns",
-      "color": 16747256,
-      "weight": 0
-    },
     "Looting": {
       "tags": [
         "ModItemRarity",
@@ -91,6 +82,14 @@
       ],
       "display": "Slowness Cloud",
       "color": 7400423,
+      "weight": 10
+    },
+    "Chilling Cloud": {
+      "tags": [
+        "focusChillingCloud"
+      ],
+      "display": "Chilling Cloud",
+      "color": 3138042,
       "weight": 10
     },
     "Poison Cloud": {
@@ -197,28 +196,12 @@
       "color": 6119096,
       "weight": 10
     },
-    "ManaAdditive": {
-      "tags": [
-        "focusManaAdd"
-      ],
-      "display": "Max Mana",
-      "color": 65535,
-      "weight": 10
-    },
     "ManaPercentile": {
       "tags": [
         "focusManaPercentile"
       ],
       "display": "Max Mana Percentile",
       "color": 65535,
-      "weight": 10
-    },
-    "Soulbound": {
-      "tags": [
-        "focusSoulbound"
-      ],
-      "display": "Soulbound",
-      "color": 9856253,
       "weight": 10
     },
     "MiningSpeed": {
@@ -274,15 +257,7 @@
         "focusShocking"
       ],
       "display": "Shocking",
-      "color": 1681124,
-      "weight": 10
-    },
-    "CritHitMitigation": {
-      "tags": [
-        "focusCritHitMitigation"
-      ],
-      "display": "Crit Hit Mitigation",
-      "color": 7441919,
+      "color": 13819995,
       "weight": 10
     },
     "Block": {
@@ -291,14 +266,6 @@
       ],
       "display": "Block Chance",
       "color": 16109454,
-      "weight": 10
-    },
-    "ThornsChance": {
-      "tags": [
-        "focusThornsChance"
-      ],
-      "display": "Thorns Chance",
-      "color": 16761035,
       "weight": 10
     },
     "ThornsDamage": {
@@ -341,6 +308,62 @@
       "color": 16382128,
       "weight": 10
     },
+    "DamageNether": {
+      "tags": [
+        "focusDamageNether"
+      ],
+      "display": "Nether Damage",
+      "color": 16757889,
+      "weight": 10
+    },
+    "DamageChampion": {
+      "tags": [
+        "focusDamageChampion"
+      ],
+      "display": "Champion Damage",
+      "color": 6213132,
+      "weight": 10
+    },
+    "DamageDungeon": {
+      "tags": [
+        "focusDamageDungeon"
+      ],
+      "display": "Dungeon Damage",
+      "color": 823502,
+      "weight": 10
+    },
+    "DamageTank": {
+      "tags": [
+        "focusDamageTank"
+      ],
+      "display": "Tank Damage",
+      "color": 13513996,
+      "weight": 10
+    },
+    "DamageHorde": {
+      "tags": [
+        "focusDamageHorde"
+      ],
+      "display": "Horde Damage",
+      "color": 13094412,
+      "weight": 10
+    },
+    "DamageAssassin": {
+      "tags": [
+        "focusDamageAssassin"
+      ],
+      "display": "Assassin Damage",
+      "color": 11881191,
+      "weight": 10
+    },
+    "DamageDweller": {
+      "tags": [
+        "focusDamageDweller"
+      ],
+      "display": "Dweller Damage",
+      "color": 15895195,
+      "weight": 10
+    },
     "ItemQuantity": {
       "tags": [
         "focusItemQuantity"
@@ -357,12 +380,12 @@
       "color": 15054873,
       "weight": 10
     },
-    "Immunity": {
+    "AOE": {
       "tags": [
-        "focusImmunity"
+        "focusEffectRadius"
       ],
-      "display": "Immunity",
-      "color": 15589836,
+      "display": "Area Of Effect",
+      "color": 15319925,
       "weight": 10
     },
     "Reach": {

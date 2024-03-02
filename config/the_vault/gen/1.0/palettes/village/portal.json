@@ -12,7 +12,7 @@
             "type": "weighted_target",
             "target": "minecraft:repeating_command_block",
             "output": {
-              "minecraft:repeating_command_block{ Command: \"/execute if block ~ ~4 ~ minecraft:end_portal_frame[eye=true] run fill ~4 ~4 ~4 ~-4 ~4 ~-4 the_vault:living_chest{LootTable:\\\"the_vault:living_chest_lvl0_v2\\\"} replace minecraft:end_portal_frame\" }": 1
+              "minecraft:repeating_command_block{ Command: \"/execute if block ~ ~4 ~ minecraft:end_portal_frame[eye=true] run fill ~4 ~4 ~4 ~-4 ~4 ~-4 the_vault:living_chest{LootTable:\\\"the_vault:living_chest_lvl0\\\"} replace minecraft:end_portal_frame\" }": 1
             }
           },
           {
@@ -20,7 +20,7 @@
             "type": "weighted_target",
             "target": "minecraft:repeating_command_block",
             "output": {
-              "minecraft:repeating_command_block{ Command: \"/execute if block ~ ~4 ~ minecraft:end_portal_frame[eye=true] run fill ~4 ~4 ~4 ~-4 ~4 ~-4 the_vault:living_chest{LootTable:\\\"the_vault:living_chest_lvl14_v2\\\"} replace minecraft:end_portal_frame\" }": 1
+              "minecraft:repeating_command_block{ Command: \"/execute if block ~ ~4 ~ minecraft:end_portal_frame[eye=true] run fill ~4 ~4 ~4 ~-4 ~4 ~-4 the_vault:living_chest{LootTable:\\\"the_vault:living_chest_lvl14\\\"} replace minecraft:end_portal_frame\" }": 1
             }
           },
           {
@@ -28,7 +28,7 @@
             "type": "weighted_target",
             "target": "minecraft:repeating_command_block",
             "output": {
-              "minecraft:repeating_command_block{ Command: \"/execute if block ~ ~4 ~ minecraft:end_portal_frame[eye=true] run fill ~4 ~4 ~4 ~-4 ~4 ~-4 the_vault:living_chest{LootTable:\\\"the_vault:living_chest_lvl21_v2\\\"} replace minecraft:end_portal_frame\" }": 1
+              "minecraft:repeating_command_block{ Command: \"/execute if block ~ ~4 ~ minecraft:end_portal_frame[eye=true] run fill ~4 ~4 ~4 ~-4 ~4 ~-4 the_vault:living_chest{LootTable:\\\"the_vault:living_chest_lvl21\\\"} replace minecraft:end_portal_frame\" }": 1
             }
           },
           {
@@ -36,7 +36,7 @@
             "type": "weighted_target",
             "target": "minecraft:repeating_command_block",
             "output": {
-              "minecraft:repeating_command_block{ Command: \"/execute if block ~ ~4 ~ minecraft:end_portal_frame[eye=true] run fill ~4 ~4 ~4 ~-4 ~4 ~-4 the_vault:living_chest{LootTable:\\\"the_vault:living_chest_lvl30_v2\\\"} replace minecraft:end_portal_frame\" }": 1
+              "minecraft:repeating_command_block{ Command: \"/execute if block ~ ~4 ~ minecraft:end_portal_frame[eye=true] run fill ~4 ~4 ~4 ~-4 ~4 ~-4 the_vault:living_chest{LootTable:\\\"the_vault:living_chest_lvl30\\\"} replace minecraft:end_portal_frame\" }": 1
             }
           },
           {
@@ -44,7 +44,7 @@
             "type": "weighted_target",
             "target": "minecraft:repeating_command_block",
             "output": {
-              "minecraft:repeating_command_block{ Command: \"/execute if block ~ ~4 ~ minecraft:end_portal_frame[eye=true] run fill ~4 ~4 ~4 ~-4 ~4 ~-4 the_vault:living_chest{LootTable:\\\"the_vault:living_chest_lvl41_v2\\\"} replace minecraft:end_portal_frame\" }": 1
+              "minecraft:repeating_command_block{ Command: \"/execute if block ~ ~4 ~ minecraft:end_portal_frame[eye=true] run fill ~4 ~4 ~4 ~-4 ~4 ~-4 the_vault:living_chest{LootTable:\\\"the_vault:living_chest_lvl41\\\"} replace minecraft:end_portal_frame\" }": 1
             }
           }
         ]

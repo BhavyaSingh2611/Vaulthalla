@@ -1,6 +1,6 @@
 {
 	"x": -124,
-	"y": 84,
+	"y": 72,
 	"width": 20,
 	"height": 20,
 	"u": 0,
@@ -9,7 +9,7 @@
 	"hoverV": 126,
 	"texWidth": 256,
 	"texHeight": 256,
-	"widgets": true,
+	"widgets": false,
 	"action": "OPEN_GUI",
 	"data": "LANGUAGE"
 }

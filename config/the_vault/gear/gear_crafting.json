@@ -28,8 +28,18 @@
       "max": 140
     }
   },
+  "potentialModifiers": {
+    "Beginner": 1.0,  
+    "Novice": 1.0,
+    "Maker": 1.0,
+    "Apprentice": 1.0,
+    "Smith": 1.0,
+    "Artisan": 1.0,
+    "Master Artisan": 1.0
+  },
   "totalMaximumProficiency": 2147483647,
   "totalCategoryProficiency": 5000,
+  "proficiencyPotentialMultiplier": 1.1,
   "proficiencyPerCraft": {
     "min": 5,
     "max": 10

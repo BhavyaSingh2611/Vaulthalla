@@ -25,7 +25,7 @@
         "Hunter_Blocks": {
           "icon": "the_vault:gui/abilities/hunter_blocks"
         },
-        
+
         "Hunter_Gilded": {
           "icon": "the_vault:gui/abilities/hunter_gilded"
         },
@@ -67,15 +67,6 @@
         }
       }
     },
-    "Execute": {
-      "x": 646,
-      "y": 12,
-      "specializationStyles": {
-        "Execute_Base": {
-          "icon": "the_vault:gui/abilities/execute"
-        }
-      }
-    },
     "Mega_Jump": {
       "x": 190,
       "y": 12,
@@ -88,15 +79,7 @@
         }
       }
     },
-    "Summon_Eternal": {
-      "x": 608,
-      "y": 12,
-      "specializationStyles": {
-        "Summon_Eternal_Base": {
-          "icon": "the_vault:gui/abilities/summon_eternal"
-        }
-      }
-    },
+
     "Nova": {
       "x": 0,
       "y": 12,
@@ -121,6 +104,9 @@
         },
         "Mana_Shield_Retribution": {
           "icon": "the_vault:gui/abilities/mana_shield_retribution"
+        },
+        "Mana_Shield_Implode": {
+          "icon": "the_vault:gui/abilities/mana_shield_implode"
         }
       }
     },
@@ -163,6 +149,9 @@
         },
         "Empower_Ice_Armor": {
           "icon": "the_vault:gui/abilities/empower_ice_armour"
+        },
+        "Empower_Slowness_Aura": {
+          "icon": "the_vault:gui/abilities/empower_entropy"
         }
       }
     },
@@ -259,9 +248,6 @@
         },
         "Smite_Archon": {
           "icon": "the_vault:gui/abilities/smite_archon"
-        },
-        "Smite_Thunderstorm": {
-          "icon": "the_vault:gui/abilities/smite_thunderstorm4"
         }
       }
     },
@@ -277,6 +263,57 @@
         },
         "Shell_Quill": {
           "icon": "the_vault:gui/abilities/shell_quill"
+        }
+      }
+    },
+    "Fireball": {
+      "x": 722,
+      "y": 12,
+      "specializationStyles": {
+        "Fireball_Base": {
+          "icon": "the_vault:gui/abilities/fireball"
+        },
+        "Fireball_Volley": {
+          "icon": "the_vault:gui/abilities/fireball_volley"
+        },
+        "Fireball_Fireshot": {
+          "icon": "the_vault:gui/abilities/fireball_fireshot"
+        }
+      }
+    },
+    "Storm_Arrow": {
+      "x": 646,
+      "y": 12,
+      "specializationStyles": {
+        "Storm_Arrow_Base": {
+          "icon": "the_vault:gui/abilities/thunderstorm"
+        },
+        "Storm_Arrow_Blizzard": {
+          "icon": "the_vault:gui/abilities/blizzard"
+        }
+      }
+    },
+    "Summon_Eternal": {
+      "x": 760,
+      "y": 12,
+      "specializationStyles": {
+        "Summon_Eternal_Base": {
+          "icon": "the_vault:gui/abilities/summon_eternal"
+        }
+      }
+    },
+    "Battle_Cry": {
+      "x": 608,
+      "y": 12,
+      "specializationStyles": {
+        "Battle_Cry_Base": {
+          "icon": "the_vault:gui/abilities/battle_cry"
+        },
+        "Battle_Cry_Spectral_Strike": {
+          "icon": "the_vault:gui/abilities/battle_cry_spectral_strike"
+        },
+        "Battle_Cry_Lucky_Strike": {
+          "icon": "the_vault:gui/abilities/battle_cry_lucky_strike"
         }
       }
     }

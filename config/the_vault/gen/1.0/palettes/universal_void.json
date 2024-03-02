@@ -55,7 +55,7 @@
             "type": "weighted_target",
             "target": "minecraft:coarse_dirt",
             "output": {
-                "minecraft:black_concrete": 1,
+                "minecraft:black_concrete_powder": 1,
                 "minecraft:polished_blackstone": 1,
                 "minecraft:blackstone": 1
             }

@@ -48,50 +48,6 @@
                 "weight": 1
               }
             ]
-          },
-          {
-            "min": 1,
-            "max": 1,
-            "pool": [
-              {
-                "value": "the_vault:gilded",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:living",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:ornate",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:coin_pile",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 20
-              }
-            ]
-          },
-          {
-            "min": 1,
-            "max": 1,
-            "pool": [
-              {
-                "value": "the_vault:item_quantity",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:item_rarity",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 20
-              }
-            ]
           }
         ]
       },
@@ -107,248 +63,42 @@
                 "weight": 1000
               }
             ]
-          },
-          {
-            "min": 1,
-            "max": 1,
-            "pool": [
-              {
-                "value": "the_vault:gilded",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:living",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:ornate",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:coin_pile",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 20
-              }
-            ]
-          },
-          {
-            "min": 1,
-            "max": 1,
-            "pool": [
-              {
-                "value": "the_vault:item_quantity",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:item_rarity",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 20
-              }
-            ]
           }
         ]
       },
       { "level": 20,
         "entries": [
           {
-            "min": 4,
-            "max": 4,
-            "pool": [
-              {
-                "value": "the_vault:gilded",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:living",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:ornate",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:coin_pile",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 36
-              }
-            ]
-          },
-          {
             "min": 1,
             "max": 1,
             "pool": [
               {
-                "value": "the_vault:prosperous",
+                "value": "the_vault:enlighted",
                 "weight": 1
               },
               {
-                "value": "the_vault:dummy",
-                "weight": 30
-              }
-            ]
-          },
-          {
-            "min": 4,
-            "max": 4,
-            "pool": [
-              {
-                "value": "the_vault:item_quantity",
+                "value": "the_vault:hoard",
                 "weight": 1
               },
               {
-                "value": "the_vault:item_rarity",
+                "value": "the_vault:treasure",
                 "weight": 1
               },
               {
-                "value": "the_vault:plentiful",
+                "value": "the_vault:soul_surge",
                 "weight": 1
               },
-              {
-                "value": "the_vault:dummy",
-                "weight": 18
-              }
-            ]
-          },
-          {
-            "min": 4,
-            "max": 4,
-            "pool": [
-              {
-                "value": "the_vault:trapped",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:chunky_mobs",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 18
-              }
-            ]
-          },
-          {
-            "min": 4,
-            "max": 4,
-            "pool": [
-              {
-                "value": "the_vault:xp_gain",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 36
-              }
-            ]
-          }
-        ]
-      },
-      { "level": 24,
-        "entries": [
-          {
-            "min": 4,
-            "max": 4,
-            "pool": [
-              {
-                "value": "the_vault:gilded",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:living",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:ornate",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:coin_pile",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 36
-              }
-            ]
-          },
-          {
-            "min": 1,
-            "max": 1,
-            "pool": [
               {
                 "value": "the_vault:prismatic",
-                "weight": 4
+                "weight": 1
               },
               {
-                "value": "the_vault:prosperous",
+                "value": "the_vault:champion_chance",
                 "weight": 1
               },
               {
                 "value": "the_vault:dummy",
-                "weight": 30
-              }
-            ]
-          },
-          {
-            "min": 4,
-            "max": 4,
-            "pool": [
-              {
-                "value": "the_vault:item_quantity",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:item_rarity",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:plentiful",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 18
-              }
-            ]
-          },
-          {
-            "min": 4,
-            "max": 4,
-            "pool": [
-              {
-                "value": "the_vault:trapped",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:chunky_mobs",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 18
-              }
-            ]
-          },
-          {
-            "min": 4,
-            "max": 4,
-            "pool": [
-              {
-                "value": "the_vault:xp_gain",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 36
+                "weight": 12
               }
             ]
           }
@@ -357,108 +107,40 @@
       { "level": 50,
         "entries": [
           {
-            "min": 4,
-            "max": 4,
-            "pool": [
-              {
-                "value": "the_vault:gilded",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:living",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:ornate",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:coin_pile",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 36
-              }
-            ]
-          },
-          {
             "min": 1,
             "max": 1,
             "pool": [
               {
-                "value": "the_vault:prismatic",
-                "weight": 4
+                "value": "the_vault:enlighted",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:hoard",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:treasure",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:soul_surge",
+                "weight": 1
               },
               {
                 "value": "the_vault:prosperous",
                 "weight": 1
               },
               {
-                "value": "the_vault:dummy",
-                "weight": 30
-              }
-            ]
-          },
-          {
-            "min": 4,
-            "max": 4,
-            "pool": [
-              {
-                "value": "the_vault:item_quantity",
+                "value": "the_vault:prismatic",
                 "weight": 1
               },
               {
-                "value": "the_vault:item_rarity",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:plentiful",
+                "value": "the_vault:champion_chance",
                 "weight": 1
               },
               {
                 "value": "the_vault:dummy",
-                "weight": 18
-              }
-            ]
-          },
-          {
-            "min": 5,
-            "max": 5,
-            "pool": [
-              {
-                "value": "the_vault:trapped",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:chunky_mobs",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:wild",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:furious",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 36
-              }
-            ]
-          },
-          {
-            "min": 4,
-            "max": 4,
-            "pool": [
-              {
-                "value": "the_vault:xp_gain",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:dummy",
-                "weight": 36
+                "weight": 12
               }
             ]
           }
@@ -632,41 +314,572 @@
         ]
       }
     ],
+    "the_vault:velara_charm_stack": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:velara_tear",
+                "weight": 80
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:idona_charm_stack": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:idona_tear",
+                "weight": 80
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:tenos_charm_stack": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:tenos_tear",
+                "weight": 80
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:wendarr_charm_stack": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:wendarr_tear",
+                "weight": 80
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "the_vault:cake_adds": [
       {
         "level": 0,
         "entries": [
           {
-            "min": 2,
-            "max": 4,
+            "min": 1,
+            "max": 1,
             "pool": [
               {
-                "value": "the_vault:cake_item_quantity",
+                "value": "the_vault:cake_layer",
                 "weight": 80
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:brazier_pillage": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:brutal_mobs",
+                "weight": 40
               },
               {
-                "value": "the_vault:cake_item_rarity",
+                "value": "the_vault:injured",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:shortened",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:drained",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:ethereal",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:lethal",
+                "weight": 20
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:brazier": [
+      { "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:low_item_quantity",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:copiously",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:hoard",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:item_rarity",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:fortuitous",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:energizing",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:regeneration",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:strength",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:swift",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:haunted",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:soul_boost",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:xp_gain",
+                "weight": 20
+              }
+            ]
+          },
+          {
+            "min": 0,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:mob_increase",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:infuriated_mobs",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:brutal_mobs",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:chunky_mobs2",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:slowed",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:injured",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:ruthless_mobs",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:champion_paradox",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:shortened",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:grievous_wounds",
+                "weight": 40
+              }
+              
+            ]
+          }
+        ]
+      },
+      { "level": 20,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+
+              {
+                "value": "the_vault:dungeon_doors",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:low_item_quantity",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:copiously",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:hoard",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:item_rarity",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:fortuitous",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:energizing",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:regeneration",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:strength",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:swift",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:haunted",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:soul_boost",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:xp_gain",
+                "weight": 20
+              }
+            ]
+          },
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:mob_increase",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:infuriated_mobs",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:brutal_mobs",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:chunky_mobs2",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:slowed",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:injured",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:ruthless_mobs",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:champion_paradox",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:shortened",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:grievous_wounds",
+                "weight": 40
+              }
+              
+            ]
+          }
+        ]
+      },
+      { "level": 50,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              
+              {
+                "value": "the_vault:dungeon_doors",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:treasure_doors",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:low_item_quantity",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:copiously",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:hoard",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:item_rarity",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:fortuitous",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:energizing",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:regeneration",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:strength",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:swift",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:haunted",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:soul_boost",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:xp_gain",
+                "weight": 20
+              }
+            ]
+          },
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:mob_increase",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:trapped",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:infuriated_mobs",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:brutal_mobs",
+                "weight": 2
+              },
+              {
+                "value": "the_vault:chunky_mobs2",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:slowed",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:injured",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:ruthless_mobs",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:champion_paradox",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:shortened",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:grievous_wounds",
+                "weight": 40
+              }
+              
+            ]
+          }
+        ]
+      }
+    ],
+    
+    "the_vault:plunderer_pearl": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:plunderer",
                 "weight": 80
               }
             ]
-          },
-
+          }
+        ]
+      }
+    ],
+    "the_vault:ascension_fail": [
+      {
+        "level": 0,
+        "entries": [
           {
-            "min": 2,
+            "min": 1,
+            "max": 1,
+            "pool": [
+              
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:wardens_pearl": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:afterlife",
+                "weight": 80
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:paradox_common": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
             "max": 2,
             "pool": [
               {
-                "value": "the_vault:cake_furious_mobs",
+                "value": "the_vault:gilded_cascade",
                 "weight": 10
+              },
+              {
+                "value": "the_vault:ornate_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:living_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:wooden_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:coin_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:item_quantity",
+                "weight": 30
+              },
+              {
+                "value": "the_vault:item_rarity",
+                "weight": 30
+              },
+              {
+                "value": "the_vault:haunted",
+                "weight": 30
+              },
+              {
+                "value": "the_vault:plentiful",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:phoenix",
+                "weight": 6
               }
             ]
           },
           {
-            "min": 2,
-            "max": 2,
+            "min": 0,
+            "max": 1,
             "pool": [
               {
-                "value": "the_vault:cake_chunky_mobs",
+                "value": "the_vault:extended",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:dummy",
                 "weight": 10
               }
             ]
@@ -674,7 +887,195 @@
         ]
       }
     ],
-
+    "the_vault:paradox_ore": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:gilded_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:ornate_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:living_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:wooden_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:coin_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:item_quantity",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:item_rarity",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:plentiful",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:haunted",
+                "weight": 40
+              },
+              {
+                "value": "the_vault:extended",
+                "weight": 10
+              }
+            ]
+          },
+          {
+            "min": 0,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:furious_mobs",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:infuriated_mobs",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:chunky_mobs",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:wild",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:trapped",
+                "weight": 10
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:paradox_challenge": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:gilded_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:ornate_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:living_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:wooden_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:coin_cascade",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:plentiful",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:champion_paradox",
+                "weight": 10
+              }
+            ]
+          },
+          {
+            "min": 1,
+            "max": 2,
+            "pool": [
+              {
+                "value": "the_vault:furious_mobs",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:infuriated_mobs",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:chunky_mobs",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:wild",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:trapped",
+                "weight": 10
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:paradox_omega": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 2,
+            "max": 2,
+            "pool": [
+              {
+                "value": "the_vault:furious_mobs",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:infuriated_mobs",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:chunky_mobs",
+                "weight": 20
+              },
+              {
+                "value": "the_vault:wild",
+                "weight": 10
+              },
+              {
+                "value": "the_vault:trapped",
+                "weight": 10
+              }
+            ]
+          },
+          {
+            "min": 0,
+            "max": 3,
+            "pool": [
+              {
+                "value": "the_vault:shortened",
+                "weight": 10
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "the_vault:catalyst_positive": [
       {
         "level": 0,
@@ -913,151 +1314,34 @@
         ]
       }
     ],
-    "the_vault:soul_flame_curse": [
+    "the_vault:soul_flame_apply": [
       {
         "level": 0,
         "entries": [
           {
             "min": 0,
+            "max": 0,
+            "pool": [
+              {
+                "value": "the_vault:soul_locked",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:soul_flame_stack": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
             "max": 1,
             "pool": [
               {
-                "value": "the_vault:hunger",
-                "weight": 10
-              },
-              {
-                "value": "the_vault:tired",
-                "weight": 14
-              },
-              {
-                "value": "the_vault:slowed",
-                "weight": 14
-              },
-              {
-                "value": "the_vault:weakened",
-                "weight": 12
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "level": 25,
-        "entries": [
-          {
-            "min": 0,
-            "max": 2,
-            "pool": [
-              {
-                "value": "the_vault:hunger",
-                "weight": 10
-              },
-              {
-                "value": "the_vault:tired",
-                "weight": 14
-              },
-              {
-                "value": "the_vault:slowed",
-                "weight": 14
-              },
-              {
-                "value": "the_vault:weakened",
-                "weight": 12
-              },
-              {
-                "value": "the_vault:inert",
-                "weight": 8
-              },
-              {
-                "value": "the_vault:poor",
-                "weight": 10
-              },
-              {
-                "value": "the_vault:unlucky",
-                "weight": 10
-              },
-              {
-                "value": "the_vault:locked",
-                "weight": 14
-              },
-              {
-                "value": "the_vault:frenzy",
-                "weight": 8
-              },
-              {
-                "value": "the_vault:rotten",
-                "weight": 12
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "level": 50,
-        "entries": [
-          {
-            "min": 0,
-            "max": 2,
-            "pool": [
-              {
-                "value": "the_vault:hunger",
-                "weight": 10
-              },
-              {
-                "value": "the_vault:tired",
-                "weight": 14
-              },
-              {
-                "value": "the_vault:slowed",
-                "weight": 14
-              },
-              {
-                "value": "the_vault:weakened",
-                "weight": 12
-              },
-              {
-                "value": "the_vault:inert",
-                "weight": 8
-              },
-              {
-                "value": "the_vault:locked",
-                "weight": 18
-              },
-              {
-                "value": "the_vault:frenzy",
-                "weight": 8
-              },
-              {
-                "value": "the_vault:rotten",
-                "weight": 12
-              },
-              {
-                "value": "the_vault:wounded",
-                "weight": 8
-              },
-              {
-                "value": "the_vault:drained",
-                "weight": 6
-              },
-              {
-                "value": "the_vault:minefield",
-                "weight": 4
-              },
-              {
-                "value": "the_vault:collapsing",
-                "weight": 12
-              },
-              {
-                "value": "the_vault:volcanic",
-                "weight": 8
-              },
-              {
-                "value": "the_vault:explosive",
-                "weight": 4
-              },
-              {
-                "value": "the_vault:shulker",
-                "weight": 10
+                "value": "the_vault:soul_flame",
+                "weight": 1
               }
             ]
           }
@@ -1234,10 +1518,78 @@
               {
                 "value": "the_vault:velara_favour_2",
                 "weight": 1
-              },
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:god_token_wendarr": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              
               {
-                "value": "the_vault:velara_favour_3",
-                "weight": 1
+                "value": "the_vault:wendarr_inline",
+                "weight": 100
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:god_token_idona": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              
+              {
+                "value": "the_vault:idona_inline",
+                "weight": 100
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:god_token_tenos": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              
+              {
+                "value": "the_vault:tenos_inline",
+                "weight": 100
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:god_token_velara": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              
+              {
+                "value": "the_vault:velara_inline",
+                "weight": 100
               }
             ]
           }
@@ -1253,15 +1605,11 @@
             "max": 1,
             "pool": [
               {
-                "value": "the_vault:tenos_favour_1",
+                "value": "the_vault:tenos_rarity",
                 "weight": 1
               },
               {
                 "value": "the_vault:tenos_favour_2",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:tenos_favour_3",
                 "weight": 1
               }
             ]
@@ -1278,15 +1626,11 @@
             "max": 1,
             "pool": [
               {
-                "value": "the_vault:wendarr_favour_1",
+                "value": "the_vault:wendarr_favour",
                 "weight": 1
               },
               {
-                "value": "the_vault:wendarr_favour_2",
-                "weight": 1
-              },
-              {
-                "value": "the_vault:wendarr_favour_3",
+                "value": "the_vault:wendarr_speed",
                 "weight": 1
               }
             ]
@@ -1303,15 +1647,52 @@
             "max": 1,
             "pool": [
               {
-                "value": "the_vault:idona_favour_1",
+                "value": "the_vault:idona_soulchance",
                 "weight": 1
               },
               {
-                "value": "the_vault:idona_favour_2",
+                "value": "the_vault:idona_dmg",
+                "weight": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "the_vault:altar_curses": [
+      {
+        "level": 0,
+        "entries": [
+          {
+            "min": 1,
+            "max": 1,
+            "pool": [
+              {
+                "value": "the_vault:mana_leak",
                 "weight": 1
               },
               {
-                "value": "the_vault:idona_favour_3",
+                "value": "the_vault:ethereal",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:crit_mobs",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:lost_quantity",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:enervated",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:soulless",
+                "weight": 1
+              },
+              {
+                "value": "the_vault:fading",
                 "weight": 1
               }
             ]
@@ -1342,60 +1723,57 @@
         "entries": [
           {
             "min": 30,
-            "max": 30,
+            "max": 50,
             "pool": [
               {
                 "value": "the_vault:wild",
-                "weight": 6
-              },
-              {
-                "value": "the_vault:furious_mobs",
                 "weight": 4
               },
               {
+                "value": "the_vault:furious_mobs",
+                "weight": 8
+              },
+              {
                 "value": "the_vault:chunky_mobs",
-                "weight": 6
+                "weight": 8
               },
               {
                 "value": "the_vault:trapped",
                 "weight": 4
               },
               {
-                "value": "the_vault:gilded",
-                "weight": 4
+                "value": "the_vault:infuriated_mobs",
+                "weight": 8
               },
               {
-                "value": "the_vault:ornate",
-                "weight": 4
+                "value": "the_vault:gilded_cascade",
+                "weight": 8
               },
               {
-                "value": "the_vault:living",
-                "weight": 4
+                "value": "the_vault:ornate_cascade",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:living_cascade",
+                "weight": 8
+              },
+              {
+                "value": "the_vault:wooden_cascade",
+                "weight": 8
               },
               {
                 "value": "the_vault:plentiful",
-                "weight": 4
+                "weight": 8
               },
               {
                 "value": "the_vault:item_quantity",
-                "weight": 2
+                "weight": 4
               },
               {
                 "value": "the_vault:item_rarity",
-                "weight": 2
-              },
-              {
-                "value": "the_vault:xp_gain",
-                "weight": 2
-              },
-              {
-                "value": "the_vault:haunted",
-                "weight": 3
-              },
-              {
-                "value": "the_vault:infuriated_mobs",
-                "weight": 3
+                "weight": 4
               }
+              
             ]
           }
         ]
@@ -1414,12 +1792,12 @@
                 "weight": 3
               },
               {
-                "value": "the_vault:furious_mobs",
-                "weight": 5
+                "value": "the_vault:ruthless_mobs",
+                "weight": 6
               },
               {
                 "value": "the_vault:chunky_mobs",
-                "weight": 5
+                "weight": 6
               },
               {
                 "value": "the_vault:trapped",
@@ -1427,7 +1805,7 @@
               },
               {
                 "value": "the_vault:infuriated_mobs",
-                "weight": 2
+                "weight": 3
               },
               {
                 "value": "the_vault:draining",
@@ -1436,6 +1814,10 @@
               {
                 "value": "the_vault:shortened",
                 "weight": 4
+              },
+              {
+                "value": "the_vault:mob_increase",
+                "weight": 6
               }
             ]
           }

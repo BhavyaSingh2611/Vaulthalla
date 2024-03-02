@@ -13,7 +13,7 @@
         "weight": 1,
         "value": {
           "template": "the_vault:vault/decor/generic/omega/ultramega3",
-          "palettes": [ "the_vault:generic/spawners/omega_settings" ]
+          "palettes": [ "the_vault:generic/spawners/epic_settings" ]
         }
       }
     ]

@@ -6,7 +6,7 @@
 	"langKey": "menu.singleplayer",
 	"action": "OPEN_GUI",
 	"data": "SINGLEPLAYER",
-	"texture": "packmenu:textures/gui/widgets.png",
+	"texture": "packmenu:textures/gui/vhbutton.png",
 	"u": 66,
 	"v": 0,
 	"hoverU": 0,

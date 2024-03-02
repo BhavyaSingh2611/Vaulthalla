@@ -43,6 +43,13 @@
               "template": "the_vault:vault/decor/raw/farm/hole5",
               "palettes": []
             }
+          },
+          {
+            "weight": 1,
+            "value": {
+              "template": "the_vault:vault/decor/raw/farm/hole6",
+              "palettes": []
+            }
           }
       ]
     }

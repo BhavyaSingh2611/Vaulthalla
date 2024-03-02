@@ -5,9 +5,9 @@ for Iskall85's Vaulthunters */
 
 // Basic Backpack
 craftingTable.addShaped("sophisticatedbackpacks_pouch", <item:sophisticatedbackpacks:backpack>, [
-    [<item:the_vault:vault_essence>, <item:the_vault:perfect_larimar>, <item:the_vault:vault_essence>],
-    [<item:the_vault:perfect_larimar>, <item:minecraft:bundle>, <item:the_vault:perfect_larimar>],
-    [<item:the_vault:magic_silk>, <item:the_vault:magic_silk_block>, <item:the_vault:magic_silk>]
+    [<item:minecraft:shulker_shell>, <item:the_vault:vault_diamond>, <item:minecraft:shulker_shell>],
+    [<item:the_vault:perfect_larimar>, <item:the_vault:magic_silk_block>, <item:the_vault:perfect_larimar>],
+    [<item:minecraft:shulker_shell>, <item:the_vault:vault_diamond>, <item:minecraft:shulker_shell>]
 ]);
 
 // Uprading your backpack
@@ -113,9 +113,9 @@ craftingTable.addShaped("sophisticatedbackpacks_refill_upgrade", <item:sophistic
 ]);
 
 craftingTable.addShaped("sophisticatedbackpacks_void_upgrade", <item:sophisticatedbackpacks:void_upgrade>, [
-    [<item:the_vault:black_chromatic_steel_ingot>, <item:the_vault:gem_echo>, <item:the_vault:black_chromatic_steel_ingot>],
-    [<item:the_vault:carbon>, <item:sophisticatedbackpacks:upgrade_base>, <item:the_vault:carbon>],
-    [<item:the_vault:chromatic_steel_block>, <item:the_vault:carbon>, <item:the_vault:chromatic_steel_block>]
+    [<item:the_vault:chromatic_steel_ingot>, <item:the_vault:gem_echo>, <item:the_vault:chromatic_steel_ingot>],
+    [<item:the_vault:vault_diamond>, <item:sophisticatedbackpacks:upgrade_base>, <item:the_vault:vault_diamond>],
+    [<item:the_vault:chromatic_steel_block>, <item:the_vault:vault_diamond>, <item:the_vault:chromatic_steel_block>]
 ]);
 
 craftingTable.addShaped("sophisticatedbackpacks_advanced_void_upgrade", <item:sophisticatedbackpacks:advanced_void_upgrade>, [
@@ -163,7 +163,7 @@ craftingTable.addShaped("sophisticatedbackpacks_advanced_filter_upgrade", <item:
 craftingTable.addShaped("sophisticatedbackpacks_restock_upgrade", <item:sophisticatedbackpacks:restock_upgrade>, [
     [<item:the_vault:chromatic_iron_block>, <item:the_vault:gem_echo>, <item:the_vault:chromatic_iron_block>],
     [<item:the_vault:magic_silk>, <item:sophisticatedbackpacks:upgrade_base>, <item:the_vault:magic_silk>],
-    [<item:the_vault:chromatic_steel_block>, <item:sophisticatedbackpacks:gold_backpack>, <item:the_vault:chromatic_steel_block>]
+    [<item:the_vault:chromatic_steel_block>, <item:the_vault:black_chromatic_steel_ingot>, <item:the_vault:chromatic_steel_block>]
 ]);
 
 craftingTable.addShaped("sophisticatedbackpacks_advanced_restock_upgrade", <item:sophisticatedbackpacks:advanced_restock_upgrade>, [
@@ -173,7 +173,7 @@ craftingTable.addShaped("sophisticatedbackpacks_advanced_restock_upgrade", <item
 ]);
 
 craftingTable.addShaped("sophisticatedbackpacks_deposit_upgrade", <item:sophisticatedbackpacks:deposit_upgrade>, [
-    [<item:the_vault:chromatic_iron_block>, <item:sophisticatedbackpacks:gold_backpack>, <item:the_vault:chromatic_iron_block>],
+    [<item:the_vault:chromatic_iron_block>, <item:the_vault:black_chromatic_steel_ingot>, <item:the_vault:chromatic_iron_block>],
     [<item:the_vault:magic_silk>, <item:sophisticatedbackpacks:upgrade_base>, <item:the_vault:magic_silk>],
     [<item:the_vault:chromatic_steel_block>, <item:the_vault:gem_echo>, <item:the_vault:chromatic_steel_block>]
 ]);

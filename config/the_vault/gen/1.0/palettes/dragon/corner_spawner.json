@@ -12,7 +12,23 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Manager: { Settings: { Attempts: 3 } } }": 1
+                        "ispawner:spawner{ Manager:{ UsesLeft:3, Settings: { SpawnDelay: 300, Attempts: 3 } } } }": 1
+                    }
+                },
+                {
+                    "level": 20,
+                    "type": "weighted_target",
+                    "target": "ispawner:spawner",
+                    "output": {
+                        "ispawner:spawner{ Manager:{ UsesLeft:4, Settings: { SpawnDelay: 300, Attempts: 4 } } } }": 1
+                    }
+                },
+                {
+                    "level": 65,
+                    "type": "weighted_target",
+                    "target": "ispawner:spawner",
+                    "output": {
+                        "ispawner:spawner{ Manager:{ UsesLeft:4, Settings: { SpawnDelay: 300, Attempts: 5 } } } }": 1
                     }
                 }
             ]
@@ -25,7 +41,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Manager: { Settings: { PlayerRadius: 16 } } }": 1
+                        "ispawner:spawner{ Manager: { Settings: { PlayerRadius: 12 } } }": 1
                     }
                 }
             ]
@@ -38,7 +54,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Manager: { Settings: { CapRestrictions: [{Limit: 28, SpawnGroup: 0}, {Limit: 0, SpawnGroup: 7}, {Limit: 0, SpawnGroup: 5}, {Limit: 0, SpawnGroup: 4}, {Limit: 0, SpawnGroup: 3}, {Limit: 0, SpawnGroup: 1}, {Limit: 0, SpawnGroup: 6}, {Limit: 0, SpawnGroup: 2}] } } }": 1
+                        "ispawner:spawner{ Manager: { Settings: { CapRestrictions: [{Limit: 64, SpawnGroup: 0}, {Limit: 0, SpawnGroup: 7}, {Limit: 0, SpawnGroup: 5}, {Limit: 0, SpawnGroup: 4}, {Limit: 0, SpawnGroup: 3}, {Limit: 0, SpawnGroup: 1}, {Limit: 0, SpawnGroup: 6}, {Limit: 0, SpawnGroup: 2}] } } }": 1
                     }
                 }
             ]
@@ -51,7 +67,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner",
                     "output": {
-                        "ispawner:spawner{ Manager: { Settings: { CheckRadius: 32 } } }": 1
+                        "ispawner:spawner{ Manager: { Settings: { CheckRadius: 12 } } }": 1
                     }
                 }
             ]

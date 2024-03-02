@@ -1920,6 +1920,14 @@
       }
     },
     {
+      "id": "the_vault:vault/rooms/omega/omega_digsite2",
+      "name": "Omega Digsite 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/omega_digsite2.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/rooms/omega/painting1",
       "name": "Omega Painting 1",
       "1.0": {
@@ -1957,6 +1965,22 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/starts/start1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/starts/personal_vault_start1",
+      "name": "Personal Vault Start 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/starts/personal_vault_start1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/starts/herald",
+      "name": "Herald",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/starts/herald.nbt"
       }
     },
     {
@@ -2001,6 +2025,271 @@
         "tags": [
           "the_vault:portal_piece"
         ]
+      }
+    },
+    {
+      "id": "the_vault:vault/portals/personal_vault_portal1",
+      "name": "Personal Vault Portal 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/portals/personal_vault_portal1.nbt",
+        "tags": [
+          "the_vault:portal_piece"
+        ]
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/boss_start_portal1",
+      "name": "Boss Dimension Start Portal 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/boss_start_portal1.nbt",
+        "tags": [
+          "the_vault:portal_piece"
+        ]
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/boss_exit_portal1",
+      "name": "Boss Dimension Exit Portal 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/boss_exit_portal1.nbt",
+        "tags": [
+          "the_vault:portal_piece"
+        ]
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame0",
+      "name": "Arena Gate Frame 0",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame0.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame1",
+      "name": "Arena Gate Frame 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame2",
+      "name": "Arena Gate Frame 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame3",
+      "name": "Arena Gate Frame 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame4",
+      "name": "Arena Gate Frame 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame5",
+      "name": "Arena Gate Frame 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame6",
+      "name": "Arena Gate Frame 6",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame6.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame7",
+      "name": "Arena Gate Frame 7",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame7.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame8",
+      "name": "Arena Gate Frame 8",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame8.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame9",
+      "name": "Arena Gate Frame 9",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame9.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame10",
+      "name": "Arena Gate Frame 10",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame10.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame11",
+      "name": "Arena Gate Frame 11",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame11.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame12",
+      "name": "Arena Gate Frame 12",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame12.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame13",
+      "name": "Arena Gate Frame 13",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame13.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame14",
+      "name": "Arena Gate Frame 14",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame14.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame15",
+      "name": "Arena Gate Frame 15",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame15.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame16",
+      "name": "Arena Gate Frame 16",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame16.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame17",
+      "name": "Arena Gate Frame 17",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame17.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame18",
+      "name": "Arena Gate Frame 18",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame18.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame19",
+      "name": "Arena Gate Frame 19",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame19.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame20",
+      "name": "Arena Gate Frame 20",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame20.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame21",
+      "name": "Arena Gate Frame 21",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame21.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame22",
+      "name": "Arena Gate Frame 22",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame22.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame23",
+      "name": "Arena Gate Frame 23",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame23.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame24",
+      "name": "Arena Gate Frame 24",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame24.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame25",
+      "name": "Arena Gate Frame 25",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame25.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame26",
+      "name": "Arena Gate Frame 26",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame26.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame27",
+      "name": "Arena Gate Frame 27",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame27.nbt"
+      }
+    },
+    {
+      "id": "the_vault:boss_dimension/arena_gate_frame_outline",
+      "name": "Arena Gate Outline",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/boss_dimension/arena_gate_frame_outline.nbt"
       }
     },
     {
@@ -3551,6 +3840,30 @@
       }
     },
     {
+      "id": "the_vault:vault/decor/dragon/corner_spawner2",
+      "name": "Corner Spawner 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/dragon/corner_spawner2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/dragon/corner_spawner3",
+      "name": "Corner Spawner 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/dragon/corner_spawner3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/dragon/corner_spawner4",
+      "name": "Corner Spawner 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/dragon/corner_spawner4.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/decor/dragon/hanging1",
       "name": "Hanging 1",
       "1.0": {
@@ -4180,6 +4493,14 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/treasure_rooms/treasure1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/treasure_rooms/vendor1",
+      "name": "Vendor 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/treasure_rooms/vendor1.nbt"
       }
     },
     {
@@ -6879,6 +7200,1030 @@
       }
     },
     {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure1/wooden1",
+      "name": "Highlighter Lakes1 Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure1/wooden2",
+      "name": "Highlighter Lakes1 Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure1/wooden3",
+      "name": "Highlighter Lakes1 Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure1/wooden4",
+      "name": "Highlighter Lakes1 Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure1/ornate1",
+      "name": "Highlighter Lakes1 Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure1/living1",
+      "name": "Highlighter Lakes1 Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure1/gilded1",
+      "name": "Highlighter Lakes1 Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure1/coin1",
+      "name": "Highlighter Lakes1 Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure2/wooden1",
+      "name": "Highlighter Lakes1 Structure2 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure2/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure2/wooden2",
+      "name": "Highlighter Lakes1 Structure2 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure2/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure2/wooden3",
+      "name": "Highlighter Lakes1 Structure2 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure2/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure2/wooden4",
+      "name": "Highlighter Lakes1 Structure2 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure2/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure2/ornate1",
+      "name": "Highlighter Lakes1 Structure2 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure2/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure2/living1",
+      "name": "Highlighter Lakes1 Structure2 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure2/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure2/gilded1",
+      "name": "Highlighter Lakes1 Structure2 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure2/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure2/coin1",
+      "name": "Highlighter Lakes1 Structure2 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure2/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure3/wooden1",
+      "name": "Highlighter Lakes1 Structure3 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure3/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure3/wooden2",
+      "name": "Highlighter Lakes1 Structure3 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure3/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure3/wooden3",
+      "name": "Highlighter Lakes1 Structure3 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure3/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure3/wooden4",
+      "name": "Highlighter Lakes1 Structure3 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure3/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure3/ornate1",
+      "name": "Highlighter Lakes1 Structure3 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure3/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure3/living1",
+      "name": "Highlighter Lakes1 Structure3 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure3/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure3/gilded1",
+      "name": "Highlighter Lakes1 Structure3 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure3/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure3/coin1",
+      "name": "Highlighter Lakes1 Structure3 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure3/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure4/wooden1",
+      "name": "Highlighter Lakes1 Structure4 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure4/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure4/wooden2",
+      "name": "Highlighter Lakes1 Structure4 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure4/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure4/wooden3",
+      "name": "Highlighter Lakes1 Structure4 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure4/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure4/wooden4",
+      "name": "Highlighter Lakes1 Structure4 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure4/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure4/ornate1",
+      "name": "Highlighter Lakes1 Structure4 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure4/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure4/living1",
+      "name": "Highlighter Lakes1 Structure4 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure4/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure4/gilded1",
+      "name": "Highlighter Lakes1 Structure4 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure4/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes1/structure4/coin1",
+      "name": "Highlighter Lakes1 Structure4 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes1/structure4/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure1/wooden1",
+      "name": "Highlighter Lakes2 Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure1/wooden2",
+      "name": "Highlighter Lakes2 Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure1/wooden3",
+      "name": "Highlighter Lakes2 Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure1/wooden4",
+      "name": "Highlighter Lakes2 Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure1/ornate1",
+      "name": "Highlighter Lakes2 Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure1/living1",
+      "name": "Highlighter Lakes2 Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure1/gilded1",
+      "name": "Highlighter Lakes2 Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure1/coin1",
+      "name": "Highlighter Lakes2 Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure2/wooden1",
+      "name": "Highlighter Lakes2 Structure2 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure2/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure2/wooden2",
+      "name": "Highlighter Lakes2 Structure2 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure2/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure2/wooden3",
+      "name": "Highlighter Lakes2 Structure2 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure2/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure2/wooden4",
+      "name": "Highlighter Lakes2 Structure2 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure2/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure2/ornate1",
+      "name": "Highlighter Lakes2 Structure2 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure2/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure2/living1",
+      "name": "Highlighter Lakes2 Structure2 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure2/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure2/gilded1",
+      "name": "Highlighter Lakes2 Structure2 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure2/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure2/coin1",
+      "name": "Highlighter Lakes2 Structure2 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure2/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure3/wooden1",
+      "name": "Highlighter Lakes2 Structure3 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure3/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure3/wooden2",
+      "name": "Highlighter Lakes2 Structure3 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure3/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure3/wooden3",
+      "name": "Highlighter Lakes2 Structure3 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure3/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure3/wooden4",
+      "name": "Highlighter Lakes2 Structure3 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure3/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure3/ornate1",
+      "name": "Highlighter Lakes2 Structure3 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure3/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure3/living1",
+      "name": "Highlighter Lakes2 Structure3 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure3/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure3/gilded1",
+      "name": "Highlighter Lakes2 Structure3 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure3/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure3/coin1",
+      "name": "Highlighter Lakes2 Structure3 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure3/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure4/wooden1",
+      "name": "Highlighter Lakes2 Structure4 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure4/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure4/wooden2",
+      "name": "Highlighter Lakes2 Structure4 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure4/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure4/wooden3",
+      "name": "Highlighter Lakes2 Structure4 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure4/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure4/wooden4",
+      "name": "Highlighter Lakes2 Structure4 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure4/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure4/ornate1",
+      "name": "Highlighter Lakes2 Structure4 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure4/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure4/living1",
+      "name": "Highlighter Lakes2 Structure4 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure4/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure4/gilded1",
+      "name": "Highlighter Lakes2 Structure4 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure4/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes2/structure4/coin1",
+      "name": "Highlighter Lakes2 Structure4 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes2/structure4/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure1/wooden1",
+      "name": "Highlighter Lakes3 Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure1/wooden2",
+      "name": "Highlighter Lakes3 Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure1/wooden3",
+      "name": "Highlighter Lakes3 Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure1/wooden4",
+      "name": "Highlighter Lakes3 Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure1/ornate1",
+      "name": "Highlighter Lakes3 Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure1/living1",
+      "name": "Highlighter Lakes3 Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure1/gilded1",
+      "name": "Highlighter Lakes3 Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure1/coin1",
+      "name": "Highlighter Lakes3 Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure2/wooden1",
+      "name": "Highlighter Lakes3 Structure2 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure2/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure2/wooden2",
+      "name": "Highlighter Lakes3 Structure2 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure2/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure2/wooden3",
+      "name": "Highlighter Lakes3 Structure2 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure2/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure2/wooden4",
+      "name": "Highlighter Lakes3 Structure2 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure2/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure2/ornate1",
+      "name": "Highlighter Lakes3 Structure2 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure2/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure2/living1",
+      "name": "Highlighter Lakes3 Structure2 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure2/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure2/gilded1",
+      "name": "Highlighter Lakes3 Structure2 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure2/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure2/coin1",
+      "name": "Highlighter Lakes3 Structure2 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure2/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure3/wooden1",
+      "name": "Highlighter Lakes3 Structure3 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure3/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure3/wooden2",
+      "name": "Highlighter Lakes3 Structure3 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure3/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure3/wooden3",
+      "name": "Highlighter Lakes3 Structure3 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure3/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure3/wooden4",
+      "name": "Highlighter Lakes3 Structure3 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure3/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure3/ornate1",
+      "name": "Highlighter Lakes3 Structure3 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure3/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure3/living1",
+      "name": "Highlighter Lakes3 Structure3 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure3/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure3/gilded1",
+      "name": "Highlighter Lakes3 Structure3 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure3/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure3/coin1",
+      "name": "Highlighter Lakes3 Structure3 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure3/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure4/wooden1",
+      "name": "Highlighter Lakes3 Structure4 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure4/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure4/wooden2",
+      "name": "Highlighter Lakes3 Structure4 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure4/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure4/wooden3",
+      "name": "Highlighter Lakes3 Structure4 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure4/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure4/wooden4",
+      "name": "Highlighter Lakes3 Structure4 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure4/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure4/ornate1",
+      "name": "Highlighter Lakes3 Structure4 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure4/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure4/living1",
+      "name": "Highlighter Lakes3 Structure4 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure4/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure4/gilded1",
+      "name": "Highlighter Lakes3 Structure4 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure4/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes3/structure4/coin1",
+      "name": "Highlighter Lakes3 Structure4 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes3/structure4/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure1/wooden1",
+      "name": "Highlighter Lakes4 Structure1 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure1/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure1/wooden2",
+      "name": "Highlighter Lakes4 Structure1 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure1/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure1/wooden3",
+      "name": "Highlighter Lakes4 Structure1 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure1/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure1/wooden4",
+      "name": "Highlighter Lakes4 Structure1 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure1/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure1/ornate1",
+      "name": "Highlighter Lakes4 Structure1 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure1/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure1/living1",
+      "name": "Highlighter Lakes4 Structure1 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure1/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure1/gilded1",
+      "name": "Highlighter Lakes4 Structure1 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure1/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure1/coin1",
+      "name": "Highlighter Lakes4 Structure1 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure1/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure2/wooden1",
+      "name": "Highlighter Lakes4 Structure2 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure2/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure2/wooden2",
+      "name": "Highlighter Lakes4 Structure2 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure2/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure2/wooden3",
+      "name": "Highlighter Lakes4 Structure2 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure2/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure2/wooden4",
+      "name": "Highlighter Lakes4 Structure2 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure2/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure2/ornate1",
+      "name": "Highlighter Lakes4 Structure2 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure2/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure2/living1",
+      "name": "Highlighter Lakes4 Structure2 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure2/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure2/gilded1",
+      "name": "Highlighter Lakes4 Structure2 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure2/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure2/coin1",
+      "name": "Highlighter Lakes4 Structure2 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure2/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure3/wooden1",
+      "name": "Highlighter Lakes4 Structure3 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure3/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure3/wooden2",
+      "name": "Highlighter Lakes4 Structure3 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure3/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure3/wooden3",
+      "name": "Highlighter Lakes4 Structure3 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure3/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure3/wooden4",
+      "name": "Highlighter Lakes4 Structure3 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure3/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure3/ornate1",
+      "name": "Highlighter Lakes4 Structure3 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure3/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure3/living1",
+      "name": "Highlighter Lakes4 Structure3 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure3/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure3/gilded1",
+      "name": "Highlighter Lakes4 Structure3 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure3/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure3/coin1",
+      "name": "Highlighter Lakes4 Structure3 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure3/coin1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure4/wooden1",
+      "name": "Highlighter Lakes4 Structure4 Wooden 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure4/wooden1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure4/wooden2",
+      "name": "Highlighter Lakes4 Structure4 Wooden 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure4/wooden2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure4/wooden3",
+      "name": "Highlighter Lakes4 Structure4 Wooden 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure4/wooden3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure4/wooden4",
+      "name": "Highlighter Lakes4 Structure4 Wooden 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure4/wooden4.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure4/ornate1",
+      "name": "Highlighter Lakes4 Structure4 Ornate 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure4/ornate1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure4/living1",
+      "name": "Highlighter Lakes4 Structure4 Living 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure4/living1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure4/gilded1",
+      "name": "Highlighter Lakes4 Structure4 Gilded 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure4/gilded1.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/lakes4/structure4/coin1",
+      "name": "Highlighter Lakes4 Structure4 Coin 1",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/lakes4/structure4/coin1.nbt"
+      }
+    },
+    {
       "id": "the_vault:vault/rooms/omega/library1",
       "name": "Omega Library 1",
       "1.0": {
@@ -7388,6 +8733,302 @@
       "1.0": {
         "type": "structure",
         "path": "config/the_vault/gen/1.0/structures/vault/decor/generic/ore/9x9/standing_a5.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/rooms/omega/trove",
+      "name": "Trove",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/rooms/omega/trove.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/pillager_large",
+      "name": "Pillager Large",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_large.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/pillager_medium",
+      "name": "Pillager Medium",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_medium.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/pillager_small",
+      "name": "Pillager Small",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_small.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_large",
+      "name": "Spider Large",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_large2",
+      "name": "Spider Large 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_large3",
+      "name": "Spider Large 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_medium",
+      "name": "Spider Medium",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_medium.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_small",
+      "name": "Spider Small",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_small.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/skeleton_large",
+      "name": "Skeleton Large",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_large.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/skeleton_medium",
+      "name": "Skeleton Medium",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_medium.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/skeleton_small",
+      "name": "Skeleton Small",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_small.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/piglin_large",
+      "name": "Piglin Large",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_large.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/piglin_medium",
+      "name": "Piglin Medium",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_medium.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/piglin_small",
+      "name": "Piglin Small",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_small.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/zombie_large",
+      "name": "Zombie Large",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_large.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/zombie_medium",
+      "name": "Zombie Medium",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_medium.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/zombie_small",
+      "name": "Zombie Small",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_small.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/witch_large",
+      "name": "Witch Large",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/witch_large.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/witch_medium",
+      "name": "Witch Medium",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/witch_medium.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/witch_small",
+      "name": "Witch Small",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/witch_small.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/pillager_large_2",
+      "name": "Pillager Large 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_large_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/pillager_large_3",
+      "name": "Pillager Large 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_large_3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/pillager_medium_2",
+      "name": "Pillager Medium 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/pillager_medium_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/piglin_large_2",
+      "name": "Piglin Large 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_large_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/piglin_large_3",
+      "name": "Piglin Large 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_large_3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/piglin_medium_2",
+      "name": "Piglin Medium 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/piglin_medium_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/zombie_medium_2",
+      "name": "Zombie Medium 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_medium_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/zombie_large_2",
+      "name": "Zombie Large 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_large_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/zombie_large_3",
+      "name": "Zombie Large 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/zombie_large_3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/skeleton_medium_2",
+      "name": "Skeleton Medium 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_medium_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/skeleton_large_2",
+      "name": "Skeleton Large 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_large_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/skeleton_large_3",
+      "name": "Skeleton Large 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/skeleton_large_3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_medium_2",
+      "name": "Spider Medium 2",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_medium_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_large_2",
+      "name": "Spider Large 4",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large_2.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/dungeon_rooms/spider_large_3",
+      "name": "Spider Large 5",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/dungeon_rooms/spider_large_3.nbt"
+      }
+    },
+    {
+      "id": "the_vault:vault/decor/highlighter/mustard3/structure3/structure3.zip",
+      "name": "Structure 3",
+      "1.0": {
+        "type": "structure",
+        "path": "config/the_vault/gen/1.0/structures/vault/decor/highlighter/mustard3/structure3/structure3.zip"
       }
     }
   ]

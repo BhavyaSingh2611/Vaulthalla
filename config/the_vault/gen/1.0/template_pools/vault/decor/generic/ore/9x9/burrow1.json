@@ -12,10 +12,6 @@
       {
         "weight": 4,
         "reference": "the_vault:vault/decor/generic/references/ore/9x9/burrow1"
-      },
-      {
-        "weight": 1,
-        "reference": "the_vault:vault/decor/generic/references/ore/9x9/burrow_c1"
       }
     ]
   }

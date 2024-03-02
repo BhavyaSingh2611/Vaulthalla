@@ -94,7 +94,7 @@
               }
             },
             {
-              "weight": 100,
+              "weight": 80,
               "item": {
                 "id": "the_vault:shield",
                 "nbt": {
@@ -108,9 +108,9 @@
               }
             },
             {
-              "weight": 25,
+              "weight": 80,
               "item": {
-                "id": "the_vault:idol_benevolent",
+                "id": "the_vault:wand",
                 "nbt": {
                   "the_vault:gear_roll_type_pool": "gear_treasure"
                 },
@@ -122,37 +122,9 @@
               }
             },
             {
-              "weight": 25,
+              "weight": 80,
               "item": {
-                "id": "the_vault:idol_omniscient",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 25,
-              "item": {
-                "id": "the_vault:idol_timekeeper",
-                "nbt": {
-                  "the_vault:gear_roll_type_pool": "gear_treasure"
-                },
-                "count": {
-                  "type": "uniform",
-                  "min": 1,
-                  "max": 1
-                  }
-              }
-            },
-            {
-              "weight": 25,
-              "item": {
-                "id": "the_vault:idol_malevolence",
+                "id": "the_vault:focus",
                 "nbt": {
                   "the_vault:gear_roll_type_pool": "gear_treasure"
                 },
@@ -163,6 +135,7 @@
                   }
               }
             }
+            
            ]
         }
       ]

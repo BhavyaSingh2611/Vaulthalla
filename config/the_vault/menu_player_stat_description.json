@@ -6,23 +6,24 @@
     "health": "Your \u00A7bmaximum hit points\u00A77",
     "defense": "Your \u00A7btotal protection\u00A77, including \u00A7aArmor\u00A77, \u00A7aResistance\u00A77 and \u00A7aBlock Chance\u00A77",
     "mana": "Your \u00A7bmaximum Mana\u00A77",
-    "greed": "Your \u00A7btotal Greed levels\u00A77, gained after reaching \u00A7alevel 100\u00A77\u000A\u000A\u00A7cCurrently unobtainable\u00A77"
+    "greed": "\u00A7bComing soon!\u00A77"
 
   },
 
 
   "MOD_GEAR_ATTRIBUTE_DESCRIPTIONS": {
 
+    "the_vault:ability_power": "Your \u00A7bdamage\u00A77 dealt against \u00A7aany entity\u00A77 through \u00A7aabilities\u00A77 affected by this statistic",
     "the_vault:armor": "Your \u00A7btotal armor protection\u00A77",
     "the_vault:damage_spiders": "Your \u00A7badditional damage\u00A77 dealt against \u00A7aSpiders\u00A77",
-    "the_vault:attack_damage": "Your \u00A7btotal damage\u00A77 dealt against \u00A7aany entity\u00A77",
+    "the_vault:attack_damage": "Your \u00A7bdamage\u00A77 dealt against \u00A7aany entity\u00A77",
     "the_vault:attack_range": "Your \u00A7btotal range\u00A77 against \u00A7aany entity\u00A77",
     "the_vault:attack_speed": "Your \u00A7btotal attack speed\u00A77 against \u00A7aany entity\u00A77",
 
     "the_vault:block": "Your \u00A7bchance\u00A77 to \u00A7bblock\u00A77 \u00A7aany incoming damage\u00A77\n\n\u00A7cMaximum obtainable: 60%\u00A77",
 
     "the_vault:on_hit_chain": "Your \u00A7bnumber\u00A77 of \u00A7bchained entities\u00A77 \u00A7aper hit\u00A77",
-    "the_vault:cooldown_reduction": "Your \u00A7bcooldown reduction\u00A77 for \u00A7aany Ability\u00A77",
+    "the_vault:cooldown_reduction": "Your \u00A7bcooldown reduction\u00A77 for \u00A7aany Ability\u00A77\n\n\u00A7cMaximum obtainable: 80%\u00A77",
     "the_vault:copiously": "Your \u00A7bchance\u00A77 to \u00A7bdouble loot\u00A77 from \u00A7bOres\u00A77 mined for the \u00A7bfirst time\u00A77",
     "the_vault:critical_hit_mitigation": "Your \u00A7bchance\u00A77 to \u00A7breduce\u00A77 the \u00A7bdamage\u00A77 of a \u00A7aCritical Hit\u00A77",
     "the_vault:critical_hit_chance": "Your \u00A7bchance\u00A77 to \u00A7bperform\u00A77 a \u00A7bCritical Hit\u00A77",
@@ -39,7 +40,7 @@
 
     "the_vault:knockback_resistance": "Your \u00A7bresistance\u00A77 to being \u00A7bknocked back\u00A77",
 
-    "the_vault:lucky_hit_chance": "Your \u00A7bchance\u00A77 to \u00A7bperform\u00A77 a \u00A7bLucky Hit\u00A77, dealing \u00A7b20% increased damage\u00A77 and \u00A7badditional Lucky Hit Talent effects\u00A77",
+    "the_vault:lucky_hit_chance": "Your \u00A7bchance\u00A77 to \u00A7bperform\u00A77 a \u00A7bLucky Hit\u00A77, dealing \u00A7b10% increased damage\u00A77 or applying \u00A7badditional Lucky Hit Talent effects\u00A77 if unlocked",
 
     "the_vault:mana_additive": "Your \u00A7bmaximum Mana\u00A77",
     "the_vault:mana_regen": "Your \u00A7bMana/s regenerated\u00A77, with \u00A7a100%\u00A77 being \u00A7a1 Mana/s\u00A77",

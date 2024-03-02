@@ -239,14 +239,6 @@
         "amountMax": 1
       },
       "weight": 2
-    },
-    {
-      "value": {
-        "id": "cagerium:ender_dragon_spawn_egg",
-        "amountMin": 1,
-        "amountMax": 1
-      },
-      "weight": 2
     }
   ]
 }

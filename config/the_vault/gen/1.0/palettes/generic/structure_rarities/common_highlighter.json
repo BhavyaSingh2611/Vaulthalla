@@ -104,6 +104,14 @@
       }
     },
     {
+      "type": "weighted_target",
+      "target": "the_vault:placeholder[type=wooden_chest_waterlogged]",
+      "output": {
+        "the_vault:placeholder[type=wooden_chest_waterlogged]": 6,
+        "minecraft:air": 14
+      }
+    },
+    {
         "type": "leveled",
         "levels": [
             {

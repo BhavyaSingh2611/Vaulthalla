@@ -126,6 +126,71 @@
       "1.0": "config/the_vault/gen/1.0/palettes/universal_flooded.json"
     },
     {
+      "id": "the_vault:universal_fairy_ring",
+      "name": "Universal Fairy Ring",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_fairy_ring.json"
+    },
+    {
+      "id": "the_vault:universal_poison",
+      "name": "Universal Poison",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_poison.json"
+    },
+    {
+      "id": "the_vault:universal_blood_moon",
+      "name": "Universal Blood Moon",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_blood_moon.json"
+    },
+    {
+      "id": "the_vault:universal_season_spring",
+      "name": "Universal Season Spring",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_season_spring.json"
+    },
+    {
+      "id": "the_vault:universal_season_summer",
+      "name": "Universal Season Summer",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_season_summer.json"
+    },
+    {
+      "id": "the_vault:universal_season_fall",
+      "name": "Universal Season Fall",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_season_fall.json"
+    },
+    {
+      "id": "the_vault:universal_season_winter",
+      "name": "Universal Season Winter",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_season_winter.json"
+    },
+    {
+      "id": "the_vault:universal_flesh",
+      "name": "Universal Flesh",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_flesh.json"
+    },
+    {
+      "id": "the_vault:universal_wendarr",
+      "name": "Universal Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_wendarr.json"
+    },
+    {
+      "id": "the_vault:universal_velara",
+      "name": "Universal Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_velara.json"
+    },
+    {
+      "id": "the_vault:universal_tenos",
+      "name": "Universal Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_tenos.json"
+    },
+    {
+      "id": "the_vault:universal_idona",
+      "name": "Universal Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_idona.json"
+    },
+    {
+      "id": "the_vault:universal_intermediary",
+      "name": "Universal Intermediary",
+      "1.0": "config/the_vault/gen/1.0/palettes/universal_intermediary.json"
+    },
+    {
       "id": "the_vault:arena/classic",
       "name": "Arena Classic",
       "1.0": "config/the_vault/gen/1.0/palettes/arena/classic.json"
@@ -186,6 +251,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/raw/room_base.json"
     },
     {
+      "id": "the_vault:chaos/room_base",
+      "name": "Chaos Room Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/room_base.json"
+    },
+    {
       "id": "the_vault:generic/spawner_base",
       "name": "Spawner Base",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/spawner_base.json"
@@ -206,6 +276,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/raw/gilded_chest_placeholder.json"
     },
     {
+      "id": "the_vault:chaos/gilded_chest_placeholder",
+      "name": "Chaos Gilded Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/gilded_chest_placeholder.json"
+    },
+    {
       "id": "the_vault:generic/living_chest_placeholder",
       "name": "Living Chest Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/living_chest_placeholder.json"
@@ -214,6 +289,11 @@
       "id": "the_vault:raw/living_chest_placeholder",
       "name": "Raw Living Chest Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/raw/living_chest_placeholder.json"
+    },
+    {
+      "id": "the_vault:chaos/living_chest_placeholder",
+      "name": "Chaos Living Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/living_chest_placeholder.json"
     },
     {
       "id": "the_vault:generic/ornate_chest_placeholder",
@@ -226,6 +306,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/raw/ornate_chest_placeholder.json"
     },
     {
+      "id": "the_vault:chaos/ornate_chest_placeholder",
+      "name": "Chaos Ornate Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/ornate_chest_placeholder.json"
+    },
+    {
       "id": "the_vault:generic/wooden_chest_placeholder",
       "name": "Wooden Chest Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/wooden_chest_placeholder.json"
@@ -236,9 +321,19 @@
       "1.0": "config/the_vault/gen/1.0/palettes/raw/wooden_chest_placeholder.json"
     },
     {
+      "id": "the_vault:chaos/wooden_chest_placeholder",
+      "name": "Chaos Wooden Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/wooden_chest_placeholder.json"
+    },
+    {
       "id": "the_vault:generic/vendor_pedestal_placeholder",
       "name": "Vendor Pedestal Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/vendor_pedestal_placeholder.json"
+    },
+    {
+      "id": "the_vault:generic/gate_placeholder",
+      "name": "Gate Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/gate_placeholder.json"
     },
     {
       "id": "the_vault:generic/spawners/common_settings",
@@ -356,6 +451,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/village/base.json"
     },
     {
+      "id": "the_vault:chaos/village/base",
+      "name": "Chaos Village Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/village/base.json"
+    },
+    {
       "id": "the_vault:village/silverfish_spawner_settings",
       "name": "Village Silverfish Spawner Settings",
       "1.0": "config/the_vault/gen/1.0/palettes/village/silverfish_spawner_settings.json"
@@ -406,6 +506,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/wildwest/base.json"
     },
     {
+      "id": "the_vault:chaos/wildwest/base",
+      "name": "Chaos Wild West Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/wildwest/base.json"
+    },
+    {
       "id": "the_vault:wildwest/spawner_settings",
       "name": "Wild West Spawner Settings",
       "1.0": "config/the_vault/gen/1.0/palettes/wildwest/spawner_settings.json"
@@ -446,9 +551,19 @@
       "1.0": "config/the_vault/gen/1.0/palettes/omega_digsite/base.json"
     },
     {
+      "id": "the_vault:omega_digsite/base2",
+      "name": "Omega Digsite Base 2",
+      "1.0": "config/the_vault/gen/1.0/palettes/omega_digsite/base2.json"
+    },
+    {
       "id": "the_vault:vendor/base",
       "name": "Omega Vendor Base",
       "1.0": "config/the_vault/gen/1.0/palettes/vendor/base.json"
+    },
+    {
+      "id": "the_vault:chaos/vendor/base",
+      "name": "Chaos Omega Vendor Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/vendor/base.json"
     },
     {
       "id": "the_vault:cube/base",
@@ -466,6 +581,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/painting/base.json"
     },
     {
+      "id": "the_vault:chaos/painting/base",
+      "name": "Chaos Omega Painting Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/painting/base.json"
+    },
+    {
       "id": "the_vault:generic/treasure_door_placeholder",
       "name": "Treasure Door Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/treasure_door_placeholder.json"
@@ -481,6 +601,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/treasure_rooms/treasure_rooms.json"
     },
     {
+      "id": "the_vault:treasure_rooms/vendor_rooms",
+      "name": "Vendor Rooms",
+      "1.0": "config/the_vault/gen/1.0/palettes/treasure_rooms/vendor_rooms.json"
+    },
+    {
       "id": "the_vault:treasure_rooms/treasure_chest",
       "name": "Treasure Chest",
       "1.0": "config/the_vault/gen/1.0/palettes/treasure_rooms/treasure_chest.json"
@@ -489,6 +614,11 @@
       "id": "the_vault:x-mark/base",
       "name": "Base",
       "1.0": "config/the_vault/gen/1.0/palettes/x-mark/base.json"
+    },
+    {
+      "id": "the_vault:chaos/x-mark/base",
+      "name": "Chaos X-Mark Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/x-mark/base.json"
     },
     {
       "id": "the_vault:x-mark/redstone_spawner",
@@ -504,6 +634,11 @@
       "id": "the_vault:x-mark/ornate_chest_placeholder",
       "name": "Ornate Chest Placeholder",
       "1.0": "config/the_vault/gen/1.0/palettes/x-mark/ornate_chest_placeholder.json"
+    },
+    {
+      "id": "the_vault:chaos/x-mark/ornate_chest_placeholder",
+      "name": "Chaos Ornate Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/x-mark/ornate_chest_placeholder.json"
     },
     {
       "id": "the_vault:mine/base",
@@ -544,6 +679,11 @@
       "id": "the_vault:blacksmith/base",
       "name": "Blacksmith Base",
       "1.0": "config/the_vault/gen/1.0/palettes/blacksmith/base.json"
+    },
+    {
+      "id": "the_vault:chaos/blacksmith/base",
+      "name": "Chaos Blacksmith Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/blacksmith/base.json"
     },
     {
       "id": "the_vault:crystal_caves/ore_placeholder",
@@ -591,6 +731,21 @@
       "1.0": "config/the_vault/gen/1.0/palettes/raw/universal_raw_cave.json"
     },
     {
+      "id": "the_vault:raw/universal_raw_cave_granite",
+      "name": "Universal Raw Cave Granite",
+      "1.0": "config/the_vault/gen/1.0/palettes/raw/universal_raw_cave_granite.json"
+    },
+    {
+      "id": "the_vault:raw/universal_raw_cave_diorite",
+      "name": "Universal Raw Cave Diorite",
+      "1.0": "config/the_vault/gen/1.0/palettes/raw/universal_raw_cave_diorite.json"
+    },
+    {
+      "id": "the_vault:raw/universal_raw_cave_andersite",
+      "name": "Universal Raw Cave Andersite",
+      "1.0": "config/the_vault/gen/1.0/palettes/raw/universal_raw_cave_andersite.json"
+    },
+    {
       "id": "the_vault:raw/villager_spawner",
       "name": "Villager Spawner",
       "1.0": "config/the_vault/gen/1.0/palettes/raw/villager_spawner.json"
@@ -636,6 +791,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/mush_room/fairy.json"
     },
     {
+      "id": "the_vault:chaos/mush_room/base",
+      "name": "Chaos Mush Room",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/mush_room/base.json"
+    },
+    {
       "id": "the_vault:generic/ore_placeholder_nether",
       "name": "Ore Placeholder Nether",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_nether.json"
@@ -644,6 +804,11 @@
       "id": "the_vault:generic/ore_placeholder_void",
       "name": "Ore Placeholder Void",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_void.json"
+    },
+    {
+      "id": "the_vault:generic/ore_placeholder_blood_moon",
+      "name": "Ore Placeholder Blood Moon",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_blood_moon.json"
     },
     {
       "id": "the_vault:raw/farm/base",
@@ -746,6 +911,11 @@
       "1.0": "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_void.json"
     },
     {
+      "id": "the_vault:generic/ore_placeholder_alternate_blood_moon",
+      "name": "Ore Placeholder Alternate Blood Moon",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/ore_placeholder_alternate_blood_moon.json"
+    },
+    {
       "id": "the_vault:generic/air_to_cave_air",
       "name": "Air to Cave Air",
       "1.0": "config/the_vault/gen/1.0/palettes/generic/air_to_cave_air.json"
@@ -769,6 +939,11 @@
       "id": "the_vault:library/base",
       "name": "Library Base",
       "1.0": "config/the_vault/gen/1.0/palettes/library/base.json"
+    },
+    {
+      "id": "the_vault:chaos/library/base",
+      "name": "Chaos Library Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/library/base.json"
     },
     {
       "id": "the_vault:raw/chromatic_caves/base_diamond",
@@ -894,6 +1069,701 @@
       "id": "the_vault:universal_sea_floor",
       "name": "Universal Sea Floor",
       "1.0": "config/the_vault/gen/1.0/palettes/universal_sea_floor.json"
+    },
+    {
+      "id": "the_vault:trove/base",
+      "name": "Trove",
+      "1.0": "config/the_vault/gen/1.0/palettes/trove/base.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/dungeon_rooms",
+      "name": "Dungeon Rooms",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/dungeon_rooms.json"
+    },
+    {
+      "id": "the_vault:generic/dungeon_door_placeholder",
+      "name": "Dungeon Door Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/dungeon_door_placeholder.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/living_chest_placeholder",
+      "name": "Dungeon Living Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/living_chest_placeholder.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/gilded_chest_placeholder",
+      "name": "Dungeon Gilded Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/gilded_chest_placeholder.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/ornate_chest_placeholder",
+      "name": "Dungeon Ornate Chest Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/ornate_chest_placeholder.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/coin_stack_placeholder",
+      "name": "Dungeon Coin Stack Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/coin_stack_placeholder.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/spider_dungeon",
+      "name": "Spider Dungeon",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/spider_dungeon.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/skeleton_dungeon",
+      "name": "Skeleton Dungeon",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/skeleton_dungeon.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/pillager_dungeon",
+      "name": "Pillager Dungeon",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/pillager_dungeon.json"
+    },
+    {
+      "id": "the_vault:generic/dungeon_discoverable_remove",
+      "name": "Dungeon Discoverable Remove",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/dungeon_discoverable_remove.json"
+    },
+    {
+      "id": "the_vault:raw/dungeon_door_placeholder",
+      "name": "Raw Dungeon Door Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/raw/dungeon_door_placeholder.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/dungeon_settings",
+      "name": "Dungeon Settings",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/dungeon_settings.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/piglin_dungeon",
+      "name": "Piglin Dungeon",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/piglin_dungeon.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/witch_dungeon",
+      "name": "Witch Dungeon",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/witch_dungeon.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/zombie_dungeon",
+      "name": "Zombie Dungeon",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/zombie_dungeon.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/dungeon_discoverable_small",
+      "name": "Dungeon Discoverable Small",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/dungeon_discoverable_small.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/dungeon_discoverable_medium",
+      "name": "Dungeon Discoverable Medium",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/dungeon_discoverable_medium.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/dungeon_discoverable_large",
+      "name": "Dungeon Discoverable Large",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/dungeon_discoverable_large.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/difficulty",
+      "name": "Dungeon Difficulty",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/difficulty.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/normal",
+      "name": "Dungeon Normal",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/normal.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/hard",
+      "name": "Dungeon Hard",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/hard.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/impossible",
+      "name": "Dungeon Impossible",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/impossible.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/challenging",
+      "name": "Dungeon Challening",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/challenging.json"
+    },
+    {
+      "id": "the_vault:dungeon_rooms/extreme",
+      "name": "Dungeon Extreme",
+      "1.0": "config/the_vault/gen/1.0/palettes/dungeon_rooms/extreme.json"
+    },
+    {
+      "id": "the_vault:raw/treasure_door_placeholder",
+      "name": "Raw Treasure Door Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/raw/treasure_door_placeholder.json"
+    },
+    {
+      "id": "the_vault:raw/objective_placeholder",
+      "name": "Objective Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/raw/objective_placeholder.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_plastic",
+      "name": "Universal Chaos Plastic",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_plastic.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_cave",
+      "name": "Universal Chaos Cave",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cave.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_desert",
+      "name": "Universal Chaos Desert",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_desert.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_sandy_cave",
+      "name": "Universal Chaos Sandy Cave",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_sandy_cave.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_beach",
+      "name": "Universal Chaos Beach",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_beach.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_ice",
+      "name": "Universal Chaos Ice",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_ice.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_ice_cave",
+      "name": "Universal Chaos Ice Cave",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_ice_cave.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_lush_cave",
+      "name": "Universal Chaos Lush Cave",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_lush_cave.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_living_cave",
+      "name": "Universal Chaos Living Cave",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_living_cave.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_nether_crimson",
+      "name": "Universal Chaos Nether Crimson",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_nether_crimson.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_nether_warped",
+      "name": "Universal Chaos Nether Warped",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_nether_warped.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_mesa",
+      "name": "Universal Chaos Mesa",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_mesa.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_void",
+      "name": "Universal Chaos Void",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_void.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_cave_deepslate",
+      "name": "Universal Chaos Cave Deepslate",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cave_deepslate.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_cave_geode",
+      "name": "Universal Chaos Cave Geode",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cave_geode.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_cave_wasteland",
+      "name": "Universal Chaos Cave Wasteland",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_cave_wasteland.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_deep_mesa",
+      "name": "Universal Chaos Deep Mesa",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_deep_mesa.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_sweet",
+      "name": "Universal Chaos Sweet",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_sweet.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_festive",
+      "name": "Universal Chaos Festive",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_festive.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_gingerbread",
+      "name": "Universal Chaos Gingerbread",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_gingerbread.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_mushroom",
+      "name": "Universal Chaos Mushroom",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_mushroom.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_easter_pastel",
+      "name": "Universal Chaos Easter Pastel",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_easter_pastel.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_easter_egg",
+      "name": "Universal Chaos Easter Egg",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_easter_egg.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_shipwreck",
+      "name": "Universal Chaos Shipwreck",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_shipwreck.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_flooded",
+      "name": "Universal Chaos Flooded",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_flooded.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_fairy_ring",
+      "name": "Universal Chaos Fairy Ring",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_fairy_ring.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_poison",
+      "name": "Universal Chaos Poison",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_poison.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_blood_moon",
+      "name": "Universal Chaos Blood Moon",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_blood_moon.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_flesh",
+      "name": "Universal Chaos Flesh",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_flesh.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_raw_cave",
+      "name": "Universal Chaos Raw Cave",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_raw_cave.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_raw_cave_granite",
+      "name": "Universal Chaos Raw Cave Granite",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_raw_cave_granite.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_raw_cave_diorite",
+      "name": "Universal Chaos Raw Cave Diorite",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_raw_cave_diorite.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_raw_cave_andersite",
+      "name": "Universal Chaos Raw Cave Andersite",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_raw_cave_andersite.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_end_void",
+      "name": "Universal Chaos End Void",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_end_void.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_nether_blackstone",
+      "name": "Universal Chaos Nether Blackstone",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_nether_blackstone.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_nether_soul",
+      "name": "Universal Chaos Nether Soul",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_nether_soul.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_factory_void",
+      "name": "Universal Chaos Factory Void",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_factory_void.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_blank",
+      "name": "Universal Chaos Blank",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_blank.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_white",
+      "name": "Universal Chaos White",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_white.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_haunted",
+      "name": "Universal Chaos Haunted",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_haunted.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_sea_floor",
+      "name": "Universal Chaos Sea Floor",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_sea_floor.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_season_spring",
+      "name": "Universal Chaos Season Spring",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_season_spring.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_season_summer",
+      "name": "Universal Chaos Season Summer",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_season_summer.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_season_fall",
+      "name": "Universal Chaos Season Fall",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_season_fall.json"
+    },
+    {
+      "id": "the_vault:chaos/universal_chaos_season_winter",
+      "name": "Universal Chaos Season Winter",
+      "1.0": "config/the_vault/gen/1.0/palettes/chaos/universal_chaos_season_winter.json"
+    },
+    {
+      "id": "the_vault:gate_lock/base",
+      "name": "Gate Lock Base",
+      "1.0": "config/the_vault/gen/1.0/palettes/gate_lock/base.json"
+    },
+    {
+      "id": "the_vault:gate_lock/rooms",
+      "name": "Gate Lock Rooms",
+      "1.0": "config/the_vault/gen/1.0/palettes/gate_lock/rooms.json"
+    },
+    {
+      "id": "the_vault:gate_lock/gods",
+      "name": "Gate Lock Gods",
+      "1.0": "config/the_vault/gen/1.0/palettes/gate_lock/gods.json"
+    },
+    {
+      "id": "the_vault:paradox/blacksmith/wendarr",
+      "name": "Omega Blacksmith Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/blacksmith/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/blacksmith/tenos",
+      "name": "Omega Blacksmith Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/blacksmith/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/blacksmith/velara",
+      "name": "Omega Blacksmith Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/blacksmith/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/blacksmith/idona",
+      "name": "Omega Blacksmith Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/blacksmith/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/cove/wendarr",
+      "name": "Omega Cove Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/cove/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/cove/tenos",
+      "name": "Omega Cove Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/cove/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/cove/velara",
+      "name": "Omega Cove Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/cove/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/cove/idona",
+      "name": "Omega Cove Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/cove/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/crystal_caves/wendarr",
+      "name": "Crystal Caves Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/crystal_caves/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/crystal_caves/tenos",
+      "name": "Crystal Caves Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/crystal_caves/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/crystal_caves/velara",
+      "name": "Crystal Caves Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/crystal_caves/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/crystal_caves/idona",
+      "name": "Crystal Caves Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/crystal_caves/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/cube/wendarr",
+      "name": "Omega Cube Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/cube/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/cube/tenos",
+      "name": "Omega Cube Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/cube/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/cube/velara",
+      "name": "Omega Cube Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/cube/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/cube/idona",
+      "name": "Omega Cube Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/cube/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/digsite2/wendarr",
+      "name": "Omega Digsite Wendarr 2",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/digsite2/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/digsite2/tenos",
+      "name": "Omega Digsite Tenos 2",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/digsite2/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/digsite2/velara",
+      "name": "Omega Digsite Velara 2",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/digsite2/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/digsite2/idona",
+      "name": "Omega Digsite Idona 2",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/digsite2/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/dragon/wendarr",
+      "name": "Dragon Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/dragon/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/dragon/tenos",
+      "name": "Dragon Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/dragon/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/dragon/velara",
+      "name": "Dragon Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/dragon/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/dragon/idona",
+      "name": "Dragon Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/dragon/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/factory/wendarr",
+      "name": "Factory Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/factory/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/factory/tenos",
+      "name": "Factory Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/factory/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/factory/velara",
+      "name": "Factory Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/factory/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/factory/idona",
+      "name": "Factory Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/factory/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/library/wendarr",
+      "name": "Omega Library Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/library/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/library/tenos",
+      "name": "Omega Library Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/library/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/library/velara",
+      "name": "Omega Library Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/library/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/library/idona",
+      "name": "Omega Library Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/library/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/mine/wendarr",
+      "name": "Omega Mine Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/mine/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/mine/tenos",
+      "name": "Omega Mine Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/mine/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/mine/velara",
+      "name": "Omega Mine Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/mine/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/mine/idona",
+      "name": "Omega Mine Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/mine/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/mush_room/wendarr",
+      "name": "Omega Mush Room Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/mush_room/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/mush_room/tenos",
+      "name": "Omega Mush Room Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/mush_room/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/mush_room/velara",
+      "name": "Omega Mush Room Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/mush_room/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/mush_room/idona",
+      "name": "Omega Mush Room Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/mush_room/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/painting/wendarr",
+      "name": "Omega Painting Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/painting/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/painting/tenos",
+      "name": "Omega Painting Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/painting/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/painting/velara",
+      "name": "Omega Painting Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/painting/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/painting/idona",
+      "name": "Omega Painting Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/painting/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/vendor/wendarr",
+      "name": "Omega Vendor Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/vendor/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/vendor/tenos",
+      "name": "Omega Vendor Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/vendor/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/vendor/velara",
+      "name": "Omega Vendor Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/vendor/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/vendor/idona",
+      "name": "Omega Vendor Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/vendor/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/village/wendarr",
+      "name": "Village Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/village/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/village/tenos",
+      "name": "Village Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/village/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/village/velara",
+      "name": "Village Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/village/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/village/idona",
+      "name": "Village Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/village/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/wildwest/wendarr",
+      "name": "Wild West Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/wildwest/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/wildwest/tenos",
+      "name": "Wild West Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/wildwest/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/wildwest/velara",
+      "name": "Wild West Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/wildwest/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/wildwest/idona",
+      "name": "Wild West Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/wildwest/idona.json"
+    },
+    {
+      "id": "the_vault:paradox/x-mark/wendarr",
+      "name": "X-Mark Wendarr",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/x-mark/wendarr.json"
+    },
+    {
+      "id": "the_vault:paradox/x-mark/tenos",
+      "name": "X-Mark Tenos",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/x-mark/tenos.json"
+    },
+    {
+      "id": "the_vault:paradox/x-mark/velara",
+      "name": "X-Mark Velara",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/x-mark/velara.json"
+    },
+    {
+      "id": "the_vault:paradox/x-mark/idona",
+      "name": "X-Mark Idona",
+      "1.0": "config/the_vault/gen/1.0/palettes/paradox/x-mark/idona.json"
+    },
+    {
+      "id": "the_vault:generic/god_altars",
+      "name": "God Altars",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/god_altars.json"
+    },
+    {
+      "id": "the_vault:generic/paradox",
+      "name": "Paradox",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/paradox.json"
+    },
+    {
+      "id": "the_vault:raw/gate_placeholder",
+      "name": "Gate Placeholder",
+      "1.0": "config/the_vault/gen/1.0/palettes/raw/gate_placeholder.json"
+    },
+    {
+      "id": "the_vault:generic/spawners/blood_mobs",
+      "name": "Blood Moon Mobs",
+      "1.0": "config/the_vault/gen/1.0/palettes/generic/spawners/blood_mobs.json"
     }
   ]
 }

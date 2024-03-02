@@ -47,7 +47,7 @@
 	"Obsidian Plate" = true
 	"Metal Buttons" = true
 	"Jukebox Automation" = true
-	"Iron Rod" = true
+	"Iron Rod" = false
 	Gravisand = true
 	"Feeding Trough" = false
 	"Ender Watcher" = true
@@ -58,7 +58,7 @@
 	[automation.pistons_move_tile_entities]
 		"Enable Chests Moving Together" = true
 		"Render Blacklist" = ["psi:programmer", "botania:starfield"]
-		"Movement Blacklist" = ["minecraft:spawner", "minecraft:hopper", "integrateddynamics:cable", "randomthings:blockbreaker", "minecraft:ender_chest", "minecraft:enchanting_table", "minecraft:trapped_chest", "quark:spruce_trapped_chest", "quark:birch_trapped_chest", "quark:jungle_trapped_chest", "quark:acacia_trapped_chest", "quark:dark_oak_trapped_chest", "endergetic:bolloom_bud", "the_vault", "vaultintegrations"]
+		"Movement Blacklist" = ["minecraft:spawner", "integrateddynamics:cable", "randomthings:blockbreaker", "minecraft:ender_chest", "minecraft:enchanting_table", "minecraft:trapped_chest", "quark:spruce_trapped_chest", "quark:birch_trapped_chest", "quark:jungle_trapped_chest", "quark:acacia_trapped_chest", "quark:dark_oak_trapped_chest", "endergetic:bolloom_bud", "the_vault", "vaultintegrations"]
 		"Delayed Update List" = ["minecraft:dispenser", "minecraft:dropper"]
 
 	[automation.metal_buttons]
@@ -543,13 +543,13 @@
 	"Spiral Spires" = false
 	Permafrost = false
 	"No More Lava Pockets" = true
-	"New Stone Types" = true
+	"New Stone Types" = false
 	"Nether Obsidian Spikes" = false
 	"Monster Box" = true
 	"Glimmering Weald" = true
 	"Fairy Rings" = false
 	Corundum = false
-	"Chorus Vegetation" = true
+	"Chorus Vegetation" = false
 	"Blossom Trees" = true
 	"Big Stone Clusters" = false
 	"Big Dungeon" = false
@@ -619,10 +619,10 @@
 					"Is Blacklist" = false
 
 	[world.new_stone_types]
-		"Enable Limestone" = true
-		"Enable Jasper" = true
-		"Enable Shale" = true
-		"Enable Myalite" = true
+		"Enable Limestone" = false
+		"Enable Jasper" = false
+		"Enable Shale" = false
+		"Enable Myalite" = false
 
 		[world.new_stone_types.limestone]
 
@@ -1186,7 +1186,7 @@
 	Stonelings = true
 	Shiba = true
 	Frogs = true
-	Foxhound = true
+	Foxhound = false
 	Forgotten = false
 	Crabs = false
 

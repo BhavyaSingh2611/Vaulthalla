@@ -267,8 +267,6 @@
             "multiplier": 2.0,
             "mobs": [
               "minecraft:zombie",
-              "the_vault:t1_zombie",
-              "the_vault:t2_zombie",
               "the_vault:t3_zombie",
 
               "minecraft:drowned",
@@ -376,7 +374,7 @@
         "level": 50,
         "goalCount": {
           "type": "uniform",
-          "min": 3,
+          "min": 4,
           "max": 5
         },
         "itemCount": {
@@ -389,7 +387,7 @@
         "level": 75,
         "goalCount": {
           "type": "uniform",
-          "min": 3,
+          "min": 4,
           "max": 5
         },
         "itemCount": {

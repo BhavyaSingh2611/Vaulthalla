@@ -5,8 +5,8 @@
       "amount": 5
     },
     "secondInput": {
-      "item": "the_vault:vault_bronze",
-      "amount": 16
+      "item": "the_vault:vault_gold",
+      "amount": 1
     }
   },
   "jewelCuttingOutput": {
@@ -19,12 +19,12 @@
       "maxCount": 1
     },
     "extraOutput1": {
-      "chance": 1.0,
+      "chance": 0.0,
       "stack": {
-        "item": "the_vault:gem_wutodie"
+        "item": "minecraft:air"
       },
       "minCount": 1,
-      "maxCount": 4
+      "maxCount": 1
     },
     "extraOutput2": {
       "chance": 0.0,
@@ -37,7 +37,7 @@
   },
   "jewelCuttingRange": {
     "min": 1,
-    "max": 10
+    "max": 4
   },
-  "jewelCuttingModifierRemovalChance": 0.5
+  "jewelCuttingModifierRemovalChance": 1.0
 }

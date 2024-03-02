@@ -11,8 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3561221
 project-id = 521590
-
-[option]
-optional = true
-default = true
-description = "Adds little stars to items that are new in your inventory"

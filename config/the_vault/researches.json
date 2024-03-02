@@ -294,6 +294,7 @@
     },
     {
       "modIds": [
+        "chunkymcchunkface",
         "weirdinggadget"
       ],
       "restrictions": {
@@ -506,7 +507,7 @@
         }
       },
       "name": "Botany Pots",
-      "cost": 2,
+      "cost": 4,
       "usesKnowledge": true,
       "discoversModels": [
         "the_vault:gear/armor/fairy/helmet",
@@ -951,13 +952,6 @@
             "USABILITY": true,
             "CRAFTABILITY": true
             }
-        },
-        "the_vault:alchemy_table": {
-          "restricts": {
-            "HITTABILITY": true,
-            "USABILITY": true,
-            "CRAFTABILITY": true
-            }
         }
           
       },
@@ -1084,27 +1078,6 @@
     
     {
       "itemRestrictions": {
-        "sophisticatedbackpacks:backpack": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:stack_upgrade_tier_1": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:pickup_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        }
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
@@ -1114,14 +1087,7 @@
     },
     {
       "itemRestrictions": {
-        "sophisticatedbackpacks:iron_backpack": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:refill_upgrade": {
+        "sophisticatedbackpacks:stack_upgrade_tier_1": {
           "restricts": {
             "HITTABILITY": false,
             "USABILITY": false,
@@ -1129,6 +1095,82 @@
           }
         },
         "sophisticatedbackpacks:stack_upgrade_tier_2": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:stack_upgrade_tier_3": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:stack_upgrade_tier_4": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Stack Upgrading",
+      "cost": 1,
+      "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {
+        "sophisticatedbackpacks:refill_upgrade": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:advanced_refill_upgrade": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Auto Refill",
+      "cost": 1,
+      "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {
+        "sophisticatedbackpacks:feeding_upgrade": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
+        },
+        "sophisticatedbackpacks:advanced_feeding_upgrade": {
+          "restricts": {
+            "HITTABILITY": false,
+            "USABILITY": false,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Auto Feeding",
+      "cost": 1,
+      "usesKnowledge": true
+    },
+    {
+      "itemRestrictions": {
+        "sophisticatedbackpacks:iron_backpack": {
           "restricts": {
             "HITTABILITY": false,
             "USABILITY": false,
@@ -1150,41 +1192,6 @@
             "USABILITY": false,
             "CRAFTABILITY": true
           }
-        },
-        "sophisticatedbackpacks:deposit_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:restock_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:filter_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:advanced_pickup_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:stack_upgrade_tier_3": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
         }
       },
       "blockRestrictions": {},
@@ -1196,48 +1203,6 @@
     {
       "itemRestrictions": {
         "sophisticatedbackpacks:diamond_backpack": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:advanced_deposit_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:advanced_restock_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:advanced_filter_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:stack_upgrade_tier_4": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:void_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:advanced_refill_upgrade": {
           "restricts": {
             "HITTABILITY": false,
             "USABILITY": false,
@@ -1259,33 +1224,35 @@
             "USABILITY": false,
             "CRAFTABILITY": true
           }
-        },
-        "sophisticatedbackpacks:advanced_feeding_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:feeding_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
-        },
-        "sophisticatedbackpacks:advanced_void_upgrade": {
-          "restricts": {
-            "HITTABILITY": false,
-            "USABILITY": false,
-            "CRAFTABILITY": true
-          }
         }
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
       "name": "Big Backpacks",
       "cost": 3,
+      "usesKnowledge": true,
+      "discoversModels": [
+        "the_vault:gear/armor/scout/helmet",
+        "the_vault:gear/armor/scout/chestplate",
+        "the_vault:gear/armor/scout/leggings",
+        "the_vault:gear/armor/scout/boots"
+      ]
+    },
+    
+    {
+      "itemRestrictions": {
+        "the_vault:vault_harvester": {
+          "restricts": {
+            "HITTABILITY": true,
+            "USABILITY": true,
+            "CRAFTABILITY": true
+          }
+        }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Soul Harvester",
+      "cost": 2,
       "usesKnowledge": true
     },
     {

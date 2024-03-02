@@ -6,7 +6,7 @@
 	"langKey": "menu.multiplayer",
 	"action": "OPEN_GUI",
 	"data": "MULTIPLAYER",
-	"texture": "packmenu:textures/gui/widgets.png",
+	"texture": "packmenu:textures/gui/vhbutton.png",
 	"u": 66,
 	"v": 0,
 	"hoverU": 0,

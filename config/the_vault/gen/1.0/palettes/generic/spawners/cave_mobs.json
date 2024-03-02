@@ -104,7 +104,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t2_skeleton_egg\", Count: 16}, {id: \"the_vault:vault_fighter_2_egg\", Count: 8}, {id: \"the_vault:t3_skeleton_egg\", Count: 4}, {id: \"the_vault:vault_fighter_4_egg\", Count: 12}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 2}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 3}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 1} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t2_skeleton_egg\", Count: 16}, {id: \"the_vault:vault_fighter_2_egg\", Count: 8}, {id: \"the_vault:t3_skeleton_egg\", Count: 4}, {id: \"the_vault:vault_fighter_4_egg\", Count: 12}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 2}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 3}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t5_miner_zombie_egg\", Count: 1} ] } }": 1
                     }
                 },
                 {
@@ -112,7 +112,7 @@
                     "type": "weighted_target",
                     "target": "ispawner:spawner{group:standard}",
                     "output": {
-                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t2_skeleton_egg\", Count: 16}, {id: \"the_vault:t3_skeleton_egg\", Count: 4}, {id: \"the_vault:vault_fighter_4_egg\", Count: 20}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 2}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 4}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 2} ] } }": 1
+                        "ispawner:spawner{ Inventory: { Stacks: [ {id: \"the_vault:t2_skeleton_egg\", Count: 16}, {id: \"the_vault:t3_skeleton_egg\", Count: 4}, {id: \"the_vault:vault_fighter_4_egg\", Count: 20}, {id: \"alexsmobs:spawn_egg_rocky_roller\", Count: 2}, {id: \"the_vault:t3_piglin_egg\", Count: 1}, {id: \"rottencreatures:undead_miner_spawn_egg\", Count: 6}, {id: \"the_vault:vault_fighter_3_egg\", Count: 4}, {id: \"the_vault:t3_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t4_miner_zombie_egg\", Count: 4}, {id: \"the_vault:t5_miner_zombie_egg\", Count: 2} ] } }": 1
                     }
                 }
                  

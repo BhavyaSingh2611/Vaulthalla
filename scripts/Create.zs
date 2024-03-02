@@ -129,6 +129,12 @@ craftingTable.addShaped("create_waterwheel", <item:create:water_wheel>, [
     [<item:the_vault:driftwood>, <item:the_vault:driftwood>, <item:the_vault:driftwood>]
 ]);
 
+craftingTable.addShaped("create_large_waterwheel", <item:create:large_water_wheel>, [
+    [<item:the_vault:driftwood>, <item:the_vault:driftwood>, <item:the_vault:driftwood>],
+    [<item:create:water_wheel>, <item:the_vault:gem_pog>, <item:create:water_wheel>],
+    [<item:the_vault:driftwood>, <item:the_vault:driftwood>, <item:the_vault:driftwood>]
+]);
+
 craftingTable.addShaped("create_basin", <item:create:basin>, [
     [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>],
     [<item:create:andesite_alloy>, <item:the_vault:perfect_larimar>, <item:create:andesite_alloy>],

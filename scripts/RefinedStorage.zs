@@ -263,3 +263,25 @@ craftingTable.addShaped("rs_network_transmitter", <item:refinedstorage:network_t
     [<item:refinedstorage:destruction_core>, <item:refinedstorage:machine_casing>, <item:refinedstorage:construction_core>],
     [<item:the_vault:black_chromatic_steel_ingot>,<item:refinedstorage:quartz_enriched_iron>, <item:the_vault:black_chromatic_steel_ingot>]
 ]);
+
+craftingTable.addShaped("rs_security_card", <item:refinedstorage:security_card>, [
+    [<item:refinedstorage:quartz_enriched_iron>, <item:refinedstorage:quartz_enriched_iron>, <item:refinedstorage:quartz_enriched_iron>],
+    [<item:the_vault:extraordinary_larimar>, <item:refinedstorage:advanced_processor>, <item:the_vault:extraordinary_larimar>],
+    [<item:refinedstorage:quartz_enriched_iron>,<item:refinedstorage:quartz_enriched_iron>, <item:refinedstorage:quartz_enriched_iron>]
+]);
+
+craftingTable.addShapeless("rs_64k_fluid_disk_shapeless", <item:refinedstorage:64k_fluid_storage_disk>, [
+    <item:refinedstorage:storage_housing>, <item:refinedstorage:64k_fluid_storage_part>
+]);
+
+craftingTable.addShapeless("rs_256k_fluid_disk_shapeless", <item:refinedstorage:256k_fluid_storage_disk>, [
+    <item:refinedstorage:storage_housing>, <item:refinedstorage:256k_fluid_storage_part>
+]);
+
+craftingTable.addShapeless("rs_1024k_fluide_disk_shapeless", <item:refinedstorage:1024k_fluid_storage_disk>, [
+    <item:refinedstorage:storage_housing>, <item:refinedstorage:1024k_fluid_storage_part>
+]);
+
+craftingTable.addShapeless("rs_4096k_fluid_disk_shapeless", <item:refinedstorage:4096k_fluid_storage_disk>, [
+    <item:refinedstorage:storage_housing>, <item:refinedstorage:4096k_fluid_storage_part>
+]);

@@ -6,6 +6,10 @@
       "output": {
         "minecraft:cave_air": 1
       }
+    },
+    {
+      "type": "reference",
+      "id": "the_vault:generic/gate_placeholder"
     }
   ],
   "entity_processors": [],

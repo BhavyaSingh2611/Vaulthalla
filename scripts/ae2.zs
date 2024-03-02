@@ -337,17 +337,17 @@ craftingTable.addShaped("ae2t_advanced_inscriber", <item:ae2things:advanced_insc
 ]);
 
 craftingTable.addShapeless("ae2_calculation_processor_press", <item:ae2:calculation_processor_press>, [
-    <item:the_vault:vault_crystal>.withTag({CrystalData: {Version: 1 as byte, Model: {type: "raw" as string}}}), <item:minecraft:paper>
+    <item:the_vault:crystal_budding>, <item:minecraft:paper>
 ]);
 
 craftingTable.addShapeless("ae2_engineering_processor_press", <item:ae2:engineering_processor_press>, [
-    <item:the_vault:vault_crystal>.withTag({CrystalData: {Version: 1 as byte, Model: {type: "raw" as string}}}), <item:minecraft:emerald>
+    <item:the_vault:crystal_budding>, <item:minecraft:emerald>
 ]);
 
 craftingTable.addShapeless("ae2_logic_processor_press", <item:ae2:logic_processor_press>, [
-    <item:the_vault:vault_crystal>.withTag({CrystalData: {Version: 1 as byte, Model: {type: "raw" as string}}}), <item:minecraft:diamond>
+    <item:the_vault:crystal_budding>, <item:minecraft:diamond>
 ]);
 
 craftingTable.addShapeless("ae2_silicon_processor_press", <item:ae2:silicon_press>, [
-    <item:the_vault:vault_crystal>.withTag({CrystalData: {Version: 1 as byte, Model: {type: "raw" as string}}}), <tag:items:forge:silicon>
+    <item:the_vault:crystal_budding>, <tag:items:forge:silicon>
 ]);

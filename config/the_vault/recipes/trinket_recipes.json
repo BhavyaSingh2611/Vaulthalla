@@ -9,22 +9,17 @@
       },
       "inputs": [
         {
-          "AMOUNT": 32,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 16,
+          "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 8,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 64,
+          "AMOUNT": 192,
           "ITEM": "the_vault:gem_alexandrite",
           "NBT": "{}"
         },
@@ -44,22 +39,17 @@
       },
       "inputs": [
         {
-          "AMOUNT": 32,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 16,
+          "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 8,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 64,
+          "AMOUNT": 192,
           "ITEM": "the_vault:gem_alexandrite",
           "NBT": "{}"
         },
@@ -79,22 +69,17 @@
       },
       "inputs": [
         {
-          "AMOUNT": 32,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 16,
+          "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 8,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 64,
+          "AMOUNT": 192,
           "ITEM": "the_vault:gem_alexandrite",
           "NBT": "{}"
         },
@@ -114,17 +99,12 @@
       },
       "inputs": [
         {
-          "AMOUNT": 128,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 16,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
@@ -149,17 +129,12 @@
       },
       "inputs": [
         {
-          "AMOUNT": 128,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 16,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
@@ -184,17 +159,12 @@
       },
       "inputs": [
         {
-          "AMOUNT": 128,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 16,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
@@ -219,22 +189,17 @@
       },
       "inputs": [
         {
-          "AMOUNT": 128,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 32,
+          "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 12,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 128,
+          "AMOUNT": 192,
           "ITEM": "the_vault:gem_alexandrite",
           "NBT": "{}"
         },
@@ -254,17 +219,12 @@
       },
       "inputs": [
         {
-          "AMOUNT": 128,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 16,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
@@ -289,22 +249,17 @@
       },
       "inputs": [
         {
-          "AMOUNT": 32,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 16,
+          "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 8,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 64,
+          "AMOUNT": 192,
           "ITEM": "the_vault:gem_alexandrite",
           "NBT": "{}"
         },
@@ -324,17 +279,12 @@
       },
       "inputs": [
         {
-          "AMOUNT": 128,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 16,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
@@ -359,17 +309,12 @@
       },
       "inputs": [
         {
-          "AMOUNT": 128,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 16,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
@@ -395,21 +340,16 @@
       "inputs": [
         {
           "AMOUNT": 64,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 32,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 12,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 128,
+          "AMOUNT": 192,
           "ITEM": "the_vault:gem_alexandrite",
           "NBT": "{}"
         },
@@ -429,17 +369,12 @@
       },
       "inputs": [
         {
-          "AMOUNT": 128,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 16,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
@@ -464,22 +399,17 @@
       },
       "inputs": [
         {
-          "AMOUNT": 32,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 16,
+          "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 8,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 64,
+          "AMOUNT": 192,
           "ITEM": "the_vault:gem_alexandrite",
           "NBT": "{}"
         },
@@ -499,17 +429,12 @@
       },
       "inputs": [
         {
-          "AMOUNT": 128,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 16,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
@@ -534,17 +459,12 @@
       },
       "inputs": [
         {
-          "AMOUNT": 128,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 16,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
@@ -569,17 +489,12 @@
       },
       "inputs": [
         {
-          "AMOUNT": 128,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 16,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
@@ -604,17 +519,12 @@
       },
       "inputs": [
         {
-          "AMOUNT": 128,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
           "AMOUNT": 64,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 16,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
@@ -640,21 +550,166 @@
       "inputs": [
         {
           "AMOUNT": 64,
-          "ITEM": "the_vault:vault_alloy",
-          "NBT": "{}"
-        },
-        {
-          "AMOUNT": 32,
           "ITEM": "the_vault:vault_diamond",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 12,
+          "AMOUNT": 32,
           "ITEM": "the_vault:vault_gold",
           "NBT": "{}"
         },
         {
-          "AMOUNT": 128,
+          "AMOUNT": 192,
+          "ITEM": "the_vault:gem_alexandrite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:trinket_scrap",
+          "NBT": "{}"
+        }
+      ]
+    },
+    { "trinket": "the_vault:clover",
+      "id": "the_vault:clover",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:trinket",
+        "NBT": "{}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 64,
+          "ITEM": "the_vault:vault_diamond",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 192,
+          "ITEM": "the_vault:gem_alexandrite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:trinket_scrap",
+          "NBT": "{}"
+        }
+      ]
+    },
+    { "trinket": "the_vault:cufflinks",
+      "id": "the_vault:cufflinks",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:trinket",
+        "NBT": "{}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 64,
+          "ITEM": "the_vault:vault_diamond",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 192,
+          "ITEM": "the_vault:gem_alexandrite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:trinket_scrap",
+          "NBT": "{}"
+        }
+      ]
+    },
+    { "trinket": "the_vault:spellbook",
+      "id": "the_vault:spellbook",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:trinket",
+        "NBT": "{}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 64,
+          "ITEM": "the_vault:vault_diamond",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 192,
+          "ITEM": "the_vault:gem_alexandrite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:trinket_scrap",
+          "NBT": "{}"
+        }
+      ]
+    },
+    { "trinket": "the_vault:stone_of_jordan",
+      "id": "the_vault:stone_of_jordan",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:trinket",
+        "NBT": "{}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 64,
+          "ITEM": "the_vault:vault_diamond",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 192,
+          "ITEM": "the_vault:gem_alexandrite",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 1,
+          "ITEM": "the_vault:trinket_scrap",
+          "NBT": "{}"
+        }
+      ]
+    },
+    { "trinket": "the_vault:wings",
+      "id": "the_vault:wings",
+      "output": {
+        "AMOUNT": 1,
+        "ITEM": "the_vault:trinket",
+        "NBT": "{}"
+      },
+      "inputs": [
+        {
+          "AMOUNT": 64,
+          "ITEM": "the_vault:vault_diamond",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 32,
+          "ITEM": "the_vault:vault_gold",
+          "NBT": "{}"
+        },
+        {
+          "AMOUNT": 192,
           "ITEM": "the_vault:gem_alexandrite",
           "NBT": "{}"
         },

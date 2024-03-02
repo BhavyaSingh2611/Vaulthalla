@@ -413,6 +413,9 @@ craftingTable.remove(<item:botania:mana_spreader>);
 craftingTable.remove(<item:botania:alchemy_catalyst>);
 craftingTable.remove(<item:botania:mana_fluxfield>);
 
+//Chunky
+craftingTable.remove(<item:chunkymcchunkface:chunk_loader>);
+
 //Drawers
 for logId, logName in logs {
     craftingTable.remove(<item:storagedrawers:${logName}_full_drawers_1>);
@@ -540,6 +543,10 @@ craftingTable.remove(<item:refinedstorage:16k_storage_part>);
 craftingTable.remove(<item:refinedstorage:16k_storage_disk>);
 craftingTable.remove(<item:refinedstorage:64k_storage_part>);
 craftingTable.remove(<item:refinedstorage:64k_storage_disk>);
+craftingTable.remove(<item:refinedstorage:64k_fluid_storage_disk>);
+craftingTable.remove(<item:refinedstorage:256k_fluid_storage_disk>);
+craftingTable.remove(<item:refinedstorage:1024k_fluid_storage_disk>);
+craftingTable.remove(<item:refinedstorage:4096k_fluid_storage_disk>);
 craftingTable.remove(<item:refinedstorage:processor_binding>);
 craftingTable.remove(<item:refinedstorage:raw_basic_processor>);
 craftingTable.remove(<item:refinedstorage:raw_improved_processor>);
@@ -564,6 +571,7 @@ craftingTable.remove(<item:refinedstorage:crafter>);
 craftingTable.remove(<item:refinedstorage:crafter_manager>);
 craftingTable.remove(<item:refinedstorage:pattern>);
 craftingTable.remove(<tag:items:refinedstorage:pattern_grid>);
+craftingTable.remove(<item:refinedstorage:security_card>);
 
 // Weirding Gadget
 craftingTable.remove(<item:weirdinggadget:weirding_gadget>);
@@ -677,7 +685,6 @@ craftingTable.remove(<item:easy_villagers:farmer>);
 craftingTable.remove(<item:easy_villagers:iron_farm>);
 
 // Vanilla
-craftingTable.remove(<item:minecraft:shield>);
 craftingTable.remove(<item:minecraft:golden_apple>);
 craftingTable.remove(<item:minecraft:bundle>);
 brewing.removeRecipe(<item:minecraft:potion>.withTag({Potion: "alexsmobs:strong_knockback_resistance"}), <item:minecraft:glowstone_dust>, <item:minecraft:potion>.withTag({Potion: "alexsmobs:knockback_resistance"}));
@@ -822,6 +829,11 @@ craftingTable.remove(<item:create:steam_engine>);
 craftingTable.remove(<item:create:schematicannon>);
 craftingTable.remove(<item:create:schematic_table>);
 craftingTable.remove(<item:create:empty_schematic>);
+craftingTable.remove(<item:create:copper_backtank>);
+craftingTable.remove(<item:create:large_water_wheel>);
+<recipetype:minecraft:smithing>.remove(<item:create:netherite_backtank>);
+<recipetype:minecraft:smithing>.remove(<item:create:netherite_diving_helmet>);
+<recipetype:minecraft:smithing>.remove(<item:create:netherite_diving_boots>);
 <recipetype:create:crushing>.removeByName("create:crushing/veridium_recycling");
 <recipetype:create:crushing>.removeByName("create:crushing/veridium");
 <recipetype:create:crushing>.removeByName("create:crushing/crimsite_recycling");
@@ -1318,7 +1330,6 @@ JEI.hideIngredient(<item:the_vault:prismatic_pickaxe>);
 JEI.hideIngredient(<item:the_vault:echoing_pickaxe>);
 JEI.hideIngredient(<item:the_vault:black_chromatic_pickaxe>);
 JEI.hideIngredient(<item:the_vault:floating_text>);
-JEI.hideIngredient(<item:the_vault:vault_champion_trophy>);
 JEI.hideIngredient(<item:the_vault:final_vault_frame>);
 JEI.hideIngredient(<item:the_vault:vault_crate_arena>);
 JEI.hideIngredient(<item:the_vault:obelisk>);
@@ -1328,10 +1339,6 @@ JEI.hideIngredient(<item:the_vault:vault_glass>);
 JEI.hideIngredient(<item:the_vault:loot_statue>);
 JEI.hideIngredient(<item:the_vault:shop_pedestal>);
 JEI.hideIngredient(<item:the_vault:trophy_statue>);
-JEI.hideIngredient(<item:the_vault:xp_altar>);
-JEI.hideIngredient(<item:the_vault:blood_altar>);
-JEI.hideIngredient(<item:the_vault:time_altar>);
-JEI.hideIngredient(<item:the_vault:soul_altar>);
 JEI.hideIngredient(<item:the_vault:hourglass>);
 JEI.hideIngredient(<item:the_vault:scavenger_treasure>);
 JEI.hideIngredient(<item:the_vault:stabilizer>);
@@ -1348,10 +1355,6 @@ JEI.hideIngredient(<item:the_vault:crake_column>);
 JEI.hideIngredient(<item:the_vault:jewel>);
 JEI.hideIngredient(<item:the_vault:chunk_puffium>);
 JEI.hideIngredient(<item:the_vault:cluster_puffium>);
-JEI.hideIngredient(<item:the_vault:final_keystone_idona>);
-JEI.hideIngredient(<item:the_vault:final_keystone_velara>);
-JEI.hideIngredient(<item:the_vault:final_keystone_tenos>);
-JEI.hideIngredient(<item:the_vault:final_keystone_wendarr>);
 JEI.hideIngredient(<item:the_vault:gem_puffium>);
 JEI.hideIngredient(<item:the_vault:key_puffium>);
 JEI.hideIngredient(<item:the_vault:ore_puffium>);
@@ -1429,9 +1432,7 @@ JEI.hideIngredient(<item:the_vault:archetype_star_essence>);
 JEI.hideIngredient(<item:the_vault:archetype_star_shard>);
 JEI.hideIngredient(<item:the_vault:acceleration_chip>);
 JEI.hideIngredient(<item:the_vault:cluster_netherite>);
-JEI.hideIngredient(<item:the_vault:crystal_seal_ancients>);
 JEI.hideIngredient(<item:the_vault:crystal_seal_raid>);
-JEI.hideIngredient(<item:the_vault:crystal_seal_speedrun>);
 JEI.hideIngredient(<item:the_vault:infused_eternal_soul>);
 JEI.hideIngredient(<item:the_vault:hardened_wutodic_mass>);
 JEI.hideIngredient(<item:the_vault:sublime_vault_elixir>);

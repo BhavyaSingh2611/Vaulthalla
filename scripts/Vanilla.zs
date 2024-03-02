@@ -3,6 +3,7 @@ for Iskall85's Vaulthunters */
 
 // adding recipes
 
+import crafttweaker.api.tag.MCTag;
 import crafttweaker.api.recipe.Brewing;
 import mods.initialinventory.InvHandler;
 import mods.mekanism.recipe.Combining;
@@ -41,12 +42,7 @@ craftingTable.addShaped("minecraft_" + dyeName + "_concrete", <item:minecraft:${
     [<tag:items:forge:concrete>, <item:minecraft:${dyeId}>, <tag:items:forge:concrete>],
     [<tag:items:forge:concrete>, <tag:items:forge:concrete>, <tag:items:forge:concrete>]
 ]);
-
-craftingTable.addShapeless("minecraft_" + dyeName + "_shulker_box", <item:minecraft:${dyeName}_shulker_box>, [
-    <tag:items:forge:shulker_boxes>, <item:minecraft:${dyeId}>
-]);
 }
-
 
 craftingTable.addShaped("goldenapple", <item:minecraft:golden_apple>, [
     [<item:minecraft:gold_block>, <item:minecraft:gold_ingot>, <item:minecraft:gold_block>],
@@ -54,10 +50,14 @@ craftingTable.addShaped("goldenapple", <item:minecraft:golden_apple>, [
     [<item:minecraft:gold_block>, <item:minecraft:gold_ingot>, <item:minecraft:gold_block>]
 ]);
 
-craftingTable.addShaped("weirding_gadget", <item:weirdinggadget:weirding_gadget>, [
+craftingTable.addShaped("chunky", <item:chunkymcchunkface:chunk_loader>, [
     [<item:the_vault:gem_larimar>, <item:the_vault:perfect_larimar>, <item:the_vault:gem_larimar>],
     [<item:minecraft:gold_block>, <item:the_vault:chromatic_steel_block>, <item:minecraft:gold_block>],
-    [<item:minecraft:gold_block>, <item:the_vault:chromatic_steel_ingot>, <item:minecraft:gold_block>]
+    [<item:minecraft:obsidian>, <item:the_vault:chromatic_steel_ingot>, <item:minecraft:obsidian>]
+]);
+
+craftingTable.addShapeless("weird_to_chunk", <item:chunkymcchunkface:chunk_loader>, [
+    <item:weirdinggadget:weirding_gadget>
 ]);
 
 craftingTable.addShaped("cage_dust", <item:ispawner:cage_dust>, [
@@ -170,19 +170,19 @@ brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:
 
 brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:harming"}), <item:the_vault:gem_pog>, <item:minecraft:splash_potion>.withTag({Potion: "minecraft:harming" as string}));
 
-brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:strong_harming"}), <item:the_vault:gem_pog>, <item:minecraft:lingering_potion>.withTag({Potion: "minecraft:strong_harming" as string}));
+brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:strong_harming"}), <item:the_vault:gem_pog>, <item:minecraft:splash_potion>.withTag({Potion: "minecraft:strong_harming" as string}));
 
 brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:poison"}), <item:the_vault:gem_pog>, <item:minecraft:splash_potion>.withTag({Potion: "minecraft:poison" as string}));
 
 brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:long_poison"}), <item:the_vault:vault_nugget>, <item:minecraft:lingering_potion>.withTag({Potion: "minecraft:poison" as string}));
 
-brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:strong_poison"}), <item:the_vault:gem_pog>, <item:minecraft:lingering_potion>.withTag({Potion: "minecraft:strong_poison" as string}));
+brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:strong_poison"}), <item:the_vault:gem_pog>, <item:minecraft:splash_potion>.withTag({Potion: "minecraft:strong_poison" as string}));
 
 brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:strength"}), <item:the_vault:gem_pog>, <item:minecraft:splash_potion>.withTag({Potion: "minecraft:strength" as string}));
 
 brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:long_strength"}), <item:the_vault:vault_nugget>, <item:minecraft:lingering_potion>.withTag({Potion: "minecraft:strength" as string}));
 
-brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:strong_strength"}), <item:the_vault:gem_pog>, <item:minecraft:lingering_potion>.withTag({Potion: "minecraft:strong_strength" as string}));
+brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:strong_strength"}), <item:the_vault:gem_pog>, <item:minecraft:splash_potion>.withTag({Potion: "minecraft:strong_strength" as string}));
 
 brewing.addRecipe(<item:minecraft:lingering_potion>.withTag({Potion: "minecraft:weakness"}), <item:the_vault:gem_pog>, <item:minecraft:splash_potion>.withTag({Potion: "minecraft:weakness" as string}));
 
@@ -240,10 +240,24 @@ craftingTable.addShaped("pebble", <item:twigs:pebble> *4, [
     [<item:the_vault:polished_vault_stone>, <item:minecraft:air>, <item:minecraft:air>]
 ]);
 
+craftingTable.addShaped("scaffolding", <item:minecraft:scaffolding> *6, [
+    [<item:the_vault:wooden_chunk>, <item:the_vault:wooden_chunk>, <item:the_vault:wooden_chunk>],
+    [<item:the_vault:wooden_chunk>, <item:minecraft:air>, <item:the_vault:wooden_chunk>],
+    [<item:the_vault:wooden_chunk>, <item:minecraft:air>, <item:the_vault:wooden_chunk>]
+]);
+
 craftingTable.addShapeless("necrotic_bones", <item:minecraft:bone>, [
     <item:architects_palette:withered_bone>, <item:architects_palette:withered_bone>, <item:architects_palette:withered_bone>,
     <item:architects_palette:withered_bone>, <item:architects_palette:withered_bone>, <item:architects_palette:withered_bone>,
     <item:architects_palette:withered_bone>, <item:architects_palette:withered_bone>
+]);
+
+craftingTable.addShapeless("supp_ash", <item:supplementaries:ash> *8, [
+    <item:minecraft:flint>, <tag:items:minecraft:logs>
+]);
+
+craftingTable.addShapeless("experience_convert", <item:minecraft:experience_bottle>, [
+    <item:create:experience_nugget>
 ]);
 
 <recipetype:mekanism:combining>.addRecipe("cobweb", ItemStackIngredient.from(<item:minecraft:string>), ItemStackIngredient.from(<item:minecraft:vine>), <item:minecraft:cobweb>);
@@ -314,3 +328,74 @@ craftingTable.addShapeless("necrotic_bones", <item:minecraft:bone>, [
 //     "nbt": "{charges:6,recharge:\"time\",type:\"brew\",vaultGearData:[L;7069878597367160218L,-6692775768183260158L,1514722424829610009L,3527585455153845571L,2753168875257675788L,2987536090647L,565248L,8830586978304L]}"
 //   }
 // });
+
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_beach" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_blood_moon" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_cave_deepslate" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_cave_geode" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_cave_wasteland" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_desert" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_easter_egg" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_easter_pastel" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_fairy_ring" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_festive" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_gingerbread" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_haunted" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_ice" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_ice_cave" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_living_cave" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_mesa" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_mushroom" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_nether_soul" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_cave" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_factory_void" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_end_void" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_flooded" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_lush_cave" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_nether_blackstone" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_nether_crimson" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_deep_mesa" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_nether_warped" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_plastic" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_poison" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_sandy_cave" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_sea_floor" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_season_fall" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_season_spring" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_season_summer" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_season_winter" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_shipwreck" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_sweet" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_void" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_white" as string});
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:diy_vault_blank" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:diy_vault_cave" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:diy_vault_desert" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:diy_vault_ice" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:diy_vault_lush_cave" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:diy_vault_mesa" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:diy_vault_nether_crimson" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:diy_vault_nether_warped" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:diy_vault_void" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_andersite" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_andersite_lvl10" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_andersite_lvl20" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_diorite" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_diorite_lvl10" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_diorite_lvl20" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_diorite_lvl30" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_granite" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_granite_lvl10" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_granite_lvl20" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_granite_lvl30" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_lvl10" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_lvl20" as string})
+// <tag:items:forge:gems>.add(<item:the_vault:augment>.withTag({theme: "the_vault:raw_vault_cave_lvl30" as string})
+
+
+<tag:items:vault:augments>.add(<item:the_vault:augment>);
+
+craftingTable.addShapeless("chaos_augment", <item:the_vault:augment>.withTag({theme: "the_vault:classic_vault_chaos" as string}), [
+    <tag:items:vault:augments>, <tag:items:vault:augments>, <tag:items:vault:augments>
+]);

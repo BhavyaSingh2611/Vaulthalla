@@ -765,7 +765,7 @@
                 "ITEM": "",
                 "NBT": ""
               },
-              "weight": 4
+              "weight": 16
             },
             {
               "value": {
@@ -783,6 +783,63 @@
       }
     ],
     "minecraft:piglin": [
+      {
+        "minLevel": 0,
+        "slots": {
+          "HEAD": [
+            {
+              "value": {
+                "ITEM": ""
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "ITEM": "the_vault:helmet",
+                "NBT": "{\"the_vault:gear_model\":\"random\",\"the_vault:state\":2,\"AttributeModifiers\":[{\"AttributeName\":\"generic.armor\",\"Amount\":4,\"Name\":\"generic.armor\",\"UUID\":[I;-122923,1898,17635,-3796]}]}"
+              },
+              "weight": 0
+            }
+          ],
+          "CHEST": [
+            {
+              "value": {
+                "ITEM": ""
+              },
+              "weight": 10
+            },
+            {
+              "value": {
+                "ITEM": "the_vault:chestplate",
+                "NBT": "{\"the_vault:gear_model\":\"random\",\"the_vault:state\":2}"
+              },
+              "weight": 0
+            }
+
+          ],
+          "MAINHAND": [
+            {
+              "value": {
+                "ITEM": "minecraft:golden_sword",
+                "NBT": "{AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Amount:0,Name:\"generic.attack_damage\",UUID:[I;-122109,31466,10346,-62932]}]}"
+              },
+              "weight": 60
+            },
+            {
+              "value": {
+                "ITEM": "minecraft:crossbow",
+                "NBT": ""
+              },
+              "weight": 1
+            }
+          ],
+          "LEGS": [],
+          "FEET": [],
+          "OFFHAND": []
+        }
+      }
+    ],
+    "the_vault:dungeon_piglin": [
       {
         "minLevel": 0,
         "slots": {
@@ -1910,6 +1967,66 @@
         }
       }
     ],
+    "the_vault:dungeon_skeleton": [
+      {
+        "minLevel": 0,
+        "slots": {
+          "HEAD": [
+          ],
+          "CHEST": [
+          ],
+          "LEGS": [],
+          "FEET": [],
+          "MAINHAND": [
+            {
+              "value": {
+                "ITEM": "minecraft:bow",
+                "NBT": ""
+              },
+              "weight": 0
+            },
+            {
+              "value": {
+                "ITEM": "minecraft:iron_sword",
+                "NBT": "{AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Amount:0,Name:\"generic.attack_damage\",UUID:[I;-122109,31466,10346,-62932]}]}"
+              },
+              "weight": 12
+            }
+
+          ],
+          "OFFHAND": []
+        }
+      },
+      {
+        "minLevel": 15,
+        "slots": {
+          "HEAD": [
+          ],
+          "CHEST": [
+          ],
+          "LEGS": [],
+          "FEET": [],
+          "MAINHAND": [
+            {
+              "value": {
+                "ITEM": "minecraft:bow",
+                "NBT": ""
+              },
+              "weight": 1
+            },
+            {
+              "value": {
+                "ITEM": "minecraft:iron_sword",
+                "NBT": "{AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Amount:0,Name:\"generic.attack_damage\",UUID:[I;-122109,31466,10346,-62932]}]}"
+              },
+              "weight": 16
+            }
+
+          ],
+          "OFFHAND": []
+        }
+      }
+    ],
     "the_vault:t1_skeleton": [
       {
         "minLevel": 0,
@@ -2122,6 +2239,36 @@
       }
     ],
     "minecraft:piglin_brute": [
+      {
+        "minLevel": 0,
+        "slots": {
+          "HEAD": [
+          ],
+          "CHEST": [
+          ],
+          "LEGS": [],
+          "FEET": [],
+          "MAINHAND": [
+            {
+              "value": {
+                "ITEM": "minecraft:bow",
+                "NBT": ""
+              },
+              "weight": 0
+            },
+            {
+              "value": {
+                "ITEM": "minecraft:golden_axe",
+                "NBT": "{AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Amount:0,Name:\"generic.attack_damage\",UUID:[I;-122109,31466,10346,-62932]}]}"
+              },
+              "weight": 12
+            }
+          ],
+          "OFFHAND": []
+        }
+      }
+    ],
+    "the_vault:dungeon_piglin_brute": [
       {
         "minLevel": 0,
         "slots": {
@@ -2594,7 +2741,111 @@
         }
       }
     ],
+    "the_vault:dungeon_vindicator": [
+      {
+        "minLevel": 0,
+        "slots": {
+          "HEAD": [
+            {
+              "value": {
+                "ITEM": ""
+              },
+              "weight": 10
+            }
+          ],
+          "CHEST": [
+            {
+              "value": {
+                "ITEM": ""
+              },
+              "weight": 10
+            }
+          ],
+          "MAINHAND": [
+            {
+              "value": {
+                "ITEM": "minecraft:iron_axe",
+                "NBT": "{AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Amount:0,Name:\"generic.attack_damage\",UUID:[I;-122109,31466,10346,-62932]}]}"
+              },
+              "weight": 1
+            }
+
+          ],
+          "LEGS": [],
+          "FEET": [],
+          "OFFHAND": []
+        }
+      }
+    ],
     "minecraft:pillager": [
+      {
+        "minLevel": 0,
+        "slots": {
+          "HEAD": [
+            {
+              "value": {
+                "ITEM": ""
+              },
+              "weight": 10
+            }
+          ],
+          "CHEST": [
+            {
+              "value": {
+                "ITEM": ""
+              },
+              "weight": 10
+            }
+          ],
+          "MAINHAND": [
+            {
+              "value": {
+                "ITEM": "minecraft:crossbow",
+                "NBT": ""
+              },
+              "weight": 3
+            }
+          ],
+          "LEGS": [],
+          "FEET": [],
+          "OFFHAND": []
+        }
+      },
+      {
+        "minLevel": 15,
+        "slots": {
+          "HEAD": [
+            {
+              "value": {
+                "ITEM": ""
+              },
+              "weight": 10
+            }
+          ],
+          "CHEST": [
+            {
+              "value": {
+                "ITEM": ""
+              },
+              "weight": 10
+            }
+          ],
+          "MAINHAND": [
+            {
+              "value": {
+                "ITEM": "minecraft:crossbow",
+                "NBT": ""
+              },
+              "weight": 3
+            }
+          ],
+          "LEGS": [],
+          "FEET": [],
+          "OFFHAND": []
+        }
+      }
+    ],
+    "the_vault:dungeon_pillager": [
       {
         "minLevel": 0,
         "slots": {

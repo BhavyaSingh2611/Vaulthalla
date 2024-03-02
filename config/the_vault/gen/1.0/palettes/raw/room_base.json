@@ -30,6 +30,10 @@
         },
         {
             "type": "reference",
+            "id": "the_vault:generic/gate_placeholder"
+        },
+        {
+            "type": "reference",
             "id": "the_vault:generic/spawner_base"
         },
         {

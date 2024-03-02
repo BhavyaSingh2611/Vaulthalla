@@ -42,7 +42,10 @@
       "the_vault:gear/armor/shadow_king",
       "the_vault:gear/armor/druid",
       "the_vault:gear/armor/orc",
-      "the_vault:gear/armor/wither"
+      "the_vault:gear/armor/wither",
+      "the_vault:gear/armor/fox",
+      "the_vault:gear/armor/snow_wolf",
+      "the_vault:gear/armor/wither_wolf"
     ],
     "EPIC": [
       "the_vault:gear/armor/royal_silver",
@@ -53,7 +56,9 @@
       "the_vault:gear/armor/jawbone",
       "the_vault:gear/armor/witch",
       "the_vault:gear/armor/soul_eater",
-      "the_vault:gear/armor/goat"
+      "the_vault:gear/armor/goat",
+      "the_vault:gear/armor/emperor_snow_wolf",
+      "the_vault:gear/armor/emperor_wither_wolf"
 
     ],
     "OMEGA": [
@@ -66,7 +71,7 @@
       "the_vault:gear/armor/bunny_guardian",
       "the_vault:gear/armor/pirate",
       "the_vault:gear/armor/mushroom"
-      
+
     ],
     "UNIQUE": [
       "the_vault:gear/armor/atomatic",
@@ -107,14 +112,20 @@
       "the_vault:gear/armor/sweetheart",
       "the_vault:gear/armor/jester",
       "the_vault:gear/armor/scout",
-      "the_vault:gear/armor/bee_knight"
+      "the_vault:gear/armor/bee_knight",
+      "the_vault:gear/armor/victory",
+      "the_vault:gear/armor/silentfoxxy",
+      "the_vault:gear/armor/guybrush",
+      "the_vault:gear/armor/lupicanis",
+      "the_vault:gear/armor/goldflame",
+      "the_vault:gear/armor/soulflame"
     ]
   },
   "SWORD_MODEL_ROLLS": {
     "SCRAPPY": [
       "the_vault:gear/sword/sword_0",
       "the_vault:gear/sword/sword_2"
-      
+
     ],
     "COMMON": [
       "the_vault:gear/sword/sword_1",
@@ -160,8 +171,9 @@
       "the_vault:gear/sword/glorem_glipsum",
       "the_vault:gear/sword/bamboo",
       "the_vault:gear/sword/idonas_sword",
-      "the_vault:gear/sword/honey_wand"
-      
+      "the_vault:gear/sword/honey_wand",
+      "the_vault:gear/sword/godsword"
+
     ]
   },
   "AXE_MODEL_ROLLS": {
@@ -201,7 +213,8 @@
       "the_vault:gear/axe/tenos_staff",
       "the_vault:gear/axe/idonas_scythe",
       "the_vault:gear/axe/blood_cleaver",
-      "the_vault:gear/axe/last_sight"
+      "the_vault:gear/axe/last_sight",
+      "the_vault:gear/axe/godaxe"
     ]
   },
   "SHIELD_MODEL_ROLLS": {
@@ -219,7 +232,7 @@
       "the_vault:gear/shield/sculk",
       "the_vault:gear/shield/flowah",
       "the_vault:gear/shield/lifebuoy"
-      
+
     ],
     "EPIC": [
       "the_vault:gear/shield/ender",
@@ -238,6 +251,57 @@
       "the_vault:gear/shield/heart_crystal",
       "the_vault:gear/shield/turtle",
       "the_vault:gear/shield/honey_drone"
+    ]
+  },
+  "WAND_MODEL_ROLLS": {
+    "SCRAPPY": [
+      "the_vault:gear/wand/wooden"
+    ],
+    "COMMON": [
+      "the_vault:gear/wand/mage",
+      "the_vault:gear/wand/twig",
+      "the_vault:gear/wand/flower"
+    ],
+    "RARE": [
+      "the_vault:gear/wand/archmage",
+      "the_vault:gear/wand/lunar",
+      "the_vault:gear/wand/lightning",
+      "the_vault:gear/wand/frost"
+    ],
+    "EPIC": [
+      "the_vault:gear/wand/ender",
+      "the_vault:gear/wand/druid",
+      "the_vault:gear/wand/gorgeous"
+    ],
+    "OMEGA": [
+      "the_vault:gear/wand/master",
+      "the_vault:gear/wand/starlight",
+      "the_vault:gear/wand/iskallium",
+      "the_vault:gear/wand/bookofshadows"
+    ],
+    "UNIQUE": [
+      "the_vault:gear/wand/baguette",
+      "the_vault:gear/wand/carrot_on_a_wand",
+      "the_vault:gear/wand/carri_king"
+    ]
+  },
+  "FOCUS_MODEL_ROLLS": {
+    "SCRAPPY": [
+      "the_vault:gear/focus/tatteredtome"
+    ],
+    "COMMON": [
+      "the_vault:gear/focus/grimoire"
+    ],
+    "RARE": [
+      "the_vault:gear/focus/arcanecodex"
+    ],
+    "EPIC": [
+      "the_vault:gear/focus/mysticallexicon"
+    ],
+    "OMEGA": [
+      "the_vault:gear/focus/tomeofknowledge"
+    ],
+    "UNIQUE": [
     ]
   }
 }
